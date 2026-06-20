@@ -8,15 +8,15 @@ nav_order: 7
 
 # Discussion
 
-This page will be updated with discussion Worksheets and Annotations throughout the semester. Recordings will be released periodically and whenever possible. Please allow for 72 hrs for the page to update. 
+This page will be updated with discussion Worksheets and Annotations throughout the semester. Recordings will be released periodically and whenever possible. Please allow for 72 hrs for the page to update.
 
-> Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged. In this case, the worksheets are due **before the next discussion**. All due dates can be found in Gradescope under the assignment. 
+> Discussion worksheets only need to be turned in if you did not attend discussion in-person or if your attendance was not logged. In this case, the worksheets are due **before the next discussion**. All due dates can be found in Gradescope under the assignment.
 
 > A physical and digital copy of the discussion worksheet will be provided. Any physical extras will be left in OH if you need an additional copy.
 
 > Solutions can be worked through or found within the Annotations.
 
-> Please attend Stacey's Office Hours for any discussion related questions!
+> Please attend Nahee's Office Hours for any discussion related questions!
 
 <table>
   <thead>
@@ -85,42 +85,40 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td><!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing"> -->Worksheet 8<!-- </a> --></td>
       <td><!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu"> -->Solutions 8<!-- </a> --></td>
     </tr>
-       <tr>
+    <tr>
       <td>Discussion 9</td>
       <td>7/21</td>
       <td>Intro to Python</td>
       <td><!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link"> -->Worksheet 9<!-- </a> --></td>
       <td><!-- <a href="https://docs.google.com/presentation/d/1mpCMhSejeUjYB6M9Cp6x31Xdm3aAmhhh8MNSwvTc3_g/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0"> -->Annotations 9<!-- </a> --></td>
     </tr>
-          <tr>
+    <tr>
       <td>Discussion 10</td>
       <td>7/23</td>
       <td>Python Practice and Data Structures</td>
       <td><!-- <a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing"> -->Worksheet 10<!-- </a> --></td>
       <td><!-- <a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0"> -->Annotations 10<!-- </a> --></td>
     </tr>
-      </tr>
-       <tr>
+    <tr>
       <td>Discussion 11</td>
       <td>7/28</td>
       <td>Object Oriented Programming</td>
       <td><!-- <a href="https://drive.google.com/drive/folders/1KUh8Qp8OP0gak5qvMG87OfL-GzGAc286?usp=drive_link"> -->Worksheet 11<!-- </a> --></td>
       <td><!-- <a href="https://docs.google.com/presentation/d/1e5MoKKdTqdoKqGlHKH4THgdn905KEhTDPfbzMDFw9fY/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0"> -->Annotations 11<!-- </a> --></td>
     </tr>
-          <tr>
+    <tr>
       <td>Discussion 12</td>
       <td>7/30</td>
       <td>Recursion + Quiz 3 Practice</td>
       <td><!-- <a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing"> -->Worksheet 12<!-- </a> --></td>
       <td><!-- <a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63"> -->Annotations 12<!-- </a> --></td>
     </tr>
-    </tr>
-          <tr>
+    <tr>
       <td>Discussion 13</td>
       <td>8/4</td>
       <td><strong>Project 4 Presentations</strong></td>
       <td>-</td>
-      <td>-</a></td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
