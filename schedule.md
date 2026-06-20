@@ -59,7 +59,7 @@
     </tr>
     <tr><td>Tue 6/30</td><td>HOFs</td><td>Lab 4: Lists &amp; HOFs</td><td>Discussion 3</td><td>Project 2 Released</td></tr>
     <tr><td>Wed 7/1</td><td>Functions as Data + Lambdas</td><td>Lab: Quest 1 Review</td><td></td><td></td></tr>
-    <tr><td>Thu 7/2</td><td>Quest 1 (4–7 pm)</td><td></td><td></td><td></td></tr>
+    <tr><td>Thu 7/2</td><td>Quiz 1 (4–7 pm)</td><td></td><td></td><td></td></tr>
     <tr><td>Fri 7/3</td><td></td><td></td><td></td><td></td></tr>
   </tbody>
 </table>
@@ -106,8 +106,8 @@
       <td>Mon 7/13</td><td>Data Science</td><td>Lab 8: Algorithms (Binary) / Algorithmic Complexity</td><td></td><td>Project Party</td>
     </tr>
     <tr><td>Tue 7/14</td><td>AI + ML + LLMs</td><td>Lab 9: Data Science</td><td>Discussion 7</td><td></td></tr>
-    <tr><td>Wed 7/15</td><td>Social Implications</td><td>Midterm Review: Pre Quiz 1, HOFs, Nested Lists</td><td></td><td></td></tr>
-    <tr><td>Thu 7/16</td><td>Quiz 2 Review</td><td>Midterm Review: Recursion, Algorithmic Complexity</td><td>Discussion 8</td><td></td></tr>
+    <tr><td>Wed 7/15</td><td>Social Implications</td><td>Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists</td><td></td><td></td></tr>
+    <tr><td>Thu 7/16</td><td>Quiz 2 Review</td><td>Quiz 2 Review: Recursion, Algorithmic Complexity</td><td>Discussion 8</td><td></td></tr>
     <tr><td>Fri 7/17</td><td></td><td></td><td></td><td></td></tr>
   </tbody>
 </table>
@@ -132,7 +132,7 @@
     <tr><td>Tue 7/21</td><td>Splicing + Mutability + Lists + List Comprehension</td><td>Lab 11: Intro</td><td>Discussion 9</td><td>Project 4 Released</td></tr>
     <tr><td>Wed 7/22</td><td>Data Structures (Dictionaries + Tuples)</td><td>Lab 12: Lists + Mutability</td><td></td><td></td></tr>
     <tr><td>Thu 7/23</td><td>OOP 1</td><td>Lab 13: Data Structures</td><td>Discussion 10</td><td></td></tr>
-    <tr><td>Fri 7/24</td><td></td><td></td><td></td><td>Final Project Proposal Released<br/>Midterm (2–6 pm)</td></tr>
+    <tr><td>Fri 7/24</td><td></td><td></td><td></td><td>Final Project Proposal Released<br/>Quiz 2 (2–6 pm)</td></tr>
   </tbody>
 </table>
 
@@ -156,7 +156,7 @@
     <tr><td>Tue 7/28</td><td>Recursion in Python</td><td>Lab 15: Advanced OOP</td><td>Discussion 11</td><td>Final Project Released</td></tr>
     <tr><td>Wed 7/29</td><td>Tree Recursion</td><td>Lab 16: Recursion</td><td></td><td></td></tr>
     <tr><td>Thu 7/30</td><td>Quiz 3 Questions</td><td>Quiz 3</td><td>Discussion 12</td><td></td></tr>
-    <tr><td>Fri 7/31</td><td></td><td></td><td></td><td>Midterm Retake (2–6 pm)</td></tr>
+    <tr><td>Fri 7/31</td><td></td><td></td><td></td><td>Quiz 2 Retake (2–6 pm)</td></tr>
   </tbody>
 </table>
 
