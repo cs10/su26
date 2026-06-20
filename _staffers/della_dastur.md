@@ -1,7 +1,8 @@
 ---
 name: Della Dastur
 role: Instructor
-photo: della_dastur.jpg
+email: dbdastur@
+photo: della_dastur.jpeg
 pronouns: she/her
 access_email: true
 access_dsp: true
