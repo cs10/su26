@@ -98,16 +98,16 @@
     <tr>
       <td>Wed 7/1</td>
       <td>Lec 7: Functions as Data + Lambdas</td>
-      <td>Lab: Quest 1 Review</td>
+      <td>Quest 1 Review</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Thu 7/2</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>Quiz 1 (4–7 pm)</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Fri 7/3</td>
@@ -218,7 +218,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Quiz 2 (2–6 pm)</td>
     </tr>
   </tbody>
 </table>
@@ -270,7 +270,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Final Project Proposal Released<br/>Quiz 2 (2–6 pm)</td>
+      <td>Final Project Proposal Released<br/>Quiz 2 Retake (2–6 pm)</td>
     </tr>
   </tbody>
 </table>
@@ -322,7 +322,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Quiz 2 Retake (2–6 pm)</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
