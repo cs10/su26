@@ -31,12 +31,12 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 1</td>
-      <td>Mon 6/22</td><td></td><td></td><td></td><td></td>
+      <td>Mon 6/22</td><td>Logistics + Abstraction</td><td></td><td></td><td></td>
     </tr>
-    <tr><td>Tue 6/23</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 6/24</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 6/25</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Fri 6/26</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 6/23</td><td>Functions + Conditional Logic</td><td>Lab 0: Welcome to Snap!</td><td>Discussion 1</td><td>Project 1 Released</td></tr>
+    <tr><td>Wed 6/24</td><td>Abstraction II: Number Representation</td><td>Lab 1: BYOB</td><td></td><td></td></tr>
+    <tr><td>Thu 6/25</td><td>Boolean Expressions, Variables, Iteration</td><td>Lab 2: Conditionals</td><td>Discussion 2</td><td></td></tr>
+    <tr><td>Fri 6/26</td><td></td><td></td><td></td><td>Project Party</td></tr>
   </tbody>
 </table>
 
@@ -55,11 +55,11 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 2</td>
-      <td>Mon 6/29</td><td></td><td></td><td></td><td></td>
+      <td>Mon 6/29</td><td>Iteration Practice + Lists</td><td>Lab 3: Lists + Loops</td><td></td><td>Project Party + Project 1 Due</td>
     </tr>
-    <tr><td>Tue 6/30</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 7/1</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 7/2</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 6/30</td><td>HOFs</td><td>Lab 4: Lists &amp; HOFs</td><td>Discussion 3</td><td>Project 2 Released</td></tr>
+    <tr><td>Wed 7/1</td><td>Functions as Data + Lambdas</td><td>Lab: Quest 1 Review</td><td></td><td></td></tr>
+    <tr><td>Thu 7/2</td><td>Quest 1 (4–7 pm)</td><td></td><td></td><td></td></tr>
     <tr><td>Fri 7/3</td><td></td><td></td><td></td><td></td></tr>
   </tbody>
 </table>
@@ -79,12 +79,12 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 3</td>
-      <td>Mon 7/6</td><td></td><td></td><td></td><td></td>
+      <td>Mon 7/6</td><td>Nested Lists + Functional Recursion</td><td>Lab 5: HOFs as Data</td><td></td><td>Project Party</td>
     </tr>
-    <tr><td>Tue 7/7</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 7/8</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 7/9</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Fri 7/10</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 7/7</td><td>Linear Recursion</td><td>Lab 6: Boards</td><td>Discussion 5</td><td></td></tr>
+    <tr><td>Wed 7/8</td><td>Fractal/Tree Recursion</td><td>Lab 7: Recursive Reporters</td><td></td><td>Project 2 Due</td></tr>
+    <tr><td>Thu 7/9</td><td>Algorithms/Algorithmic Complexity</td><td>Lab 9: Fractals</td><td>Discussion 6</td><td>Project 3 Released</td></tr>
+    <tr><td>Fri 7/10</td><td></td><td></td><td></td><td>Project Party 3<br/>Quest 1 Retake (3–6 pm)</td></tr>
   </tbody>
 </table>
 
@@ -103,11 +103,11 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 4</td>
-      <td>Mon 7/13</td><td></td><td></td><td></td><td></td>
+      <td>Mon 7/13</td><td>Data Science</td><td>Lab 8: Algorithms (Binary) / Algorithmic Complexity</td><td></td><td>Project Party</td>
     </tr>
-    <tr><td>Tue 7/14</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 7/15</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 7/16</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 7/14</td><td>AI + ML + LLMs</td><td>Lab 9: Data Science</td><td>Discussion 7</td><td></td></tr>
+    <tr><td>Wed 7/15</td><td>Social Implications</td><td>Midterm Review: Pre Quiz 1, HOFs, Nested Lists</td><td></td><td></td></tr>
+    <tr><td>Thu 7/16</td><td>Quiz 2 Review</td><td>Midterm Review: Recursion, Algorithmic Complexity</td><td>Discussion 8</td><td></td></tr>
     <tr><td>Fri 7/17</td><td></td><td></td><td></td><td></td></tr>
   </tbody>
 </table>
@@ -127,12 +127,12 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 5</td>
-      <td>Mon 7/20</td><td></td><td></td><td></td><td></td>
+      <td>Mon 7/20</td><td>Intro to Python + Data Types</td><td>Lab 10: Python Setup + Intro Python</td><td></td><td>Project Party + Project 3 Due</td>
     </tr>
-    <tr><td>Tue 7/21</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 7/22</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 7/23</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Fri 7/24</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 7/21</td><td>Splicing + Mutability + Lists + List Comprehension</td><td>Lab 11: Intro</td><td>Discussion 9</td><td>Project 4 Released</td></tr>
+    <tr><td>Wed 7/22</td><td>Data Structures (Dictionaries + Tuples)</td><td>Lab 12: Lists + Mutability</td><td></td><td></td></tr>
+    <tr><td>Thu 7/23</td><td>OOP 1</td><td>Lab 13: Data Structures</td><td>Discussion 10</td><td></td></tr>
+    <tr><td>Fri 7/24</td><td></td><td></td><td></td><td>Final Project Proposal Released<br/>Midterm (2–6 pm)</td></tr>
   </tbody>
 </table>
 
@@ -151,12 +151,12 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 6</td>
-      <td>Mon 7/27</td><td></td><td></td><td></td><td></td>
+      <td>Mon 7/27</td><td>OOP 2</td><td>Lab 14: Text Processing Lab</td><td></td><td></td>
     </tr>
-    <tr><td>Tue 7/28</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 7/29</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 7/30</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Fri 7/31</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 7/28</td><td>Recursion in Python</td><td>Lab 15: Advanced OOP</td><td>Discussion 11</td><td>Final Project Released</td></tr>
+    <tr><td>Wed 7/29</td><td>Tree Recursion</td><td>Lab 16: Recursion</td><td></td><td></td></tr>
+    <tr><td>Thu 7/30</td><td>Quiz 3 Questions</td><td>Quiz 3</td><td>Discussion 12</td><td></td></tr>
+    <tr><td>Fri 7/31</td><td></td><td></td><td></td><td>Midterm Retake (2–6 pm)</td></tr>
   </tbody>
 </table>
 
@@ -175,12 +175,12 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 7</td>
-      <td>Mon 8/3</td><td></td><td></td><td></td><td></td>
+      <td>Mon 8/3</td><td>Concurrency + Parallelism</td><td>Lab 17: Tree Recursion</td><td></td><td>Project 4 Due<br/>Final Project Proposals Due</td>
     </tr>
-    <tr><td>Tue 8/4</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 8/5</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 8/6</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Fri 8/7</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 8/4</td><td>Final Exam Review</td><td>Lab 18: Concurrency</td><td>Discussion 13: Project 4 Presentations</td><td></td></tr>
+    <tr><td>Wed 8/5</td><td>Finale + Farewell</td><td>Final Project Proposal Meetings</td><td></td><td></td></tr>
+    <tr><td>Thu 8/6</td><td>No Lecture</td><td>Final Project Proposal Meetings</td><td>No Discussion</td><td></td></tr>
+    <tr><td>Fri 8/7</td><td></td><td></td><td></td><td>Project 4 Comments Due<br/>Quiz 3 (2–6 pm)</td></tr>
   </tbody>
 </table>
 
@@ -199,11 +199,11 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 8</td>
-      <td>Mon 8/10</td><td></td><td></td><td></td><td></td>
+      <td>Mon 8/10</td><td>No Lecture</td><td>Project Party</td><td></td><td></td>
     </tr>
-    <tr><td>Tue 8/11</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Wed 8/12</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Thu 8/13</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>Fri 8/14</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>Tue 8/11</td><td>No Lecture</td><td>Project Party</td><td>No Discussion</td><td></td></tr>
+    <tr><td>Wed 8/12</td><td>No Lecture</td><td>Project Party</td><td></td><td>Quiz 3 Retake (2–6 pm)</td></tr>
+    <tr><td>Thu 8/13</td><td>No Lecture</td><td>No Lab</td><td>No Discussion</td><td>Final Project Due</td></tr>
+    <tr><td>Fri 8/14</td><td>No Lecture</td><td>No Lab</td><td></td><td></td></tr>
   </tbody>
 </table>
