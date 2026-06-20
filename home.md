@@ -9,6 +9,10 @@ seo:
 nav_order: 1
 ---
 
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
+  ⚠️ <strong>Note:</strong> This page is still under construction. Information may be incomplete or missing.
+</div>
+
 # **CS 10: The Beauty and Joy of Computing**
 
 UC Berkeley, Summer 2026
