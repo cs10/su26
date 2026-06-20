@@ -19,28 +19,13 @@ UC Berkeley, Summer 2026
 
 {{ site.description }}
 
-**Instructor:** [Della Dastur](staff/#della-dastur) 
-**Office Hours:** TBD
+**Instructor:** [Della Dastur](staff/#della-dastur)  
+**Office Hours:** TBD  
+**Lectures:** Mon Tue Wed Thu @ 4:00–4:59 PM in Cory 540AB  
+**Labs:** Mon Tue Wed Thu @ 6:00–8:00 PM in Cory 540AB  
+**Discussion:** Tue Thu @ 8:00–9:00 PM in Cory 540AB  
+**OH Queue:** [oh.cs10.org](https://oh.cs10.org)  
 
-**Lecture:**  
-
-- **Days:** Mon Tue Wed Thu  
-- **Time:** 4:00 PM–4:59 PM  
-- **Location:** Cory 540AB
-
-**Lab Sections:**  
-
-- **Days:** Mon Tue Wed Thu  
-- **Times:** 6:00 PM–8:00 PM  
-- **Location:** Cory 540AB
-
-**Discussion Sections:**  
-
-- **Days:** Tue Thu  
-- **Times:** 8:00 PM–9:00 PM
-- **Location:** Cory 540AB
-
-<!-- **[CS 10 Attendance Form (LINK TBD)]**  -->
 
   
 
