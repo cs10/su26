@@ -24,11 +24,7 @@ UC Berkeley, Summer 2026
 **Lectures:** Mon Tue Wed Thu @ 4:00–4:59 PM in Cory 540AB  
 **Labs:** Mon Tue Wed Thu @ 6:00–8:00 PM in Cory 540AB  
 **Discussion:** Tue Thu @ 8:00–9:00 PM in Cory 540AB  
-**OH Queue:** [oh.cs10.org](https://oh.cs10.org)  
-
-
-  
-
+**OH Queue:** [oh.cs10.org](https://oh.cs10.org)
 
 {% include youtube.html id='oG1OItm4JyU' %}
 
