@@ -78,7 +78,7 @@ Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each 
 
 <b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 3 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 3 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 3 "skip days" for lab sections only applies to attendance (although you do have 2 drops). You are still required to complete and submit the lab assignment. Lab attendance will be tracked through Google Forms.
 
-If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 10 AM or 12 PM (the time before the lab section). If you do so, this will not use one of your lab attendance drops.
+If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 6 PM (the time before the lab section). If you do so, this will not use one of your lab attendance drops.
 
 ### Discussion Sections
 
