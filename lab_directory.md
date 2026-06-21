@@ -9,7 +9,7 @@ nav_order: 8
 
 Supplementary Lab Slides can be found in this <!-- [folder](https://drive.google.com/drive/folders/1Hoxs9rcVy3Gh4F1ze6SyTOwq2cpjJMgh?usp=drive_link) -->folder.
 
-> Labs are an opportunity to apply what you've learned in lecture through coding and other formats. Each lab includes both conceptual and coding components. Lab assignments must be uploaded and autograded on Gradescope. Practice exams—specifically the Practice Midterm and the Practice Postterm—also count toward your lab grade. To receive credit, you must complete both the coding and non-coding portions. Credit for these practice exams is based on completion, not your score.
+> Labs are an opportunity to apply what you've learned in lecture through coding and other formats. Each lab includes both conceptual and coding components. Lab assignments must be uploaded and autograded on Gradescope. Quiz Reviews—specifically the Quiz 1 Review and the two Quiz 2 Reviews—also count toward your lab grade. To receive credit, you must complete both the coding and non-coding portions (unless otherwise specified). Credit for these practice quizzes is based on completion, not your score.
 
 > The labs linked below provide high-level overviews and serve as instructions for each lab. They list all required blocks, functions, and tasks, and include some of the test cases used for grading.
 
@@ -25,7 +25,7 @@ Supplementary Lab Slides can be found in this <!-- [folder](https://drive.google
 | Lab 2. Conditionals, Reporters, & Abstraction | Thu 6/25 | Mon 6/29 |
 | Lab 3. Lists and Loops (Iteration) | Mon 6/29 | Tue 6/30 |
 | Lab 4. Lists & HOFs | Tue 6/30 | Wed 7/1 |
-| Quest 1 Review | Wed 7/1 | Mon 7/6 |
+| Quiz 1 Review | Wed 7/1 | Mon 7/6 |
 | Lab 5. HOFs and Functions as Data | Mon 7/6 | Tue 7/7 |
 | Lab 6. Boards | Tue 7/7 | Wed 7/8 |
 | Lab 7. Recursive Reports (Linear Recursion) | Wed 7/8 | Thu 7/9 |
