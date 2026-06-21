@@ -166,7 +166,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Project Party 3<br/><b>Quest 1 Retake (3–6 pm)</b></td>
+      <td>Project Party 3<br/><b>Quiz 1 Retake (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>

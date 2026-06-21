@@ -39,10 +39,10 @@ We’re really excited to have you on board with us this semester for a gentle, 
 This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported. However, there are make-up options for lecture, lab, and discussion attendance. 
 
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su25/schedule/) to find the times/locations for all synchronous course engagements.
-* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/79923/discussion)
-* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1057248).
-* **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1545431), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su26/schedule/) to find the times/locations for all synchronous course engagements.
+* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](Link TBD)
+* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](Link TBD).
+* **Bcourses**: Lecture recordings can be found on [the Bcourses site](Link TBD), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 <!-- * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website. -->
 
@@ -57,7 +57,7 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 ### Lecture 
 
-Lectures will be live and in-person in [GPBB 100](https://www.google.com/maps?rlz=1C5CHFA_enUS954US954&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyMGowajeoAgCwAgA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KcUcHpogfIWAMVSVWZ-nteEI&daddr=Genetics+%26+Plant+Biology,+Berkeley,+CA+94720) Monday through Thursday from 4:00 - 5:00 PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
+Lectures will be live and in-person in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00 - 5:00 PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
 
 Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. 
 
@@ -84,7 +84,7 @@ If you cannot attend a lab section, then the lab will be due before the start of
 
 Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Soda Hall, Room 320. 
 
-Discussion attendance is mandatory. You can miss up to 3 discussion sections without penalty so you do not need to inform us when you cannot attend discussion. If there are extenuating circumstances which cause you to miss more than 3 discussion sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Discussion attendance will be tracked through Google Forms. However, if you miss a discussion section, you ca complete the discussion worksheet and submit it to the [attendance form](https://docs.google.com/forms/d/e/1FAIpQLSdXUTj1LRkfECwDnsCt6hldAX4v6-jjH0awBnsi_mnaH2qx8g/viewform?usp=dialog) by the day of the next discussion section at 11:59 PM in order to count for attendance. So, if Discussion X is due when Discussion X + 1 is released. If you attend the discussion section, all you need to do is fill out the attendance form -- no need to submit the completed worksheet.
+Discussion attendance is mandatory. You can miss up to 3 discussion sections without penalty so you do not need to inform us when you cannot attend discussion. If there are extenuating circumstances which cause you to miss more than 3 discussion sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Discussion attendance will be tracked through Google Forms. However, if you miss a discussion section, you can complete the discussion worksheet and submit it to the [attendance form](Link TBD) by the day of the next discussion section at 11:59 PM in order to count for attendance. So, if Discussion X is due when Discussion X + 1 is released. If you attend the discussion section, all you need to do is fill out the attendance form -- no need to submit the completed worksheet.
 
 From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
@@ -98,11 +98,13 @@ General OH is intended for any course and content related questions. Here, you c
 
 #### Support OH 
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out [this calendar](https://calendar.google.com/calendar/embed?src=c_94c8bd6e6c4ddbca139c743e3cdf7c27d6da5a7f3ae8452d9452d4e6ca72ea88%40group.calendar.google.com&ctz=America%2FLos_Angeles) for locations and times.
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out [this calendar](https://calendar.google.com/calendar/embed?src=c_394fd1a82ccefda86992ddedeec7b7c4741b41cfad0972c259502943e07a5d87%40group.calendar.google.com&ctz=America%2FLos_Angeles) for locations and times.
 
 #### Instructor OH 
 
-Jedi will be hosting Instructor OH (5 to 6 PM on Tuesday, Wednesday, and Thursday), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
+Coming soon!
+
+<!-- Jedi will be hosting Instructor OH (5 to 6 PM on Tuesday, Wednesday, and Thursday), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH. -->
 
 ### Projects 
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the course.
@@ -112,15 +114,16 @@ These assignments will be one of the best ways for you to apply what you have le
 ## Projects and Deadlines
 
 
-| Project                                       |  Submission Deadline     |
-| :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | Mon 6/30 |
-| Project 2: Spelling-Bee                       | Mon 7/7  |
-| Project 3: 2048                               | Mon 7/14 |
-| Project 4: Artifact + Documentation     | Mon 8/4 |
-| Project 4: Peer Feedback + Comments   | Fri 8/8 |
-| Project 5: Final Project Proposals            | Mon 8/4  |
-| Project 5: Final Project                      | Thu 8/14  |
+| Project                            | Submission Deadline      |
+| :----:                             | :----:                   |
+| Project 1: Wordle™-lite            | Mon 6/29                 |
+| Project 2: Spelling Bee            | Wed 7/8                  |
+| Project 3: 2048                    | Mon 7/20                 |
+| Project 4: Tech in Context         | Mon 8/3                  |
+| Project 4: Presentations           | Tue 8/4 (in Discussion)  |
+| Project 4: Feedback + Comments     | Fri 8/7                  |
+| Project 5: Final Project Proposals | Mon 8/3                  |
+| Project 5: Final Project           | Thu 8/13                 |
 
 **All deadlines are at 11:59PM.**
 
@@ -136,16 +139,18 @@ There will be three quizzes (each quiz is cumulative):
 - Quiz 2
 - Quiz 3
 
-| Exam             | When  |  
-| :----:           | :----:   |
-| Quiz 1          | Thu 7/3 in GPB 100 4 - 5 PM | 
-| Quiz 1 Second Chance          | Fri 7/11 in GPB 100 4 - 5 PM  | 
-| Quiz 2         | Fri 7/18 in GPB 100 4 - 6 PM | 
-| Quiz 2 Second Chance        | Fri 7/18 in GPB 100 4 - 6 PM | 
-| Quiz 3       | Fri 8/1 in GPB 100 4 - 7 PM | 
-| Quiz 3 Second Chance      | Fri 8/8 in GPB 100 4 - 7 PM |
+| Exam           | When                            |
+| :----:         | :----:                          |
+| Quiz 1         | Thu 7/2 in Cory 540AB 4–7 PM    |
+| Quiz 1 Retake  | Fri 7/10 in Cory 540AB 3–6 PM   |
+| Quiz 2         | Fri 7/17 in Cory 540AB 2–6 PM   |
+| Quiz 2 Retake  | Fri 7/24 in Cory 540AB 2–6 PM   |
+| Quiz 3         | Fri 8/7 in Cory 540AB 2–6 PM    |
+| Quiz 3 Retake  | Wed 8/12 in Cory 540AB 2–6 PM   |
 
 The second chance quizzes are designed for you to demonstrate your understanding of the material without all the pressure riding on one exam.
+
+Don't be intimidated by the long exam window — quizzes are designed to be completed well within the allotted time. You are welcome to use the full duration, but most students finish early.
 
 If you are an incomplete student, Quiz 1 maps to the Quest, Quiz 2 maps to the midterm, and Quiz 3 maps to the postterm. You may not take the second chance quiz if you are an incomplete student.
 
@@ -159,54 +164,57 @@ To be clear, what this means is that if you get a full score on Quiz 3, you also
 ### General Grading Breakdown — Percentages
 
 
-| Component                                     |  Percentage Weighting  |
-| :----:                                        |  :----:  |
-| Attendance / Participation                    | 10%    |
-| Labs                                          | 15%      |
-| Projects                                      | 35%   |
-| Quiz 1                                         | 10%    |
-| Quiz 2                                       | 15%    |
-| Quiz 3                                      | 15%   |
+| Component                  | Percentage Weighting |
+| :----:                     | :----:               |
+| Attendance / Participation | 10%                  |
+| Labs                       | 15%                  |
+| Projects                   | 35%                  |
+| Quiz 1                     | 10%                  |
+| Quiz 2                     | 15%                  |
+| Quiz 3                     | 15%                  |
 
 ### Specific Grading Breakdown — Points
 
+<!-- NOTE: Lab points are normalized since Spring 2026, so individual lab point values need to be scaled to sum to 60. -->
 
-| Component                                     |  Points  |
-| :----:                                        |  :----:  |
-| Quiz 1                                         | 40       |
-| Quiz 2                                       | 60       |
-| Quiz 3                                      | 60       |
-| Project 1: Wordle™-lite                       | 10       |
-| Project 2: Spelling-Bee                       | 25       |
-| Project 3: 2048                               | 30       |
-| Project 4: Explore                            | 15       |
-| Final Project                                 | 60       |
-| Labs                                          | 60       |
-| Attendance / Participation                    | 40       |
+| Component                  | Points |
+| :----:                     | :----: |
+| Quiz 1                     | 40     |
+| Quiz 2                     | 60     |
+| Quiz 3                     | 60     |
+| Project 1: Wordle™-lite    | 10     |
+| Project 2: Spelling Bee    | 25     |
+| Project 3: 2048            | 30     |
+| Project 4: Tech in Context | 15     |
+| Final Project              | 60     |
+| Labs                       | 60     |
+| Attendance / Participation | 40     |
 
 **Total: 400 Points**
 
 ### Grading Bins
 
-| Letter Grade       |    Range                          |
-| :----:             |    :----:                         |
-| A+                 |    390-400                        |
-| A                  |    370-390                        |
-| A-                 |    360-370                        |
-| B+                 |    350-360                        |
-| B                  |    330-350                        |
-| B-                 |    320-330                        |
-| C+                 |    310-320                        |
-| C                  |    300-310                        |
-| C-                 |    290-300                        |
-| D                  |    250-290                        |
-| F                  |    0-250                          |
+| Letter Grade | Range   |
+| :----:       | :----:  |
+| A+           | 390–400 |
+| A            | 370–390 |
+| A-           | 360–370 |
+| B+           | 350–360 |
+| B            | 330–350 |
+| B-           | 320–330 |
+| C+           | 310–320 |
+| C            | 300–310 |
+| C-           | 290–300 |
+| D            | 250–290 |
+| F            | 0–250   |
 
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0. We will not shift the bins / curve the class / ooch or round your grade beyond the listed rounding scheme, so please don't ask.
 
 ## Extension Requests
 
-For all extension requests on any assignment, please use the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEcpevvJRSTWw69FjaZtKUSPCjbcScPWUI_kIoNVqbbrCQqA/viewform?usp=dialog).
+<!-- For all extension requests on any assignment, please use the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEcpevvJRSTWw69FjaZtKUSPCjbcScPWUI_kIoNVqbbrCQqA/viewform?usp=dialog). -->
+
+For all extension requests on any assignment, please use the [Extension Request Form](Link TBD).
 
 You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 48h after the original deadline.
 
@@ -230,7 +238,6 @@ The policy for project extension requests on projects are as follows:
 
 - An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on THU 6/26, it is now due on 7/01. 
 
-
 ## Lateness Penalties
 
 Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms.
@@ -239,7 +246,7 @@ If, after exhausting the initial extension, you still need more time — please
 
 ## DSP Accommodations
 
-If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to Jedi [jedidiahtsang@](mailto:jedidiahtsang@berkeley.edu).
+If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to Della [dbdastur@](mailto:dbdastur@berkeley.edu).
 
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.
 
