@@ -5,11 +5,6 @@ description: Q/A, Late Add
 nav_order: 10
 ---
 
-<!--
-  TODO: Add Late-add Google Form link (line 19)
-  TODO: Add deadline tracker link (line 26)
--->
-
 # Joining CS 10 Late – What You Need to Know
 
 ### Can I still catch up?  
@@ -23,7 +18,7 @@ nav_order: 10
 **No**, you won’t be penalized for assignments due before you joined. In fact, you will receive a new set of deadlines according to the date you join. Lecture attendance for past lectures will be waived.
 
 ### Will deadlines be adjusted for me?  
-**Yes**, assignments based on the week you join and past work will be adjusted. A deadline tracker with adjusted due dates can be found HERE (Link TBD). Note you must be logged into your UC Berkeley account. 
+**Yes**, your deadlines for the past assignments will be adjusted based on the date you joined. You can view and follow the adjusted due dates in the **[Late Add Deadline Tracker](https://docs.google.com/spreadsheets/d/1-2Y5ME2oO_OzibNXuwSTckhDfHSP9pphzrpIOfOVC-Q/edit?usp=sharing)**. Note you must be logged into your UC Berkeley account. 
 
 ### Do I still need to take the first exam?  
 **Yes**, all students are required to take the first exam: Quiz 1. Other exam policies can be found in our [syllabus](https://cs10.org/su26/syllabus/#exams)!
