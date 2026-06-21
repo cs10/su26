@@ -5,6 +5,10 @@ description: Logistics about resolving your Incomplete grade
 nav_order: 11
 ---
 
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
+  ⚠️ <strong>Note:</strong> This page is still under construction. Information is likely incorrect or missing. For urgent requests regarding incomplete grade, please email the Head TA (naheejeong@berkeley.edu)
+</div>
+
 # Resolving Your Incomplete / Continuing Work Grade
 
 This page outlines the logistics of resolving your grade and includes key next steps, policies, and the forms you need to complete.
@@ -15,7 +19,7 @@ This page outlines the logistics of resolving your grade and includes key next s
 
 You’ll need to be manually enrolled into course platforms like **bCourses, Gradescope, PrairieLearn**, and **EdStem**.  
 
-To get started, please enroll yourself in our [EdStem forum](https://edstem.org/us/join/MZFuQN) and complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8).  
+To get started, please enroll yourself in our EdStem forum (Link TBD) and complete the Incomplete Summer 2026 Registration Form (Link TBD).
 
 **Completing this form is required** in order to resolve your incomplete this summer.
 
@@ -25,10 +29,10 @@ We’re here to support you — once you fill out the form, we’ll work with yo
 
 ## Who should I contact if I have questions?
 
-Your main point of contact for the summer is **Stacey Yoo**.  
+Your main point of contact for the summer is **Nahee Jeong**.  
 The best ways to reach staff are:
 - Posting on **EdStem**
-- Attending **Support Office Hours** (listed on the [calendar](https://cs10.org/su25/calendar/))
+- Attending **Support Office Hours** (listed on the [calendar](https://cs10.org/su26/calendar/))
 
 For questions specific to incompletes, you can also email **cs10@berkeley.edu**, but response times will be slower by email.
 
@@ -36,17 +40,17 @@ For questions specific to incompletes, you can also email **cs10@berkeley.edu**,
 
 ## How can I get a list of assignments I need to complete?
 
-If this is your first time resolving an incomplete, please complete the [Incomplete Summer 2025 Registration Form](https://forms.gle/eqk8AQuTk55r8nyz8) with as much information as possible.
+If this is your first time resolving an incomplete, please complete the Incomplete Summer 2026 Registration Form (Link TBD) with as much information as possible.
 
 After submitting the form, you can:
 - Make a post on EdStem  
-- Visit Stacey's office hours (messaging ahead of time is recommended) 
+- Visit Nahee's office hours (emailing ahead of time is recommended) 
 
 We will review your current grade and confirm which assignments are missing or incomplete. Once confirmed, you’ll be granted access to a folder containing the relevant past assignment specifications and instructions.
 
-If this is your first time resolving an incomplete, we recommend completing the most updated versions of labs and projects and submitting them to the Summer 2025 (Incomplete) Gradescope.
+If this is your first time resolving an incomplete, we recommend completing the most updated versions of labs and projects and submitting them to the Summer 2026 (Incomplete) Gradescope.
 - If your original semester used autograders for labs or projects, you may instead submit to the original Gradescope for credit.
--If your original semester did not use autograders, you will need to submit your labs on Gradescope and provide that link in your submission (see below for more details).
+- If your original semester did not use autograders, you will need to submit your labs on Gradescope and provide that link in your submission (see below for more details).
 
 All submitted work will be graded using the rubric and expectations from the semester you originally took the course. This ensures consistency and fairness in evaluating your completed work.
 
@@ -56,22 +60,22 @@ All submitted work will be graded using the rubric and expectations from the sem
 
 To ensure your submissions are recorded and reviewed, follow the steps below:
 
-- **Gradescope**: Use entry code: PG6DVX on [Gradescope](https://www.gradescope.com/) to access the *CS10 Summer 2025 Gradescope instance* (recommended) to submit:
+- **Gradescope**: Use entry code: (Code TBD) on Gradescope (Link TBD) to access the *CS10 Summer 2026 Gradescope instance* (recommended) to submit:
   - Projects 1–4 and the Final Project  
-  - Reading Quizzes and Lecture Quizzes (by request) 
+  - Reading Quizzes and Lecture Quizzes (by request)
   - Labs  
   - Coding portions of exams (if applicable)
 
-- **PrairieLearn**: Use the *CS10 Summer 2025 PrairieLearn instance* to complete:
+- **PrairieLearn**: Use the *CS10 Summer 2026 PrairieLearn instance* to complete:
   - Pyturis (if applicable)
 
-- **Exams**: All exams will be taken **in person** this semester. Dates are listed on the [syllabus](https://cs10.org/su25/syllabus/#exams).  
+- **Exams**: All exams will be taken **in person** this semester. Dates are listed on the [syllabus](https://cs10.org/su26/syllabus/#exams).  
   - Quiz 1 = Quest  
   - Quiz 2 = Midterm  
   - Quiz 3 = Postterm  
   - ❗ *Incomplete students may not take second-chance quizzes*
 
-- **Google Form**: You must also submit **each assignment** using this [Incomplete Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdIybFptR341_2JzOh0v0Gs3m-om3KSNcxHHBLXsynuzFQtAg/viewform?usp=header) so we can update your gradebook.
+- **Google Form**: You must also submit **each assignment** using this Incomplete Submission Form(Link TBD) so we can update your gradebook.
 - Please submit the form **every time** you submit or resubmit an assignment.
 - After an exam, use the same form to confirm your completion.
 
@@ -80,7 +84,7 @@ To ensure your submissions are recorded and reviewed, follow the steps below:
 - Labs, projects, and quizzes may be **renumbered** or revised. Use `cs10.org/(your semester)` to check the correct versions.
 - [Fa22](https://cs10.org/fa22/), [Sp23](https://cs10.org/sp23/), [Su23](https://cs10.org/su23/), [Fa23](https://cs10.org/fa23/), [Sp24](https://cs10.org/sp24/), [Su24](https://cs10.org/su24/), [Fa24](https://cs10.org/fa24/), [Sp25](https://cs10.org/sp25/)
 - Please note that some old specs may be locked. These lab and project specs can be found in the Incomplete Resource folder that is shared with you. If you are unshare of where to find past assignments or if one is missing please let staff know. 
-- Submit a **[separate Google Form submission](https://docs.google.com/forms/d/e/1FAIpQLSdIybFptR341_2JzOh0v0Gs3m-om3KSNcxHHBLXsynuzFQtAg/viewform?usp=header)** for **each** assignment.
+- Submit a **separate Google Form submission (Link TBD)** for **each** assignment.
 
 ---
 
@@ -97,7 +101,7 @@ As an Incomplete or Continuing Work student, you may only take the **first offer
 
 You are **not eligible** for retake or second-chance exams.
 
-Check the [syllabus](https://cs10.org/su25/syllabus/#exams) for dates.  
+Check the [syllabus](https://cs10.org/su26/syllabus/#exams) for dates.  
 If you have an emergency or need to request an alternate exam time, please contact us **before** the exam.
 
 ---
