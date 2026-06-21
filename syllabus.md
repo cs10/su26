@@ -82,7 +82,7 @@ If you cannot attend a lab section, then the lab will be due before the start of
 
 ### Discussion Sections
 
-Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Soda Hall, Room 320. 
+Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Cory 540AB. 
 
 Discussion attendance is mandatory. You can miss up to 3 discussion sections without penalty so you do not need to inform us when you cannot attend discussion. If there are extenuating circumstances which cause you to miss more than 3 discussion sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Discussion attendance will be tracked through Google Forms. However, if you miss a discussion section, you can complete the discussion worksheet and submit it to the [attendance form](Link TBD) by the day of the next discussion section at 11:59 PM in order to count for attendance. So, if Discussion X is due when Discussion X + 1 is released. If you attend the discussion section, all you need to do is fill out the attendance form -- no need to submit the completed worksheet.
 
@@ -129,8 +129,9 @@ These assignments will be one of the best ways for you to apply what you have le
 
 **Project Parties**: These are specialized office hours where you can collaborate with your peers (within the limits of our policies) and get help from course staff on projects. We strongly encourage you to attend, as Project Parties are a great way to stay on track and complete your assignments on time.
 
-Project Parties will typically be held every Monday from 6–8 PM and Friday from 10 AM–12 PM, unless otherwise noted. Dates and locations will be posted on the daily schedule and announced in the weekly blast.
+Dates and locations will be posted on the daily schedule and announced in the weekly blast.
 
+<!-- Project Parties will typically be held every Monday from 6–8 PM and Friday from 10 AM–12 PM, unless otherwise noted. -->
 
 ## Exams
 
