@@ -94,7 +94,7 @@ There will be three kinds of OH, described bellow. The times and locations for a
 
 #### General OH
 
-General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in **TBD**.
+General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in Cory 540AB.
 
 #### Support OH 
 
@@ -148,7 +148,7 @@ There will be three quizzes (each quiz is cumulative):
 | Quiz 3         | Fri 8/7 in Cory 540AB 2–6 PM    |
 | Quiz 3 Retake  | Wed 8/12 in Cory 540AB 2–6 PM   |
 
-The second chance quizzes are designed for you to demonstrate your understanding of the material without all the pressure riding on one exam.
+The second chance quizzes (a.k.a., "retakes") are designed for you to demonstrate your understanding of the material without all the pressure riding on one exam.
 
 Don't be intimidated by the long exam window — quizzes are designed to be completed well within the allotted time. You are welcome to use the full duration, but most students finish early.
 
@@ -232,11 +232,11 @@ We understand that circumstances may arise that may cause you to not be able to 
 
 The policy for project extension requests on projects are as follows:
 
-- An extension request will automatically extend your project submission deadline by 48 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
+- An extension request will automatically extend your project submission deadline by 48 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Wednesday at midnight.
 
 ### Discussion Worksheet Extensions
 
-- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on THU 6/26, it is now due on 7/01. 
+- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on Thu 6/25, it is now due on Tue 6/30.
 
 ## Lateness Penalties
 
@@ -297,7 +297,7 @@ On projects / other assignments, the minimum penalty is negative points on that 
 
 On exams, we will be absolutely unforgiving. Any instance of cheating results in an immediate F in the class alongside a referral to the Office of Student Conduct.
 
-If at any point in the academic-integrity process, a student lies or attempts to mislead course-staff  —thereby wasting everyone’s time— then in addition to the aforementioned sanctions, the s will write a recommendation for the student’s dismissal and submit it to the Office of Student Conduct.
+If at any point in the academic-integrity process, a student lies or attempts to mislead course-staff  —thereby wasting everyone’s time— then in addition to the aforementioned sanctions, the instructor will write a recommendation for the student’s dismissal and submit it to the Office of Student Conduct.
 
 
 
