@@ -52,7 +52,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     </tr>
     <tr>
       <td>Discussion 4</td>
-      <td>Fri 7/3</td>
+      <td>Thu 7/2</td>
       <td><strong>No Discussion</strong></td>
       <td>-</td>
       <td>-</td>
