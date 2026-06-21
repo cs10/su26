@@ -46,14 +46,14 @@
     <tr>
       <td>Wed 6/24</td>
       <td>Lec 3. Abstraction II: Number Representation</td>
-      <td>Lab 1. BYOB</td>
+      <td>Lab 1. Build Your Own Blocks</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Thu 6/25</td>
       <td>Lec 4. Boolean Expressions, Variables, Iteration</td>
-      <td>Lab 2. Conditionals</td>
+      <td>Lab 2. Conditionals, Reporters, &amp; Abstraction</td>
       <td>Discussion 2</td>
       <td></td>
     </tr>
@@ -84,7 +84,7 @@
       <td class="schedule-week-num" rowspan="5">Week 2</td>
       <td>Mon 6/29</td>
       <td>Lec 5. Iteration Practice + Lists</td>
-      <td>Lab 3. Lists + Loops</td>
+      <td>Lab 3. Lists and Loops (Iteration)</td>
       <td></td>
       <td>Project Party + Project 1 Due</td>
     </tr>
@@ -98,7 +98,7 @@
     <tr>
       <td>Wed 7/1</td>
       <td>Lec 7. Functions as Data + Lambdas</td>
-      <td>Quest 1 Review</td>
+      <td>Quiz 1 Review</td>
       <td></td>
       <td></td>
     </tr>
@@ -136,7 +136,7 @@
       <td class="schedule-week-num" rowspan="5">Week 3</td>
       <td>Mon 7/6</td>
       <td>Lec 8. Nested Lists + Functional Recursion</td>
-      <td>Lab 5. HOFs as Data</td>
+      <td>Lab 5. HOFs and Functions as Data</td>
       <td></td>
       <td>Project Party</td>
     </tr>
@@ -150,14 +150,14 @@
     <tr>
       <td>Wed 7/8</td>
       <td>Lec 10. Fractal/Tree Recursion</td>
-      <td>Lab 7. Recursive Reporters</td>
+      <td>Lab 7. Recursive Reports (Linear Recursion)</td>
       <td></td>
       <td>Project 2 Due</td>
     </tr>
     <tr>
       <td>Thu 7/9</td>
       <td>Lec 11. Algorithms/Algorithmic Complexity</td>
-      <td>Lab 8. Fractals</td>
+      <td>Lab 8. Trees &amp; Fractals</td>
       <td>Discussion 6</td>
       <td>Project 3 Released</td>
     </tr>
@@ -247,14 +247,14 @@
     <tr>
       <td>Tue 7/21</td>
       <td>Lec 16. Splicing + Mutability + Lists + List Comprehension</td>
-      <td>Lab 12. Intro</td>
+      <td>Lab 12. Welcome to Python!</td>
       <td>Discussion 9</td>
       <td>Project 4 Released</td>
     </tr>
     <tr>
       <td>Wed 7/22</td>
       <td>Lec 17. Data Structures (Dictionaries + Tuples)</td>
-      <td>Lab 13. Lists + Mutability</td>
+      <td>Lab 13. Lists and Mutability</td>
       <td></td>
       <td></td>
     </tr>
@@ -292,21 +292,21 @@
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <td>Mon 7/27</td>
       <td>Lec 19. OOP 2</td>
-      <td>Lab 15. Text Processing Lab</td>
+      <td>Lab 15. Text Processing</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Tue 7/28</td>
       <td>Lec 20. Recursion in Python</td>
-      <td>Lab 16. Advanced OOP</td>
+      <td>Lab 16. Object Oriented Programming</td>
       <td>Discussion 11</td>
       <td>Final Project Released</td>
     </tr>
     <tr>
       <td>Wed 7/29</td>
       <td>Lec 21. Tree Recursion</td>
-      <td>Lab 17. Recursion</td>
+      <td>Lab 17. Python Linear Recursion</td>
       <td></td>
       <td></td>
     </tr>
