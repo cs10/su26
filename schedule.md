@@ -157,7 +157,7 @@
     <tr>
       <td>Thu 7/9</td>
       <td>Lec 11. Algorithms/Algorithmic Complexity</td>
-      <td>Lab 9. Fractals</td>
+      <td>Lab 8. Fractals</td>
       <td>Discussion 6</td>
       <td>Project 3 Released</td>
     </tr>
@@ -188,14 +188,14 @@
       <td class="schedule-week-num" rowspan="5">Week 4</td>
       <td>Mon 7/13</td>
       <td>Lec 12. Data Science</td>
-      <td>Lab 8. Algorithms (Binary) / Algorithmic Complexity</td>
+      <td>Lab 9. Algorithms (Binary) / Algorithmic Complexity</td>
       <td></td>
       <td>Project Party</td>
     </tr>
     <tr>
       <td>Tue 7/14</td>
       <td>Lec 13. AI + ML + LLMs</td>
-      <td>Lab 9. Data Science</td>
+      <td>Lab 10. Data Science</td>
       <td>Discussion 7</td>
       <td></td>
     </tr>
@@ -240,28 +240,28 @@
       <td class="schedule-week-num" rowspan="5">Week 5</td>
       <td>Mon 7/20</td>
       <td>Lec 15. Intro to Python + Data Types</td>
-      <td>Lab 10. Python Setup + Intro Python</td>
+      <td>Lab 11. Python Setup + Intro Python</td>
       <td></td>
       <td>Project Party + Project 3 Due</td>
     </tr>
     <tr>
       <td>Tue 7/21</td>
       <td>Lec 16. Splicing + Mutability + Lists + List Comprehension</td>
-      <td>Lab 11. Intro</td>
+      <td>Lab 12. Intro</td>
       <td>Discussion 9</td>
       <td>Project 4 Released</td>
     </tr>
     <tr>
       <td>Wed 7/22</td>
       <td>Lec 17. Data Structures (Dictionaries + Tuples)</td>
-      <td>Lab 12. Lists + Mutability</td>
+      <td>Lab 13. Lists + Mutability</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Thu 7/23</td>
       <td>Lec 18. OOP 1</td>
-      <td>Lab 13. Data Structures</td>
+      <td>Lab 14. Data Structures</td>
       <td>Discussion 10</td>
       <td></td>
     </tr>
@@ -292,21 +292,21 @@
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <td>Mon 7/27</td>
       <td>Lec 19. OOP 2</td>
-      <td>Lab 14. Text Processing Lab</td>
+      <td>Lab 15. Text Processing Lab</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Tue 7/28</td>
       <td>Lec 20. Recursion in Python</td>
-      <td>Lab 15. Advanced OOP</td>
+      <td>Lab 16. Advanced OOP</td>
       <td>Discussion 11</td>
       <td>Final Project Released</td>
     </tr>
     <tr>
       <td>Wed 7/29</td>
       <td>Lec 21. Tree Recursion</td>
-      <td>Lab 16. Recursion</td>
+      <td>Lab 17. Recursion</td>
       <td></td>
       <td></td>
     </tr>
@@ -344,14 +344,14 @@
       <td class="schedule-week-num" rowspan="5">Week 7</td>
       <td>Mon 8/3</td>
       <td>Lec 22. Concurrency + Parallelism</td>
-      <td>Lab 17. Tree Recursion</td>
+      <td>Lab 18. Tree Recursion</td>
       <td></td>
       <td>Project 4 Due<br/>Final Project Proposals Due</td>
     </tr>
     <tr>
       <td>Tue 8/4</td>
       <td>Final Exam Review</td>
-      <td>Lab 18. Concurrency</td>
+      <td>Lab 19. Concurrency</td>
       <td>Discussion 13: Project 4 Presentations</td>
       <td></td>
     </tr>
