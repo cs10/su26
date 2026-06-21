@@ -15,33 +15,33 @@ Supplementary Lab Slides can be found in this <!-- [folder](https://drive.google
 
 > The workbook, which is part of our website (and distinct from the lab instructions), can be used as a step-by-step guide to complete each lab. Labs will be released at 9:00 AM on the day they are scheduled. Feel free to get a head start!
 
-> Regarding submission deadlines: Lab X is due at midnight on the day that Lab X+1 is scheduled. For example, if Lab 12 is scheduled on Tuesday and Lab 13 is scheduled on Wednesday, then Lab 12 is due at midnight on Wednesday. This rule applies to unnumbered labs such as Quiz reviews as well.
+> **Regarding submission deadlines**: Lab X is due on the day that Lab X+1 is scheduled. For example, if Lab 12 is scheduled on Tuesday and Lab 13 is scheduled on Wednesday, then Lab 12 is due on Wednesday. This rule applies to unnumbered labs such as Quiz reviews as well.
 
 
 | Labs | Release Date | Due Date |
 | :---: | :---: | :---: |
-| Lab 0. Welcome to Snap! | TUE 6/23 | WED 6/24 at midnight |
-| Lab 1. Build Your Own Blocks | WED 6/24 | THU 6/25 at midnight |
-| Lab 2. Conditionals, Reporters, & Abstraction | THU 6/25 | MON 6/29 at midnight |
-| Lab 3. Lists and Loops (Iteration) | MON 6/29 | TUE 6/30 at midnight |
-| Lab 4. Lists & HOFs | TUE 6/30 | WED 7/1 at midnight |
-| Quest 1 Review | WED 7/1 | MON 7/6 at midnight |
-| Lab 5. HOFs and Functions as Data | MON 7/6 | TUE 7/7 at midnight |
-| Lab 6. Boards | TUE 7/7 | WED 7/8 at midnight |
-| Lab 7. Recursive Reports (Linear Recursion) | WED 7/8 | THU 7/9 at midnight |
-| Lab 8. Trees & Fractals | THU 7/9 | MON 7/13 at midnight |
-| Lab 9. Algorithms (Binary) / Algorithmic Complexity | MON 7/13 | TUE 7/14 at midnight |
-| Lab 10. Data Science | TUE 7/14 | WED 7/15 at midnight |
-| Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | WED 7/15 | THU 7/16 at midnight |
-| Quiz 2 Review: Recursion, Algorithmic Complexity | THU 7/16 | MON 7/20 at midnight |
-| Lab 11. Python Setup + Intro Python | MON 7/20 | TUE 7/21 at midnight |
-| Lab 12. Welcome to Python! | TUE 7/21 | WED 7/22 at midnight |
-| Lab 13. Lists and Mutability | WED 7/22 | THU 7/23 at midnight |
-| Lab 14. Data Structures | THU 7/23 | MON 7/27 at midnight |
-| Lab 15. Text Processing | MON 7/27 | TUE 7/28 at midnight |
-| Lab 16. Object Oriented Programming | TUE 7/28 | WED 7/29 at midnight |
-| Lab 17. Python Linear Recursion | WED 7/29 | MON 8/3 at midnight |
-| Lab 18. Tree Recursion | MON 8/3 | TUE 8/4 at midnight |
-| Lab 19. Concurrency | TUE 8/4 | WED 8/5 at midnight |
+| Lab 0. Welcome to Snap! | Tue 6/23 | Wed 6/24 |
+| Lab 1. Build Your Own Blocks | Wed 6/24 | Thu 6/25 |
+| Lab 2. Conditionals, Reporters, & Abstraction | Thu 6/25 | Mon 6/29 |
+| Lab 3. Lists and Loops (Iteration) | Mon 6/29 | Tue 6/30 |
+| Lab 4. Lists & HOFs | Tue 6/30 | Wed 7/1 |
+| Quest 1 Review | Wed 7/1 | Mon 7/6 |
+| Lab 5. HOFs and Functions as Data | Mon 7/6 | Tue 7/7 |
+| Lab 6. Boards | Tue 7/7 | Wed 7/8 |
+| Lab 7. Recursive Reports (Linear Recursion) | Wed 7/8 | Thu 7/9 |
+| Lab 8. Trees & Fractals | Thu 7/9 | Mon 7/13 |
+| Lab 9. Algorithms (Binary) / Algorithmic Complexity | Mon 7/13 | Tue 7/14 |
+| Lab 10. Data Science | Tue 7/14 | Wed 7/15 |
+| Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | Wed 7/15 | Thu 7/16 |
+| Quiz 2 Review: Recursion, Algorithmic Complexity | Thu 7/16 | Mon 7/20 |
+| Lab 11. Python Setup + Intro Python | Mon 7/20 | Tue 7/21 |
+| Lab 12. Welcome to Python! | Tue 7/21 | Wed 7/22 |
+| Lab 13. Lists and Mutability | Wed 7/22 | Thu 7/23 |
+| Lab 14. Data Structures | Thu 7/23 | Mon 7/27 |
+| Lab 15. Text Processing | Mon 7/27 | Tue 7/28 |
+| Lab 16. Object Oriented Programming | Tue 7/28 | Wed 7/29 |
+| Lab 17. Python Linear Recursion | Wed 7/29 | Mon 8/3 |
+| Lab 18. Tree Recursion | Mon 8/3 | Tue 8/4 |
+| Lab 19. Concurrency | Tue 8/4 | Wed 8/5 |
 
 *Labs and due dates are subject to change.*
