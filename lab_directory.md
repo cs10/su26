@@ -48,30 +48,30 @@ Supplementary Lab Slides can be found in this <!-- [folder](https://drive.google
 
 ## Su26 Labs
 
-| Labs | Submission Deadline |
-| :---: | :---: |
-| Lab 0. Welcome to Snap! | TBD |
-| Lab 1. Build Your Own Blocks | TBD |
-| Lab 2. Conditionals, Reporters, & Abstraction | TBD |
-| Lab 3. Lists and Loops (Iteration) | TBD |
-| Lab 4. Lists & HOFs | TBD |
-| Quest 1 Review | TBD |
-| Lab 5. HOFs and Functions as Data | TBD |
-| Lab 6. Boards | TBD |
-| Lab 7. Recursive Reports (Linear Recursion) | TBD |
-| Lab 8. Trees & Fractals | TBD |
-| Lab 9. Algorithms (Binary) / Algorithmic Complexity | TBD |
-| Lab 10. Data Science | TBD |
-| Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | TBD |
-| Quiz 2 Review: Recursion, Algorithmic Complexity | TBD |
-| Lab 11. Python Setup + Intro Python | TBD |
-| Lab 12. Welcome to Python! | TBD |
-| Lab 13. Lists and Mutability | TBD |
-| Lab 14. Data Structures | TBD |
-| Lab 15. Text Processing | TBD |
-| Lab 16. Object Oriented Programming | TBD |
-| Lab 17. Python Linear Recursion | TBD |
-| Lab 18. Tree Recursion | TBD |
-| Lab 19. Concurrency | TBD |
+| Labs | Release Date | Submission Deadline |
+| :---: | :---: | :---: |
+| Lab 0. Welcome to Snap! | TUE 6/23 | TBD |
+| Lab 1. Build Your Own Blocks | WED 6/24 | TBD |
+| Lab 2. Conditionals, Reporters, & Abstraction | THU 6/25 | TBD |
+| Lab 3. Lists and Loops (Iteration) | MON 6/29 | TBD |
+| Lab 4. Lists & HOFs | TUE 6/30 | TBD |
+| Quest 1 Review | WED 7/1 | TBD |
+| Lab 5. HOFs and Functions as Data | MON 7/6 | TBD |
+| Lab 6. Boards | TUE 7/7 | TBD |
+| Lab 7. Recursive Reports (Linear Recursion) | WED 7/8 | TBD |
+| Lab 8. Trees & Fractals | THU 7/9 | TBD |
+| Lab 9. Algorithms (Binary) / Algorithmic Complexity | MON 7/13 | TBD |
+| Lab 10. Data Science | TUE 7/14 | TBD |
+| Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | WED 7/15 | TBD |
+| Quiz 2 Review: Recursion, Algorithmic Complexity | THU 7/16 | TBD |
+| Lab 11. Python Setup + Intro Python | MON 7/20 | TBD |
+| Lab 12. Welcome to Python! | TUE 7/21 | TBD |
+| Lab 13. Lists and Mutability | WED 7/22 | TBD |
+| Lab 14. Data Structures | THU 7/23 | TBD |
+| Lab 15. Text Processing | MON 7/27 | TBD |
+| Lab 16. Object Oriented Programming | TUE 7/28 | TBD |
+| Lab 17. Python Linear Recursion | WED 7/29 | TBD |
+| Lab 18. Tree Recursion | MON 8/3 | TBD |
+| Lab 19. Concurrency | TUE 8/4 | TBD |
 
 *Labs and due dates are subject to change.*
