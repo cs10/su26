@@ -43,3 +43,35 @@ Supplementary Lab Slides can be found in this <!-- [folder](https://drive.google
 | <!-- [Lab 19: Concurrency](https://tinyurl.com/cs10-lab19) -->Lab 19: Concurrency | WED 8/6 |
 
 *Labs and due dates are subject to change.*
+
+---
+
+## Su26 Labs
+
+| Labs | Submission Deadline |
+| :---: | :---: |
+| Lab 0. Welcome to Snap! | TBD |
+| Lab 1. Build Your Own Blocks | TBD |
+| Lab 2. Conditionals, Reporters, & Abstraction | TBD |
+| Lab 3. Lists and Loops (Iteration) | TBD |
+| Lab 4. Lists & HOFs | TBD |
+| Quest 1 Review | TBD |
+| Lab 5. HOFs and Functions as Data | TBD |
+| Lab 6. Boards | TBD |
+| Lab 7. Recursive Reports (Linear Recursion) | TBD |
+| Lab 8. Trees & Fractals | TBD |
+| Lab 9. Algorithms (Binary) / Algorithmic Complexity | TBD |
+| Lab 10. Data Science | TBD |
+| Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | TBD |
+| Quiz 2 Review: Recursion, Algorithmic Complexity | TBD |
+| Lab 11. Python Setup + Intro Python | TBD |
+| Lab 12. Welcome to Python! | TBD |
+| Lab 13. Lists and Mutability | TBD |
+| Lab 14. Data Structures | TBD |
+| Lab 15. Text Processing | TBD |
+| Lab 16. Object Oriented Programming | TBD |
+| Lab 17. Python Linear Recursion | TBD |
+| Lab 18. Tree Recursion | TBD |
+| Lab 19. Concurrency | TBD |
+
+*Labs and due dates are subject to change.*
