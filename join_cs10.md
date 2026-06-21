@@ -16,7 +16,7 @@ nav_order: 10
 **Yes!** With effort, you can get up to speed.
 
 ### What should I do first?  
-1. **Fill out the Late-add Google Form (Link TBD)**
+1. **Fill out the [Late-add Google Form](https://forms.gle/43jd3LJ8JJrRJ1SYA)**
 2. Read Website: Start from the beginning - go through the [syllabus](https://cs10.org/su26/syllabus/), lectures, and assignments in order. A handy tracker will be available once you join the class and fill out the form. The class schedule can be found on our [home page](https://cs10.org/su26/).
 
 ### Will I be penalized for missed work?  
