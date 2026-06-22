@@ -20,8 +20,8 @@ UC Berkeley, Summer 2026
 {{ site.description }}
 ## Announcements, Monday 6/22
 - Read [Weekly Blast 1: Welcome to CS10 🥳](https://edstem.org/us/courses/99923/discussion/8137935) on Ed
-- Enroll in [Gradescope] (https://www.gradescope.com/courses/1329547)(entry code: B56G6N) and [Ed](https://edstem.org/us/courses/99923/discussion)
-- Read through the website contents - especially the syllabus! (Syllabus is still under final review, but most of them are in place)
+- Enroll in [Gradescope](https://www.gradescope.com/courses/1329547) (entry code: B56G6N) and [Ed](https://edstem.org/us/courses/99923/discussion)
+- Read through the entire website content - especially the syllabus! (Syllabus is still under final review, but most of them are in place.)
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
 **Office Hours:** TBD  
