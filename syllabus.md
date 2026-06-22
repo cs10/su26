@@ -5,6 +5,9 @@ nav_order: 3
 description: Course policies and information.
 ---
 
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
+  ⚠️ <strong>Note:</strong> The syllabus page is still under construction. Information may be incomplete or missing.
+</div>
 
 # Syllabus
 {:.no_toc}
@@ -19,10 +22,6 @@ description: Course policies and information.
 
 
 ---
-
-<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
-  ⚠️ <strong>Note:</strong> The syllabus page is still under construction. Information may be incomplete or missing.
-</div>
 
 <!---- Added CS10 late? [Reading this](https://edstem.org/us/courses/63916/discussion/5218679)---->
 
