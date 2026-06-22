@@ -31,6 +31,6 @@ mode=WEEK&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" 
 
 
 <ul>
-  <li><a href="https://calendar.google.com/calendar/u/0?cid=c_394fd1a82ccefda86992ddedeec7b7c4741b41cfad0972c259502943e07a5d87@group.calendar.google.com" target="_blank">Add CS10 Su2026 Course Calendar</a></li>
+  <li><a href="https://calendar.google.com/calendar/u/0/newembed?src=c_394fd1a82ccefda86992ddedeec7b7c4741b41cfad0972c259502943e07a5d87@group.calendar.google.com&ctz=America/Los_Angeles">Add CS10 Su2026 Course Calendar</a></li>
 </ul>
 

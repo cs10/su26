@@ -70,19 +70,19 @@ If you miss more than 3 lectures throughout the summer, you will not receive cre
 
 ### Lab Sections
 
-Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in Soda Hall, Room 330.
+Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in Cory 540AB.
 
 Lab assignments will be submitted to Gradescope. There will be two assignments for each lab (unless specified): one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
 
-Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Thursday, then Lab-12 will be due at midnight on Thursday. There will be ~24 graded labs (there's no submission or credit for lab-0 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
+Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday. There will be ~24 graded labs (there's no submission or credit for lab-0 and this includes the two practice exams you must complete), and your lowest 2 lab scores will be dropped.
 
 <b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 3 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 3 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 3 "skip days" for lab sections only applies to attendance (although you do have 2 drops). You are still required to complete and submit the lab assignment. Lab attendance will be tracked through Google Forms.
 
-If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 10 AM or 12 PM (the time before the lab section). If you do so, this will not use one of your lab attendance drops.
+If you cannot attend a lab section, then the lab will be due before the start of the next lab. So if you either cannot regularly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Tuesday at 11:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Tuesday at 6 PM (the time before the lab section). If you do so, this will not use one of your lab attendance drops.
 
 ### Discussion Sections
 
-Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Soda Hall, Room 320. 
+Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion will be located in Cory 540AB. 
 
 Discussion attendance is mandatory. You can miss up to 3 discussion sections without penalty so you do not need to inform us when you cannot attend discussion. If there are extenuating circumstances which cause you to miss more than 3 discussion sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Discussion attendance will be tracked through Google Forms. However, if you miss a discussion section, you can complete the discussion worksheet and submit it to the [attendance form](Link TBD) by the day of the next discussion section at 11:59 PM in order to count for attendance. So, if Discussion X is due when Discussion X + 1 is released. If you attend the discussion section, all you need to do is fill out the attendance form -- no need to submit the completed worksheet.
 
@@ -129,8 +129,9 @@ These assignments will be one of the best ways for you to apply what you have le
 
 **Project Parties**: These are specialized office hours where you can collaborate with your peers (within the limits of our policies) and get help from course staff on projects. We strongly encourage you to attend, as Project Parties are a great way to stay on track and complete your assignments on time.
 
-Project Parties will typically be held every Monday from 6–8 PM and Friday from 10 AM–12 PM, unless otherwise noted. Dates and locations will be posted on the daily schedule and announced in the weekly blast.
+Dates and locations will be posted on the daily schedule and announced in the weekly blast.
 
+<!-- Project Parties will typically be held every Monday from 6–8 PM and Friday from 10 AM–12 PM, unless otherwise noted. -->
 
 ## Exams
 
