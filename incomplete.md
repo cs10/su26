@@ -6,7 +6,7 @@ nav_order: 11
 ---
 
 <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
-  ⚠️ <strong>Note:</strong> This page is still under construction. Information is likely incorrect or missing. For urgent requests regarding incomplete grade, please email the Head TA (naheejeong@berkeley.edu)
+  ⚠️ <strong>Note:</strong> The "Incomplete" page is still under construction. Information is likely incorrect or missing. For urgent requests regarding your incomplete grade, please email the Head TA at naheejeong@berkeley.edu
 </div>
 
 # Resolving Your Incomplete / Continuing Work Grade

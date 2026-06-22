@@ -5,6 +5,10 @@ description: Q/A, Late Add
 nav_order: 10
 ---
 
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
+  ⚠️ <strong>Note:</strong> The "Joining CS10 Late" page is still under revision. Information is likely incorrect or missing. For urgent requests regarding your enrollment, please email the Head TA at naheejeong@berkeley.edu
+</div>
+
 # Joining CS 10 Late – What You Need to Know
 
 ### Can I still catch up?  
