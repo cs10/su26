@@ -31,9 +31,9 @@ url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://exam
 # TODO(setup): Set all of these course variables
 course: CS 10
 course_email: cs10@berkeley.edu
-gradescope_course_id: 1057248 # you can find this in the Gradescope URL after /courses
-bcourses_course_id: 1545431 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: 79923 # Again, same as above.
+gradescope_course_id: 1329547 # you can find this in the Gradescope URL after /courses
+bcourses_course_id: 1555435 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 99923 # Again, same as above.
 semester: su26 # set for the current semester
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
@@ -47,15 +47,17 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org/us/courses/79923/discussion'
-  # OH Queue:
-  #   - 'https://oh.cs10.org'
+    - 'https://edstem.org/us/courses/99923/discussion'
+  OH Queue:
+    - 'https://oh.cs10.org'
   Snap!:
     - 'https://snap.berkeley.edu/run'
   # iClicker:
   #   - 'https://student.iclicker.com/#/login'
   Gradescope:
-    - 'https://www.gradescope.com/courses/1057248'
+    - 'https://www.gradescope.com/courses/1329547'
+  Attendance:
+    - 'https://forms.gle/3aYk8f19RusaipxEA'
 
 
 
