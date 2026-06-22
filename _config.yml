@@ -48,14 +48,14 @@ aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
     - 'https://edstem.org/us/courses/99923/discussion'
-  OH Queue:
-    - 'https://oh.cs10.org'
   Snap!:
     - 'https://snap.berkeley.edu/run'
-  # iClicker:
-  #   - 'https://student.iclicker.com/#/login'
   Gradescope:
     - 'https://www.gradescope.com/courses/1329547'
+  OH Queue:
+    - 'https://oh.cs10.org'
+  # iClicker:
+  #   - 'https://student.iclicker.com/#/login'
   Attendance:
     - 'https://forms.gle/3aYk8f19RusaipxEA'
 
