@@ -44,7 +44,7 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su26/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](Link TBD)
-* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](Link TBD).
+* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope instruction](Link TBD).
 * **Bcourses**: Lecture recordings can be found on [the Bcourses site](Link TBD), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 <!-- * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website. -->
