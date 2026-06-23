@@ -63,7 +63,7 @@ For a summary of all attendance make-up options, see the [Attendance Make-Up Opt
 
 CS10 this semester follows a **flipped classroom** format. Before each class session, you are expected to watch pre-recorded lecture videos from Professor Dan Garcia, which are available on [bCourses](https://bcourses.berkeley.edu/courses/1555435) and linked in the course schedule. Live class time in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00–5:00 PM is used for hands-on practice and will **not** be recorded.
 
-<b>Attendance is required, and credit for attending will be through a Google Form Check In.</b>
+<b>Attendance is required, and credit for attending will be through a Google Form Check In.</b> If you cannot attend in person, you may submit the lecture quiz for that lecture on Gradescope instead. Lecture quizzes are due on the day of the next lecture, at 11:59 PM.
 
 You can miss up to 5 lectures without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
