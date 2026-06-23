@@ -62,7 +62,7 @@
     <tr>
       <td>Thu 6/25</td>
       <td>Lec 4. Boolean Expressions, Variables, Iteration
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_ijzo1pi9/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 2. Conditionals, Reporters, &amp; Abstraction</td>
@@ -96,7 +96,7 @@
       <td class="schedule-week-num" rowspan="5">Week 2</td>
       <td>Mon 6/29</td>
       <td>Lec 5. Iteration Practice + Lists
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_ijzo1pi9/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 3. Lists and Loops (Iteration)</td>
@@ -157,7 +157,7 @@
       <td class="schedule-week-num" rowspan="5">Week 3</td>
       <td>Mon 7/6</td>
       <td>Lec 8. Nested Lists + Functional Recursion
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_wm3hp8a2/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 5. HOFs and Functions as Data</td>
@@ -187,7 +187,7 @@
     <tr>
       <td>Thu 7/9</td>
       <td>Lec 11. Algorithms/Algorithmic Complexity
-        <br/><a href="https://kaf.berkeley.edu/media/t/1_2vl1fn56/410512772">(Video)</a>
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_jdbklg0h/410512772">(Video 1)</a> / <a href="https://kaf.berkeley.edu/media/t/1_2vl1fn56/410512772">(Video 2)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 8. Trees &amp; Fractals</td>
@@ -221,7 +221,7 @@
       <td class="schedule-week-num" rowspan="5">Week 4</td>
       <td>Mon 7/13</td>
       <td>Lec 12. Data Science
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/>(No Video)
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 9. Algorithms (Binary) / Algorithmic Complexity</td>
@@ -292,7 +292,7 @@
     <tr>
       <td>Tue 7/21</td>
       <td>Lec 16. Splicing + Mutability + Lists + List Comprehension
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_via7vc2v/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 12. Welcome to Python!</td>
@@ -312,7 +312,7 @@
     <tr>
       <td>Thu 7/23</td>
       <td>Lec 18. OOP 1
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_hxh84759/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 14. Data Structures</td>
@@ -346,7 +346,7 @@
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <td>Mon 7/27</td>
       <td>Lec 19. OOP 2
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_hxh84759/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 15. Text Processing</td>
@@ -356,7 +356,7 @@
     <tr>
       <td>Tue 7/28</td>
       <td>Lec 20. Recursion in Python
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/>(No Video)
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 16. Object Oriented Programming</td>
@@ -424,7 +424,7 @@
     <tr>
       <td>Wed 8/5</td>
       <td>Lec 23. Finale + Farewell
-        <!-- <br/><a href="VIDEO_URL">(Video)</a> -->
+        <br/><a href="https://kaf.berkeley.edu/media/t/1_nphkjcuc/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Final Project Proposal Meetings</td>
