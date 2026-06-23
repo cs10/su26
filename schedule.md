@@ -31,8 +31,8 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 1</td>
       <td>Mon 6/22</td>
-      <td>Lec 1. Logistics + Abstraction
-        <br/><a href="https://kaf.berkeley.edu/media/t/1_v6835q2u/410512772">(Video)</a>
+      <td><a href="https://docs.google.com/presentation/d/1HLW7mE69_ly6rEfJuaG_CillLU-LNSertxp9AXgkMZw/edit?usp=sharing">Lec 1. Logistics + Abstraction
+      </a><br/><a href="https://kaf.berkeley.edu/media/t/1_v6835q2u/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>No Lab</td>
