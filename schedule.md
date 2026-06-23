@@ -32,8 +32,7 @@
       <td class="schedule-week-num" rowspan="5">Week 1</td>
       <td>Mon 6/22</td>
       <td>Lec 1. Logistics + Abstraction
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://docs.google.com/presentation/d/1HLW7mE69_ly6rEfJuaG_CillLU-LNSertxp9AXgkMZw/edit?usp=sharing">(Slides)</a>
+        <br/><a href="https://drive.google.com/file/d/183d8HP8yfHM4EN04xXXXSqAYKWOv1z2m/view?usp=sharing">(Slides)</a>
       </td>
       <td>No Lab</td>
       <td></td>
@@ -43,7 +42,7 @@
       <td>Tue 6/23</td>
       <td>Lec 2. Functions + Conditional Logic
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1wlKwvH91C-GADjSkJA6z03VEWlM8-UxK/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 0. Welcome to Snap!</td>
       <td>Discussion 1</td>
