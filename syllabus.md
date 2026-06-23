@@ -208,21 +208,19 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 ## Extension Requests
 
-<!-- For all extension requests on any assignment, please use the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEcpevvJRSTWw69FjaZtKUSPCjbcScPWUI_kIoNVqbbrCQqA/viewform?usp=dialog). -->
+**For all extension requests on any assignment, please use the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe-JSibln6fyLiX-Md_HYjgNuOiBVDvlh5UQ2tYrNjKBrLuRQ/viewform?usp=dialog).**
 
-For all extension requests on any assignment, please use the [Extension Request Form](Link TBD).
-
-You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs, as noted above, is the day that the next lab is scheduled, at 2359 hrs; for projects, it's 48h after the original deadline.
+You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment. The extended deadline for labs is 24 hours after the original deadline; for projects, it's 48 hours after the original deadline.
 
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
 
-<b>Important: While extensions may not be visible on Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade. Extensions are AUTO-approved after filling in the form. You may immediately continue/start on the assignment. </b>
+<b>Important: Extensions are AUTO-approved upon form submission. You will receive a confirmation copy and may begin working immediately. Your assignment submission may still appear as "Late" on Gradescope, but extensions will be accounted for when computing your final grade. It is your responsibility to keep track of your own extensions.</b>
 
 ### Lab Extensions
 
 We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br />The policy for extension requests on labs are as follows:
 
-- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties. For instance, if you ask for an extension on lab-12, which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released.
+- An extension request gives you 24 additional hours to submit without any lateness penalty. For instance, if Lab 1 is normally due on Thu 6/25 at 11:59 PM, your new deadline with an extension is Fri 6/26 at 11:59 PM.
 
 ### Project Extensions
 
@@ -232,7 +230,7 @@ The policy for project extension requests on projects are as follows:
 
 ### Discussion Worksheet Extensions
 
-- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on Thu 6/25, it is now due on Tue 6/30.
+- An extension request will automatically extend your discussion worksheet submission deadline. The new extended deadline for each discussion worksheet will be the day of second discussion after it is assigned, at 11:59 PM. For example, the Discussion 1 worksheet is now due on the day of Discussion 3 (Tue 6/30), at 11:59 PM.
 
 ## Lateness Penalties
 
