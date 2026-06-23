@@ -57,6 +57,8 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 ![](sp25/assets/images/general/course1.png)
 ![](sp25/assets/images/general/course2.png) -->
 
+For a summary of all attendance make-up options, see the [Attendance Make-Up Options](https://edstem.org/us/courses/99923/discussion/8138030) post on EdStem.
+
 ### Lecture
 
 CS10 this semester follows a **flipped classroom** format. Before each class session, you are expected to watch pre-recorded lecture videos from Professor Dan Garcia, which are available on [bCourses](https://bcourses.berkeley.edu/courses/1555435) and linked in the course schedule. Live class time in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00–5:00 PM is used for hands-on practice and will **not** be recorded.
