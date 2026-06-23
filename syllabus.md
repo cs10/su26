@@ -5,9 +5,9 @@ nav_order: 3
 description: Course policies and information.
 ---
 
-<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
+<!-- <div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 12px 16px; margin-bottom: 1rem;">
   ⚠️ <strong>Note:</strong> The syllabus page is still under revision. Information may be incomplete or missing.
-</div>
+</div> -->
 
 # Syllabus
 {:.no_toc}
