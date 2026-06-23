@@ -311,7 +311,7 @@
     </tr>
     <tr>
       <td>Thu 7/23</td>
-      <td>Lec 18. OOP 1
+      <td>Lec 18. OOP I
         <br/><a href="https://kaf.berkeley.edu/media/t/1_hxh84759/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
@@ -345,7 +345,7 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <td>Mon 7/27</td>
-      <td>Lec 19. OOP 2
+      <td>Lec 19. OOP II
         <br/><a href="https://kaf.berkeley.edu/media/t/1_hxh84759/410512772">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
