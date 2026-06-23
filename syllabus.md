@@ -57,18 +57,13 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 ![](sp25/assets/images/general/course1.png)
 ![](sp25/assets/images/general/course2.png) -->
 
+### Lecture
 
-### Lecture 
+CS10 this semester follows a **flipped classroom** format. Before each class session, you are expected to watch pre-recorded lecture videos from Professor Dan Garcia, which are available on [bCourses](https://bcourses.berkeley.edu/courses/1555435) and linked in the course schedule. Live class time in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00–5:00 PM is used for hands-on practice and will **not** be recorded.
 
-Lectures will be live and in-person in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00 - 5:00 PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
+<b>Attendance is required, and credit for attending will be through a Google Form Check In.</b>
 
-Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. 
-
-<b>Attendance is required, and credit for attending will be through a Google Form Check In. Lecture check ins are graded based on completion, NOT correctness. </b> 
-
-Your lowest 3 check-in scores will be automatically dropped — so you can miss up to 3 lectures without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
-
-If you miss more than 3 lectures throughout the summer, you will not receive credit for the Lecture Attendance portion of your grade.
+You can miss up to 5 lectures without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
 
 ### Lab Sections
