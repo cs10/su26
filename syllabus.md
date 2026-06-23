@@ -88,7 +88,7 @@ From experience, we've observed that students who regularly attend and pay atten
 
 ### Office Hours (OH) 
 
-There will be three kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
+There will be three kinds of OH, described below. Times and locations are listed under the [Calendar](https://cs10.org/su26/calendar/) tab on the course website. You may also add the CS10 Su26 Course Calendar to your Google Calendar for convenience. You <b>don't</b> need to email or make an appointment — you can attend any OH that works for you.
 
 #### General OH
 
@@ -96,18 +96,17 @@ General OH is intended for any course and content related questions. Here, you c
 
 #### Support OH 
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out [this calendar](https://calendar.google.com/calendar/embed?src=c_394fd1a82ccefda86992ddedeec7b7c4741b41cfad0972c259502943e07a5d87%40group.calendar.google.com&ctz=America%2FLos_Angeles) for locations and times.
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out the [calendar](https://cs10.org/su26/calendar/) for locations and times.
 
 #### Instructor OH 
 
-Coming soon!
-
-<!-- Jedi will be hosting Instructor OH (5 to 6 PM on Tuesday, Wednesday, and Thursday), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH. -->
+<!-- TODO: fill in time -->
+Della will be hosting Instructor OH (times TBD), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
 ### Projects 
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the course.
 
-- There will be 3 Snap<em>!</em> projects, 1 research-based project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
+- There will be 3 Snap<em>!</em> projects, 1 research-based project, and 1 project wherein you can use a language of your choice (Snap! or Python) to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
 ## Projects and Deadlines
 
