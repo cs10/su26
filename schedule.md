@@ -32,7 +32,8 @@
       <td class="schedule-week-num" rowspan="5">Week 1</td>
       <td>Mon 6/22</td>
       <td>Lec 1. Logistics + Abstraction
-        <br/><a href="https://drive.google.com/file/d/183d8HP8yfHM4EN04xXXXSqAYKWOv1z2m/view?usp=sharing">(Slides)</a>
+        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/file/d/183d8HP8yfHM4EN04xXXXSqAYKWOv1z2m/view?usp=sharing">(Slides)</a>
       </td>
       <td>No Lab</td>
       <td></td>
