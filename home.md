@@ -21,6 +21,7 @@ UC Berkeley, Summer 2026
 ## Announcements, Monday 6/22
 - Read [Weekly Blast 1: Welcome to CS10 🥳](https://edstem.org/us/courses/99923/discussion/8137935) on Edstem, in addition to all the other Ed posts
 - Enroll in [Edstem](https://edstem.org/us/courses/99923/discussion) and [Gradescope](https://www.gradescope.com/courses/1329547) (entry code: B56G6N)
+- All pre-recording lecture videos can be found in bCourses under [Media Gallery](https://bcourses.berkeley.edu/courses/1555435/external_tools/90481)
 - Read through the entire website content - especially the syllabus! (The syllabus is now all set)
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
