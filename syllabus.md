@@ -124,11 +124,9 @@ These assignments will be one of the best ways for you to apply what you have le
 
 **All deadlines are at 11:59PM.**
 
-**Project Parties**: These are specialized office hours where you can collaborate with your peers (within the limits of our policies) and get help from course staff on projects. We strongly encourage you to attend, as Project Parties are a great way to stay on track and complete your assignments on time.
+**Project Parties**: These are specialized, ad hoc office hours where you can collaborate with your peers (within the limits of our policies) and get help from course staff on projects. We strongly encourage you to attend, as Project Parties are a great way to stay on track and complete your assignments on time.
 
 Dates and locations will be posted on the daily schedule and announced in the weekly blast.
-
-<!-- Project Parties will typically be held every Monday from 6–8 PM and Friday from 10 AM–12 PM, unless otherwise noted. -->
 
 ## Exams
 
@@ -153,9 +151,9 @@ Don't be intimidated by the long exam window — quizzes are designed to be comp
 If you are an incomplete student, Quiz 1 maps to the Quest, Quiz 2 maps to the midterm, and Quiz 3 maps to the postterm. You may not take the second chance quiz if you are an incomplete student.
 
 ## Exam Clobber Policy
-If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
+If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam(s) with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
 
-To be clear, what this means is that if you get a full score on Quiz 3, you also get a full score on Quiz 1 and Quiz 2!
+For example, if you get a full score on Quiz 3, you also get a full score on Quiz 1 and Quiz 2!
 
 ## Grading
 
@@ -173,7 +171,7 @@ To be clear, what this means is that if you get a full score on Quiz 3, you also
 
 ### Specific Grading Breakdown — Points
 
-<!-- NOTE: Lab points are normalized since Spring 2026, so individual lab point values need to be scaled to sum to 60. -->
+**Note:** Each lab is worth 2 raw points (1 for the conceptual portion and 1 for the code portion), unless otherwise specified. Your raw points will not add up to 60; they will be scaled so that your total lab grade counts for 60 points.
 
 | Component                  | Points |
 | :----:                     | :----: |
