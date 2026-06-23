@@ -102,8 +102,7 @@ These are intended for students to discuss their status in their class, catching
 
 #### Instructor OH 
 
-<!-- TODO: fill in time -->
-Della will be hosting Instructor OH (times TBD), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
+Della will be hosting Instructor OH on **Mondays and Wednesdays from 5:00–6:00 PM in Cory 540AB**, which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects), you should attend Staff-OH.
 
 ### Projects 
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the course.

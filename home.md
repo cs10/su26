@@ -24,8 +24,8 @@ UC Berkeley, Summer 2026
 - Read through the entire website content - especially the syllabus! (The syllabus is now all set)
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
-**Office Hours:** TBD  
-**Lectures:** Mon Tue Wed Thu @ 4:00–4:59 PM in Cory 540AB  
+**Office Hours:** Mon Wed @ 5:00–6:00 PM in Cory 540AB  
+**Lectures:** Mon Tue Wed Thu @ 4:00–5:00 PM in Cory 540AB  
 **Labs:** Mon Tue Wed Thu @ 6:00–8:00 PM in Cory 540AB  
 **Discussion:** Tue Thu @ 8:00–9:00 PM in Cory 540AB  
 **OH Queue:** [oh.cs10.org](https://oh.cs10.org)  
