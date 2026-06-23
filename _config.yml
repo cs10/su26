@@ -52,6 +52,8 @@ aux_links:
     - 'https://snap.berkeley.edu/run'
   Gradescope:
     - 'https://www.gradescope.com/courses/1329547'
+  Media Gallery:
+    - 'https://bcourses.berkeley.edu/courses/1555435/external_tools/90481'
   OH Queue:
     - 'https://oh.cs10.org'
   # iClicker:
