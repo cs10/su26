@@ -6,7 +6,7 @@ due: "No Submission"
 gradescope_assignment_id: 
 submission_files:
 ---
-# Lab 1: Welcome to Snap! (No Submission)
+# Lab 00: Welcome to Snap! (No Submission)
 
 ## Instructions:
 This worksheet serves as a guide and set of instructions to complete lab 0. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.

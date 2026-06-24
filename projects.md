@@ -24,8 +24,8 @@ nav_order: 6
   </thead>
   <tbody>
     <tr>
-      <td><!-- <a href="/su25/projects/project1"> -->Project 1: Wordle™-lite<!-- </a> --></td>
-      <td><!-- <a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing"> -->Proj 1 Walkthrough Slides<!-- </a> --></td>
+      <td><a href="/su26/projects/project1">Project 1: Wordle™-lite</a></td>
+      <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td>
       <td>Tuesday, 6/23</td>
       <td>Monday, 6/29</td>
     </tr>
