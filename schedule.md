@@ -55,7 +55,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1nU2zI-dOO8LzAsE2yMGbVomGJLLzsdES/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 1. Build Your Own Blocks</td>
+      <td><a href="https://cs10.org/su26/labs/lab01/">Lab 1. Build Your Own Blocks</a></td>
       <td></td>
       <td></td>
     </tr>
