@@ -15,7 +15,7 @@ Oct 7
   : [2.4](#), [2.5](#)
 
 Oct 8
-: **Project**{: .label .label-green } [Project 1: Ants vs. Some Bees]({% link _projects/proj01.md %})
+: **Project**{: .label .label-green } Project 1
 
 Oct 9
 : [Runtime Analysis](#)
