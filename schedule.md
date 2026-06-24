@@ -45,7 +45,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1wlKwvH91C-GADjSkJA6z03VEWlM8-UxK/view?usp=sharing">(Slides)</a>
       </td>
-      <td><a href="https://cs10.org/sp26/labs/lab00/">Lab 0. Welcome to Snap!</a></td>
+      <td><a href="https://cs10.org/su26/labs/lab00/">Lab 0. Welcome to Snap!</a></td>
       <td>Discussion 1</td>
       <td>Project 1 Released</td>
     </tr>
