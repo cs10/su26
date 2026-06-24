@@ -53,7 +53,7 @@
       <td>Wed 6/24</td>
       <td>Lec 3. Abstraction II: Number Representation
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1nU2zI-dOO8LzAsE2yMGbVomGJLLzsdES/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 1. Build Your Own Blocks</td>
       <td></td>
@@ -63,7 +63,7 @@
       <td>Thu 6/25</td>
       <td>Lec 4. Boolean Expressions, Variables, Iteration
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://docs.google.com/presentation/d/1qYTsByI8i-bHzJaqYieAavt87vFoLPkGHhspDveQ-1U/edit?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 2. Conditionals, Reporters, &amp; Abstraction</td>
       <td>Discussion 2</td>
@@ -97,7 +97,7 @@
       <td>Mon 6/29</td>
       <td>Lec 5. Iteration Practice + Lists
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://docs.google.com/presentation/d/1dHSLMK8D_4Ci-m5c8jYw2K5ymtN1niZa/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
       </td>
       <td>Lab 3. Lists and Loops (Iteration)</td>
       <td></td>
@@ -107,7 +107,7 @@
       <td>Tue 6/30</td>
       <td>Lec 6. HOFs
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1DsZ4wso_yk6vacVARmOIiE3Sm65kVDQZ/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 4. Lists &amp; HOFs</td>
       <td>Discussion 3</td>
@@ -168,7 +168,7 @@
       <td>Tue 7/7</td>
       <td>Lec 9. Linear Recursion
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1MYKtOXkNaBl_zCYq1bP2n1X2yaBOKPYs/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 6. Boards</td>
       <td>Discussion 5</td>
@@ -178,7 +178,7 @@
       <td>Wed 7/8</td>
       <td>Lec 10. Fractal/Tree Recursion
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1q_0lG8Vf16jjOKUigHD8l-L5UaUJ-tvi/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 7. Recursive Reports (Linear Recursion)</td>
       <td></td>
@@ -188,7 +188,7 @@
       <td>Thu 7/9</td>
       <td>Lec 11. Algorithms/Algorithmic Complexity
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video 1)</a> / <a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video 2)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1e6GqiTuBOYd8ArgaZcGfAEAhKLnsiO0Q/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 8. Trees &amp; Fractals</td>
       <td>Discussion 6</td>
@@ -232,7 +232,7 @@
       <td>Tue 7/14</td>
       <td>Lec 13. AI + ML + LLMs
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 10. Data Science</td>
       <td>Discussion 7</td>
@@ -242,7 +242,7 @@
       <td>Wed 7/15</td>
       <td>Lec 14. Social Implications
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
       </td>
       <td>Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists</td>
       <td></td>
@@ -283,7 +283,7 @@
       <td>Mon 7/20</td>
       <td>Lec 15. Intro to Python + Data Types
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1U2FBFLBhkYvFRraKx5NmVfIY8oMH3RFS/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 11. Python Setup + Intro Python</td>
       <td></td>
@@ -303,7 +303,7 @@
       <td>Wed 7/22</td>
       <td>Lec 17. Data Structures (Dictionaries + Tuples)
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/18S4bhaIAD8l2Ezjimg9KKzNtCRAroDf_/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 13. Lists and Mutability</td>
       <td></td>
@@ -313,7 +313,7 @@
       <td>Thu 7/23</td>
       <td>Lec 18. OOP I
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://docs.google.com/presentation/d/1-IY0cxCQjPgQH_u9JTVIQWQpcjQSnY-K/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
       </td>
       <td>Lab 14. Data Structures</td>
       <td>Discussion 10</td>
@@ -367,7 +367,7 @@
       <td>Wed 7/29</td>
       <td>Lec 21. Tree Recursion
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 17. Python Linear Recursion</td>
       <td></td>
@@ -408,7 +408,7 @@
       <td>Mon 8/3</td>
       <td>Lec 22. Concurrency + Parallelism
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/153A_W03Eairr_pWKPIpXoBOBJmBz9t78/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 18. Tree Recursion</td>
       <td></td>
@@ -425,7 +425,7 @@
       <td>Wed 8/5</td>
       <td>Lec 23. Finale + Farewell
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
       </td>
       <td>Final Project Proposal Meetings</td>
       <td></td>
