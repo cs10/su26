@@ -54,8 +54,8 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 4</td>
       <td>Thu 7/2</td>
       <td><strong>No Discussion</strong></td>
-      <td>-</td>
-      <td>-</td>
+      <td>N/A</td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Discussion 5</td>
