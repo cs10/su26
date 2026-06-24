@@ -1,29 +1,26 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Wednesday, 7/9"
-gradescope_assignment_id: 
+due: "11:59 PM PST on Monday, 2/23"
+gradescope_assignment_id: 6577063
 submission_files:
     - starter.xml
 ---
 
-*Version 3.0. Last Updated: 2025-06-30.*
+*Version 3.0. Last Updated: 2024-09-15.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- *[Project walkthrough guide.pdf](https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing)*
-- Project walkthrough videos;[ Introduction](https://www.youtube.com/watch?v=rXS2Jq9OF2A&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=1),[ Part I: Letter Block](https://youtu.be/2v_qnLyhfC8?feature=shared), [Part II: Has Letter Block](https://youtu.be/40xbBg4GLes?feature=shared)
+*[Project walkthrough guide.pdf](https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view?usp=sharing)*
 
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=imenguechtouli&ProjectName=BJC%20CS10%20Project%202%3a%20Spelling%20Bee&editMode&Run)
-
-Project 2 is due Wednesday 7/9 @ 2359 hrs
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=CS10%20Project%202%3a%20Spelling%20Bee&editMode&noRun)
 
 Any important updates or clarifications will be made here.
-> Project 2 Party - Monday 7/7, 6-8 PM AND Wednesday 7/9, 5-8 PM @ Warren 101B
+> Project 2 Party is TBD
 
 ## Content
 
-[I. Submission Guidelines](#Submission-guidelines)
+[I. Submission Guidelines](#Submission-guidelines)  
 [II. Preface](#preface)  
 [III. Introduction](#Introduction)  
 [IV. Part 1: "letter" Block](#)
@@ -51,7 +48,7 @@ Any important updates or clarifications will be made here.
 
 **Important: Ensure that you use the starter file we’ve linked above- do NOT create your own Snap! file for this project!**
 
-You are **NOT allowed** to use explicit iteration (i.e. create for loops / repeat until loops) or recursion (which you’ll learn soon) in this project. Instead, you should rely on HOFs: specifically, `map`, `keep`, and `combine`. You are also not allowed to import any blocks.<br/> <br/>  Also, you may NOT use the built-in lowercase or uppercase blocks shown below:  <br/> <br/> ![Length of text snap block with uppercase/lowercase options](/su25/assets/images/p2/length.png)  <br/> <br/>  You **are allowed** to use `length of text`. 
+You are NOT allowed to use explicit iteration (i.e. create for loops / repeat until loops) or recursion (which you’ll learn soon) in this project. Instead, you should rely on HOFs: specifically, `map`, `keep`, and `combine`. You are also not allowed to import any blocks.<br/> <br/>  Also, you may NOT use the built-in lowercase or uppercase blocks shown below:  <br/> <br/> ![Length of text snap block with uppercase/lowercase options](/fa24/assets/images/p2/length.png)  <br/> <br/>  You **are allowed** to use `length of text`. 
 
 The expected timeframe for this project is about 10 hours, with a partner.
 - Read instructions - 40 minutes
@@ -69,7 +66,7 @@ In this project, you will need to collaborate with a partner to complete seven b
 
 In the game, the computer takes about ten seconds to generate (and solve) a hexagonally-shaped word puzzle composed of seven letters, with the center one depicted in yellow and six others on the outside. A reference photo of this puzzle display can be seen below:
 
-![Example of the hexagonally-shaped puzzle, with the center one 'D', and six others'R, E, C, H, N, W'](/su25/assets/images/p2/spellingbee-example.png)
+![Example of the hexagonally-shaped puzzle, with the center one 'D', and six others'R, E, C, H, N, W'](/fa24/assets/images/p2/spellingbee-example.png)
 
 To play the game, you need to create words using only the seven letters provided, and every word must include the middle letter to be considered valid. After typing your guess, press the “Return” (or “Enter”) key to submit it. Your guess will be added to the list of correct guesses if it meets the following criteria: it includes the middle letter, uses only the seven letters from the puzzle, is in the wordlist `WORDS`, and has not been guessed before.
 
@@ -81,49 +78,43 @@ We strongly encourage you to play this game on the [NY Times Spelling Bee site](
 
 If you’re having trouble, please contact the course staff for assistance — Ed, Office Hours, and Project Parties- are all here to help you feel good about the work you’re doing, or get you unstuck!
 
-A project introductory video, explaining rules, guidelines, and steps can be found [here](https://www.youtube.com/watch?v=rXS2Jq9OF2A&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=1). (Thank you Jaclyn!) 
-
 ## **Part 1:** <Letter []> Block
 
 First, you’ll build a **predicate block** (aka the “letter” block) that should report *True* iff (if and only if) the input is a single-character letter a-z or A-Z, and *False* if it is not. E.g.,
 
-![Testcases for Part 1 Block](/su25/assets/images/p2/P2-Part1Tests.png)
-
-For more hints check out this [Project Walkthrough video](https://www.youtube.com/watch?v=2v_qnLyhfC8&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=2)
+![Testcases for Part 1 Block](/fa24/assets/images/p2/P2-Part1Tests.png)
 
 ## **Part 2:** < [] has letter [] > Block 
 
 Next, you’ll build a **predicate** (aka the “has letter” block) that should report *True* iff the first input (a word) contains the letter. E.g.,
 
-![Testcases for Part 2 Block](/su25/assets/images/p2/P2-Part2Tests.png)
-
-For more hints check out this [Project Walkthrough video](https://www.youtube.com/watch?v=40xbBg4GLes&list=PL0eCszHptci94odLL7RRtCt4NGhtzsolh&index=3)
+![Testcases for Part 2 Block](/fa24/assets/images/p2/P2-Part2Tests.png)
 
 **For this block, you may assume that both inputs will always utilize uppercase letters.**
 
 > Pro Tip: We found the following blocks extremely useful: <br/>
-![Two Snap! Blocks, Split [] by [] and <list contains[]>](/su25/assets/images/p2/P2-Part2ProTip.png)
+![Two Snap! Blocks, Split [] by [] and <list contains[]>](/fa24/assets/images/p2/P2-Part2ProTip.png)
 
 ## **Part 3:** (uppercase word []) Block
 
 Next, you’ll build a reporter (aka the “uppercase” block) that should report all the letters of its input (assumed to be a-zA-Z) in uppercase. E.g.,
 
-![Testcases for Part 3 Block](/su25/assets/images/p2/P2-Part3Test.png)
+![Testcases for Part 3 Block](/fa24/assets/images/p2/P2-Part3Test.png)
 
 **Reminder: You may NOT use the built-in lowercase or uppercase blocks shown below:**  
- ![Length of text snap block with uppercase/lowercase options](/su25/assets/images/p2/lengthoftest.png)
+ ![Length of text snap block with uppercase/lowercase options](/fa24/assets/images/p2/lengthoftest.png)
 
  The intention is to learn how to implement these blocks yourself. You are however, allowed to use length of text. 
 
 > Pro Tip: We found these blocks extremely helpful <br/>
- ![Snap Blocks: `split [] by []`, `unicode () as letter`, `unicode of []`](/su25/assets/images/p2/P2-Part3ProTip.png)
+ ![Snap Blocks: `split [] by []`, `unicode () as letter`, `unicode of []`](/fa24/assets/images/p2/P2-Part3ProTip.png)
 
 
 ## **Part 4:** (lowercase word []) Block
 
 Next, you’ll build a reporter (aka the “lowercase” block) that should report all the letters of its input (assumed to be a-z and A-Z) in lowercase. E.g.,
 
-![Testcases for Part 4 Block](/su25/assets/images/p2/P2-Part4Tests.png)
+![Testcases for Part 4 Block](/fa24/assets/images/p2/P2-Part4Tests.png)
 
 > See same **reminder** and **Pro Tip** above
 
@@ -131,29 +122,29 @@ Next, you’ll build a reporter (aka the “lowercase” block) that should repo
 
 Next, you’ll build a predicate (aka the “has only” block) that should report *True* iff the first input word is comprised only of the letters given, and *False* otherwise. You may assume the letters are all unique. E.g.,
 
-![Testcases for Part 5 Block](/su25/assets/images/p2/P2-Part5Tests.png)
+![Testcases for Part 5 Block](/fa24/assets/images/p2/P2-Part5Tests.png)
 
 **For this block, you may assume that both inputs will always utilize uppercase letters.**
 
 > Pro Tip: We found the following blocks extremely useful: <br/>
-![Three Snap! Blocks, <list contains[]>, is [list] empty, and Split [] by []](/su25/assets/images/p2/P2-Part5ProTip.png)
+![Three Snap! Blocks, <list contains[]>, is [list] empty, and Split [] by []](/fa24/assets/images/p2/P2-Part5ProTip.png)
 
 ## **Part 6:** < [] is a pangram using all letters [] > Block 
 
 Next, you’ll build a predicate (aka the “pangram” block) that should report *True* iff the first input word uses all of the letters given, and  otherwise. It’s ok if the first word contains letters not in the letters parameter, as in the fourth example. You may assume the letters are all unique. E.g.,
 
-![Testcases for Part 6 Block](/su25/assets/images/p2/P2-Part6Tests.png)
+![Testcases for Part 6 Block](/fa24/assets/images/p2/P2-Part6Tests.png)
 
 **For this block, you may assume that both inputs will always utilize uppercase letters.**
 
 > Pro Tip: We found the following blocks extremely useful: <br/>
-![Three Snap! Blocks, <list contains[]>, is [list] empty, and Split [] by []](/su25/assets/images/p2/P2-Part5ProTip.png)
+![Three Snap! Blocks, <list contains[]>, is [list] empty, and Split [] by []](/fa24/assets/images/p2/P2-Part5ProTip.png)
 
 ## **Part 7:** complete solution to puzzle () using words [] Block 
 
 Next, you’ll build a reporter (aka the “solution” block) that reports the solution to the Spelling Bee puzzle given the word list. The solution is a list of words, where each word has two properties: (1) it contains the first letter of the puzzle (how we store the "center" word), (2) it only includes the letters of the puzzle. All pangrams (words that use all the letters of the puzzle) are listed in UPPERCASE. There are no limits to the number of letters in the puzzle or the number of letters in the words in the list. For the autograder to work, the words need to stay in the same order as the original word list.
 
-![Testcases for Part 7 Block](/su25/assets/images/p2/P2-Part7Tests.png)
+![Testcases for Part 7 Block](/fa24/assets/images/p2/P2-Part7Tests.png)
 
 
 ## Rubric 
@@ -173,4 +164,6 @@ Note: correct, working code should handle those test cases, but not have the tes
 | complete solution to puzzle _ using words _ | 7.5   | Reporter | list and string | string
 
 ## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/ow1JkQJwprNHA4tq9). Each person should submit this feedback form. Thank you!
+Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/5T1EMXyLzm6jzzvSA). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
+
+

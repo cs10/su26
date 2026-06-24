@@ -1,27 +1,25 @@
 ---
 title: Project 5
 description: Final Project - The Project 
-due: "11:59 PM PST on Thursday, 8/07"
-gradescope_assignment_id: 
+due: "11:59 PM PST on Monday, 5/4"
+gradescope_assignment_id: 5617938
 submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2025-07-31.*
+*Version 1.0. Last Updated: 2025-11-03.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance.
+- You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance, leading to a 50% deduction in your final project score.
 
 > There are three required components for the project:
 >>The project / code itself
 >>README / documentation on your project
 >>Video of your group interacting with your project
 
->Project 5 Parties (during lab from 10 to 2PM in Soda 330)
->>Monday, 8/11
->>Tuesday, 8/12 
->>Thursday, 8/13 
+>Project 5 Parties (TBD)
+>>TBD
 
 ## Content
 
@@ -51,11 +49,11 @@ submission_files:
 
 | Group w/ 2 Features | Group w/ 3 Features |
 | :--------: | :-------: |
-| Feature 1: 8/8  |Feature 1: 8/8   |
-| Feature 2: 8/11  | Feature 2: 8/10  |
-| Full Project Submission Ready: 8/12  | Feature 3: 8/12  |
-| README and Submission: By 8/14  | Full Project Submission Ready: 8/13   |
-|   | README and Submission: By 8/14   |
+| Feature 1: 4/20  |Feature 1: 4/17   |
+| Feature 2: 4/27  | Feature 2: 4/23  |
+| Full Project Submission Ready: 4/30  | Feature 3: 4/29  |
+| README and Submission: By 5/4  | Full Project Submission Ready: 5/1   |
+|   | README and Submission: By 5/4   |
 
 
 ## Introduction
@@ -137,7 +135,7 @@ You should submit two things to the Gradescope final project assignment:
 
 Your project will be graded for style and technical correctness according to the following rubric. After you get your grades back, you can submit regrade requests via Gradescope (if you feel we missed something in your original file submission).  
 
-Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/su25/assets/images/p6/p6-1.png)
+Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa25/assets/images/p6/p6-1.png)
 
 | README | (10 pts) |
 | -------- | ------- |
@@ -186,6 +184,7 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 - [Bug Writeup](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?usp=sharing)
 - [Project Proposal Spec](https://cs10.org/fa25/projects/project6-proposals/) 
 - [Commenting Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)
+
 
 
 

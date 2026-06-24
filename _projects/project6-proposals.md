@@ -1,20 +1,27 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 8/4"
-gradescope_assignment_id: 5617918
+due: "11:59 PM PST on Monday, 4/6"
+gradescope_assignment_id: 6577061
 submission_files:
     - N/A
 ---
 
-*Version 1.1. Last Updated: 2025-07-27.*
+*Version 1.1. Last Updated: 2026-04-03.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
+**[Sign up for a 10-minute Project 5 Proposal Meeting HERE](https://calendar.app.google/wB8NA3KBW1jGhodq9)**
+
 - Meeting with a Staff Member
-    - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score.
-        - Click here for the [link to sign up](https://calendar.app.google/MTyzGbfw35UVbEFS9)
-    - Meetings will run a specific times during Week 7 (August 6th-7th during Lab)
+    - Before meeting with a staff member, you must submit your proposal.
+    - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Spring 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
+        - Click here for the [link to sign up](https://calendar.app.google/wB8NA3KBW1jGhodq9)
+    - Meetings will run at specific times during Week 12 (April 6th through April 10th)
+    - 1 or more attendees required (not all group members need to be present)
+- Sign-up is due by 11:59 PM PST on Monday, 4/6, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
+- If you cannot attend any of the available sign-up slots or if all slots are full, please post on Ed as soon as possible so we can make further arrangements.
+
 
 ## Content
 
@@ -34,11 +41,11 @@ submission_files:
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Wed-Thur during Week 7 in Soda 330. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](#).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 12 in Soda 341B or online (will be specified in sign-up). To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Monday, 8/4 at 11:59pm PDT. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
-- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times. 
-- If none of the times work for you, please make a private post or attend Stacey's Support OH. If you can't meet with a staff member and do not receive project approaval, you will receive a 0 on this part of the project.
+- The deadline for this proposal part of the project is Monday, 11/10 at 11:59pm PST. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
+- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
+- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 11/10, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
 
 ## Introduction
 
@@ -57,55 +64,31 @@ If your project idea relies heavily on the following, we recommend you consider 
 - Robot/AI player: Depending on the game, this could be a good fit, or too complex. An AI player for chess or Go would be too complex. 
 - Games like Pong, Tic-Tac-Toe, Guess the word, Hangman, dress-up games, point and click games would not be complex enough and are NOT ALLOWED.
 - Games like Angry Birds, Balloons Tower Defense, or Need for Speed would likely be too complex. 
-- Games previously implemented in Projects or in other classes are not allowed (because you’ve already done them).
+- Games previously implemented in Projects are not allowed (because you’ve already done them).
 - Use of generative AI is NOT allowed.
 
-Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of having a proposal and proposal review process, so you can work with staff to get your project complexity into the right range! 
+Don’t be worried if you really like a project idea but think it may be too complex, or not complex enough — that’s the purpose of having a proposal and proposal review process, so you can work with a TA to get your project complexity into the right range! 
 
 When considering what your project is, and how you plan to implement it, see if you can figure out a solution or a structure for a solution first, before defaulting to what you’ve seen done before! A few gauges for the complexity of the kinds of solutions we’re looking for are: coming up with logic to check for four-in-a-row in Connect 4 or recreating Flappy Bird in Snap!
 
 Of course, there’s a range of project complexity that falls into the “accepted proposal” range. Here are a few examples.
 
 - [The Chrome Dinosaur Game:](https://chromedino.com/)
-    - Feature 1: Dynamic G/UI
+    - Feature 1: TWO DIFFERENT OBSTACLES 
         - Randomly generated shrubs and pterodactyls appear on the screen as obstacles.
-        - Obstacles traveling at different speeds (otherwise project will not be complex enough)
-        - Stages or characters move or change with user control
-        - Scoreboards
-        - Colors + Sound
-        - E.G LOSE : skull you die! + scary noise
-    - Feature 2: Algorithm
-        - An algorithm that should manage board / display
-        - What is the win/lose condition?
+        - Obstacles NEED to be traveling at different speeds (otherwise project will not be complex enough)
+    - Feature 2: The game ends when the dinosaur runs into an object.
 - [Mancala:](https://www.mathplayground.com/mancala.html)
-    - Feature 1: Board Representation / Data Structures
-        - Using lists / data structures to represent board. 
-        - When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
-    - Feature 2: Algorithm
-        - An algorithm that controls game. 
-        - What is the win/lose condition? Game over when all marbles are in the two goals, winner is the one with more marbles. 
+    - Feature 1: When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
+    - Feature 2: Game over when all marbles are in the two goals, winner is the one with more marbles
 - [Doodle Jump:](http://poki.com/en/g/doodle-jump)
-    - Feature 1: Dynamic GUI
-        - Randomly generated platforms
-        - Stages or enemies move or change
-        - Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
-        - Scoreboards
-        - Colors + Sound
-    - Feature 2: Algorithm
-        - An algorithm that controls game. 
-        - What is the win/lose condition? Game ends when Doodle falls off the screen
+    - Feature 1: Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
+    - Feature 2: Game ends when Doodle falls off the screen
 - [Bubble Shooter (Difficult):](http://www.shooter-bubble.com/)
-    - Feature 1: OOP
-        - Makes up for the lack of GUI
-        - Messaging passing
-        - Algorithms/Randomizer
-        - Computer will generate randomly colored bubbles that players can shoot
-    - Feature 2: Algorithms / Data Structures
-        - If the program detects groups of the same color, it will delete them.
+    - Feature 1: Computer will generate randomly colored bubbles that players can shoot
+    - Feature 2: If the program detects groups of the same color, it will delete them.
 
 Other projects that fit complexity requirements that students have done in the past include: Frogger, Checkers, Flappy Bird, Snake, Chutes & Ladders, various puzzle games, various board games, data science analysis, Battleship, and chatbots.
-
-We also encourage you to be creative. Make your own ideas. A good rule of thumb is that your project should always progress, move towards a goal, or be dynamic. 
 
 ## Technical Requirements
 
@@ -113,7 +96,7 @@ There are certain technical and style requirements that we want you to be able t
 
 - Non-trivial list: Your project should include at least one non-trivial list, meaning a list whose function could not be simply replaced with another implementation. Often this can be a tracker of high scores, or part of a game board.
 - Custom block/function: Your project should include at least TWO functions that you define yourself. There is no restriction on what type of function this should be, whatever suits your project is what you should do!
-- Script/local variable: Your project should include at least one non-global variable. 
+- Script/local variable: Your project should include at least one <em>non-global</em> variable. 
 
 ## Required Features
 
@@ -130,8 +113,9 @@ On top of the technical requirement your project must have required features. He
     - Must include:
         - A visual print statement of current state of program
         - A list of functions the user can (such as help, place move, restart, etc.)
-- Extensive use of OOP in Python 
+- Extensive use of OOP in Python (not Snap!)
     - The main logic of the name would use an OOP structure
+    - Most likely, all final projects completed in Snap! will need to use extensive OOP in Snap!, so we are not counting OOP in Snap! as a feature.
 - API calls (calls to other programs or websites) - Don’t worry about doing this one; but it’s an option if you’re interested!
 - Structures keeping track of important data
     - Examples: Dictionaries, Lists, Trees, Sets
@@ -163,14 +147,16 @@ So now that you’ve got a project idea in mind, it’s time to write about it! 
 - How will someone interact with your project? Describe the controls that will be used. For Projects 1-2, the answer to this question would be text input via keyboard. For Project 3, the answer would be keyboard controls/arrow keys. 
 - What are the technical elements behind your features? Go into more detail about your preliminary thoughts about how you’ll make the 2-3 features happen. What you come up with here doesn’t have to be exactly what you end up doing, but it should convey how you plan on implementing the project in terms of blocks/functions or computing ideas. For example, Pytris utilizes object-oriented programming to build and abstract different elements of the game.
 
-Here is an [example proposal](https://docs.google.com/document/d/1gy4L6KfyPLT01Xt7acnBNbHwCyI1QR9uXGyin9UWFXc/edit?usp=sharing); it should give a sense of how much detail we want you to go into on the proposal. Feel free to make a copy. 
+Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing); it should give a sense of how much detail we want you to go into on the proposal. Feel free to make a copy. 
 
 
 ## Submission Guidelines
 
-By Monday, August 4th 2359 hrs deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+By Monday, April 6th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
+
+![How to add partner to Gradescope](/fa25/assets/images/p6/p6-1.png)
 
 Your project proposal review will take place during the time slot your group signs up for. These slots are during the lab. You need to ensure that you can show up for the time slot you signed up for. 
 
@@ -190,5 +176,8 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
+
+
 
 
