@@ -7,7 +7,7 @@ nav_order: 8
 
 # Labs
 
-Supplementary Lab Slides can be found in this <!-- [folder](https://drive.google.com/drive/folders/1Hoxs9rcVy3Gh4F1ze6SyTOwq2cpjJMgh?usp=drive_link) -->folder.
+Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-lab).
 
 > Labs are an opportunity to apply what you've learned in lecture through coding and other formats. Each lab includes both conceptual and coding components. Lab assignments must be uploaded and autograded on Gradescope. Quiz Reviews—specifically the Quiz 1 Review and the two Quiz 2 Reviews—also count toward your lab grade. To receive credit, you must complete both the coding and non-coding portions (unless otherwise specified). Credit for these practice quizzes is based on completion, not your score.
 
