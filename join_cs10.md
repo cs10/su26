@@ -22,7 +22,7 @@ nav_order: 10
 **No**, you won’t be penalized for assignments due before you joined. In fact, you will receive a new set of deadlines according to the date you join. Lecture attendance for past lectures will be waived.
 
 ### Will deadlines be adjusted for me?  
-**Yes**, your deadlines for the past assignments will be adjusted based on the date you joined. You can view and follow the adjusted due dates in the **[Late Add Deadline Tracker](https://docs.google.com/spreadsheets/d/1JCw4tOUOo6kHcfqI5oTZJoUH1KfCNu9DgtIaEMSMdMU/edit?usp=sharing)**. Note you must be logged into your UC Berkeley account. 
+**Yes**, your deadlines for the past assignments will be adjusted based on the date you joined. You can view and follow the adjusted due dates in the **[Late Add Deadline Tracker](https://docs.google.com/spreadsheets/d/1SZaFfzb10sJHZQQOCaNz1xNI31aOZ2fvOiOdDncKRfk/edit?usp=sharing)**. Note you must be logged into your UC Berkeley account. 
 
 ### Do I still need to take the first exam?  
 **Yes**, all students are required to take the first exam: Quiz 1. Other exam policies can be found in our [syllabus](https://cs10.org/su26/syllabus/#exams)!
