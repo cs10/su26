@@ -61,9 +61,9 @@ Output:
     - Input: Yellow --> Output: Yield
 
 Examples:
-- ![example of traffic signal reporter 'Yellow' with output 'Yield'](assets/images/lab_images/lab3_b1_1.png)
-- ![example of traffic signal reporter 'Red' with output 'Stop'](assets/images/lab_images/lab3_b1_2.png)
-- ![example of failed traffic signal reporter 'Cheese' with output 'did not report'](assets/images/lab_images/lab3_b1_3.png)
+- ![example of traffic signal reporter 'Yellow' with output 'Yield']({{ site.baseurl }}assets/images/lab_images/lab3_b1_1.png)
+- ![example of traffic signal reporter 'Red' with output 'Stop']({{ site.baseurl }}assets/images/lab_images/lab3_b1_2.png)
+- ![example of failed traffic signal reporter 'Cheese' with output 'did not report']({{ site.baseurl }}assets/images/lab_images/lab3_b1_3.png)
 
 ## [Block 2: letter grade (number)](https://cs10.org/bjc-r/cur/programming/functions/reporters.html?1&1&1&2&2&2&3&3&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 Objective:
@@ -84,9 +84,9 @@ Output:
     - **A**: 90-100, **B**: 80-89.99, **C**: 70-89.99, **D**: 60-69.99, **F**: < 60
 
 Examples:
-- ![example of letter grade reporter '89.999' with output 'B'](assets/images/lab_images/lab3_b2_1.png)
-- ![example of letter grade reporter '70' with output 'C'](assets/images/lab_images/lab3_b2_2.png)
-- ![example of letter grade reporter '2' with output 'F'](assets/images/lab_images/lab3_b2_3.png)
+- ![example of letter grade reporter '89.999' with output 'B']({{ site.baseurl }}assets/images/lab_images/lab3_b2_1.png)
+- ![example of letter grade reporter '70' with output 'C']({{ site.baseurl }}assets/images/lab_images/lab3_b2_2.png)
+- ![example of letter grade reporter '2' with output 'F']({{ site.baseurl }}assets/images/lab_images/lab3_b2_3.png)
 
 ## [Block 3: is (num1) between (num2) and (num3)](https://cs10.org/bjc-r/cur/programming/functions/predicates/predicates-make-a-between-block.html?1&1&1&2&2&2&3&3&3&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 Objective:
@@ -102,10 +102,10 @@ Output:
 - Reports a boolean (True or False) 
 
 Examples:
-- ![example of is '3' between '1' and '5' and reports 'True'](assets/images/lab_images/lab3_b3_1.png)
-- ![example of is '9' between '1' and '5' and reports 'False'](assets/images/lab_images/lab3_b3_2.png)
-- ![example of is '88' between '36' and '-5' and reports 'False'](assets/images/lab_images/lab3_b3_3.png)
-- ![example of is '4' between '4' and '4' and reports 'True'](assets/images/lab_images/lab3_b3_4.png)
+- ![example of is '3' between '1' and '5' and reports 'True']({{ site.baseurl }}assets/images/lab_images/lab3_b3_1.png)
+- ![example of is '9' between '1' and '5' and reports 'False']({{ site.baseurl }}assets/images/lab_images/lab3_b3_2.png)
+- ![example of is '88' between '36' and '-5' and reports 'False']({{ site.baseurl }}assets/images/lab_images/lab3_b3_3.png)
+- ![example of is '4' between '4' and '4' and reports 'True']({{ site.baseurl }}assets/images/lab_images/lab3_b3_4.png)
 
 ## [Block 4: sum of two smallest (num1) and (num2) and (num3)]
 Objective:
@@ -121,9 +121,9 @@ Output:
 - Reports: Num (the sum of the smallest two numbers) 
 
 Examples:
-- ![example of sum of two smallest '2' and '5' and '5' and reports '7'](assets/images/lab_images/lab3_b4_1.png)
-- ![example of sum of two smallest '9' and '9' and '9' and reports '18'](assets/images/lab_images/lab3_b4_2.png)
-- ![example of sum of two smallest '1' and '12' and '2' and reports '3'](assets/images/lab_images/lab3_b4_1.png)
+- ![example of sum of two smallest '2' and '5' and '5' and reports '7']({{ site.baseurl }}assets/images/lab_images/lab3_b4_1.png)
+- ![example of sum of two smallest '9' and '9' and '9' and reports '18']({{ site.baseurl }}assets/images/lab_images/lab3_b4_2.png)
+- ![example of sum of two smallest '1' and '12' and '2' and reports '3']({{ site.baseurl }}assets/images/lab_images/lab3_b4_1.png)
 
 > Hint: Look at the [max block](https://cs10.org/bjc-r/cur/programming/functions/review-max-block.html?1&1&1&2&2&2&3&3&3&4&4&topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment). How does it work? 
 
