@@ -65,7 +65,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://docs.google.com/presentation/d/1qYTsByI8i-bHzJaqYieAavt87vFoLPkGHhspDveQ-1U/edit?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 2. Conditionals, Reporters, &amp; Abstraction</td>
+      <td><a href="https://cs10.org/su26/labs/lab02/">Lab 2. Conditionals, Reporters, &amp; Abstraction</a></td>
       <td>Discussion 2</td>
       <td></td>
     </tr>
