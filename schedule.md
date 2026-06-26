@@ -74,7 +74,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Project Party</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
