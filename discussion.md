@@ -40,7 +40,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 2</td>
       <td>Thu 6/25</td>
       <td>Data-types, Domain / Range, Number Representation</td>
-      <td><!-- <a href="https://drive.google.com/drive/u/0/folders/1iQIyscHTTV3E3iibGPUcRgktiZFGHEuK">Worksheet 2</a> --></td>
+      <td><a href="https://docs.google.com/document/d/15kZXRoaKa0KRzKNH322Y-4gBVHHtunsX/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 2</a> / <a href="https://docs.google.com/presentation/d/11u997wNpHjxHretNz8Z8rXKpd2BFdIlwseOLM_13WJU/edit?usp=sharing">(Slides 2)</a></td>
       <td><!-- <a href="https://drive.google.com/file/d/1oaAIEH5NS-j__zF_a0PcB7cMP8SPpOTS/view?usp=sharing">Annotations 2</a> --></td>
     </tr>
     <tr>
