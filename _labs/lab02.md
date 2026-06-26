@@ -81,7 +81,7 @@ Inputs:
 Output: 
 - Reports: Text 
 - The following outputs need to be case sensitive to pass the autograder. No spaces, no quotes ""
-    - **A**: 90-100, **B**: 80-89.99, **C**: 70-89.99, **D**: 60-69.99, **F**: < 60
+    - **A**: 90-100, **B**: 80-89.99, **C**: 70-79.99, **D**: 60-69.99, **F**: < 60
 
 Examples:
 - ![example of letter grade reporter '89.999' with output 'B']({{ site.baseurl }}/assets/images/lab_images/lab3_b2_1.png)
