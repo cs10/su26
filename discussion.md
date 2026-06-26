@@ -34,21 +34,21 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Tue 6/23</td>
       <td>Welcome to Snap<em>!</em></td>
       <td><a href="https://docs.google.com/document/d/14UMsuGWCHcTYRt1VWruRKrguVHNQX9Gi/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 1</a></td>
-      <td><!-- <a href="https://drive.google.com/file/d/1QB5Y4fT-N63k7wbvjssfSFw7umhC2wzw/view?usp=sharing">Annotations 1</a> --></td>
+      <td>Annotations 1<!-- <a href="https://drive.google.com/file/d/1QB5Y4fT-N63k7wbvjssfSFw7umhC2wzw/view?usp=sharing">Annotations 1</a> --></td>
     </tr>
     <tr>
       <td>Discussion 2</td>
       <td>Thu 6/25</td>
       <td>Data-types, Domain / Range, Number Representation</td>
-      <td><a href="https://docs.google.com/document/d/15kZXRoaKa0KRzKNH322Y-4gBVHHtunsX/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 2</a> / <a href="https://docs.google.com/presentation/d/11u997wNpHjxHretNz8Z8rXKpd2BFdIlwseOLM_13WJU/edit?usp=sharing">(Slides 2)</a></td>
-      <td><!-- <a href="https://drive.google.com/file/d/1oaAIEH5NS-j__zF_a0PcB7cMP8SPpOTS/view?usp=sharing">Annotations 2</a> --></td>
+      <td><a href="https://docs.google.com/document/d/15kZXRoaKa0KRzKNH322Y-4gBVHHtunsX/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 2</a></td>
+      <td><a href="https://docs.google.com/presentation/d/11u997wNpHjxHretNz8Z8rXKpd2BFdIlwseOLM_13WJU/edit?usp=sharing">(Slides 2)</a><!-- <a href="https://drive.google.com/file/d/1oaAIEH5NS-j__zF_a0PcB7cMP8SPpOTS/view?usp=sharing">Annotations 2</a> --></td>
     </tr>
     <tr>
       <td>Discussion 3</td>
       <td>Tue 6/30</td>
       <td>Boolean Operators, Scoping, and Lists</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1nmOZPQixUNUloeppGi8ou3WcHzXrIvkX?usp=sharing">Worksheet 3</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1Lc3OHnVIHYPVxLA7lAy9WUPw-h351bkKaYgnTNRFHTQ/edit?slide=id.p#slide=id.p">Annotations 3</a> --></td>
+      <td>Worksheet 3<!-- <a href="https://drive.google.com/drive/folders/1nmOZPQixUNUloeppGi8ou3WcHzXrIvkX?usp=sharing">Worksheet 3</a> --></td>
+      <td>Annotations 3<!-- <a href="https://docs.google.com/presentation/d/1Lc3OHnVIHYPVxLA7lAy9WUPw-h351bkKaYgnTNRFHTQ/edit?slide=id.p#slide=id.p">Annotations 3</a> --></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
@@ -61,57 +61,57 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 5</td>
       <td>Tue 7/7</td>
       <td>HOFs and Lambdas</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1DqoRuOskeyF3rXhc49HQsiY7QZCANot4S7iHBRxybsY/edit?usp=sharing">Annotations 5</a> --></td>
+      <td>Worksheet 5<!-- <a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a> --></td>
+      <td>Annotations 5<!-- <a href="https://docs.google.com/presentation/d/1DqoRuOskeyF3rXhc49HQsiY7QZCANot4S7iHBRxybsY/edit?usp=sharing">Annotations 5</a> --></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
       <td>Thu 7/9</td>
       <td>Nested Lists, Linear Recursion, and Tree Recursion</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1bkOGZfM5PxubMFk7OvUkVdxKMfk9KDAT?usp=sharing">Worksheet 6</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1GL1UWCSr0J1BGtprgV80s82ePZ8zCD64klp0BbAeQww/edit?slide=id.p#slide=id.p">Annotations 6</a> --></td>
+      <td>Worksheet 6<!-- <a href="https://drive.google.com/drive/folders/1bkOGZfM5PxubMFk7OvUkVdxKMfk9KDAT?usp=sharing">Worksheet 6</a> --></td>
+      <td>Annotations 6<!-- <a href="https://docs.google.com/presentation/d/1GL1UWCSr0J1BGtprgV80s82ePZ8zCD64klp0BbAeQww/edit?slide=id.p#slide=id.p">Annotations 6</a> --></td>
     </tr>
     <tr>
       <td>Discussion 7</td>
       <td>Tue 7/14</td>
       <td>Algorithms and Algorithmic Complexity</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1YN3lSNWiAntR-9vHF_fS8o4abB6SH8Je?usp=drive_link">Worksheet 7</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
+      <td>Worksheet 7<!-- <a href="https://drive.google.com/drive/folders/1YN3lSNWiAntR-9vHF_fS8o4abB6SH8Je?usp=drive_link">Worksheet 7</a> --></td>
+      <td>Annotations<!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
     </tr>
     <tr>
       <td>Discussion 8</td>
       <td>Thu 7/16</td>
       <td>Quiz 2 Practice</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a> --></td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Solutions 8</a> --></td>
+      <td>Worksheet 8<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a> --></td>
+      <td>Solutions 8<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Solutions 8</a> --></td>
     </tr>
     <tr>
       <td>Discussion 9</td>
       <td>Tue 7/21</td>
       <td>Intro to Python</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1mpCMhSejeUjYB6M9Cp6x31Xdm3aAmhhh8MNSwvTc3_g/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 9</a> --></td>
+      <td>Worksheet 9<!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a> --></td>
+      <td>Annotations 9<!-- <a href="https://docs.google.com/presentation/d/1mpCMhSejeUjYB6M9Cp6x31Xdm3aAmhhh8MNSwvTc3_g/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 9</a> --></td>
     </tr>
     <tr>
       <td>Discussion 10</td>
       <td>Thu 7/23</td>
       <td>Python Practice and Data Structures</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a> --></td>
+      <td>Worksheet 10<!-- <a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a> --></td>
+      <td>Annotations 10<!-- <a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a> --></td>
     </tr>
     <tr>
       <td>Discussion 11</td>
       <td>Tue 7/28</td>
       <td>Object Oriented Programming</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1KUh8Qp8OP0gak5qvMG87OfL-GzGAc286?usp=drive_link">Worksheet 11</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1e5MoKKdTqdoKqGlHKH4THgdn905KEhTDPfbzMDFw9fY/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 11</a> --></td>
+      <td>Worksheet 11<!-- <a href="https://drive.google.com/drive/folders/1KUh8Qp8OP0gak5qvMG87OfL-GzGAc286?usp=drive_link">Worksheet 11</a> --></td>
+      <td>Annotations 11<!-- <a href="https://docs.google.com/presentation/d/1e5MoKKdTqdoKqGlHKH4THgdn905KEhTDPfbzMDFw9fY/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 11</a> --></td>
     </tr>
     <tr>
       <td>Discussion 12</td>
       <td>Thu 7/30</td>
       <td>Recursion + Quiz 3 Practice</td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing">Worksheet 12</a> --></td>
-      <td><!-- <a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63">Annotations 12</a> --></td>
+      <td>Worksheet 12<!-- <a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing">Worksheet 12</a> --></td>
+      <td>Annotations 12<!-- <a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63">Annotations 12</a> --></td>
     </tr>
     <tr>
       <td>Discussion 13</td>
