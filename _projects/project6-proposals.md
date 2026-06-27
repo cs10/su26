@@ -1,8 +1,8 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 4/6"
-gradescope_assignment_id: 6577061
+due: "11:59 PM PST on Monday, 8/3"
+gradescope_assignment_id: 8254655
 submission_files:
     - N/A
 ---
@@ -15,37 +15,31 @@ submission_files:
 
 - Meeting with a Staff Member
     - Before meeting with a staff member, you must submit your proposal.
-    - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Spring 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
+    - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Summer 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
         - Click here for the [link to sign up](https://calendar.app.google/wB8NA3KBW1jGhodq9)
-    - Meetings will run at specific times during Week 12 (April 6th through April 10th)
+    - Meetings will run at specific times during Week 7 (August 3rd through August 7th)
     - 1 or more attendees required (not all group members need to be present)
-- Sign-up is due by 11:59 PM PST on Monday, 4/6, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
+- Sign-up is due by 11:59 PM PST on Monday, 8/3, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
 - If you cannot attend any of the available sign-up slots or if all slots are full, please post on Ed as soon as possible so we can make further arrangements.
 
 
 ## Content
 
 [I. Important logistics](#important-logistics)
-
 [II. Introduction](#introduction)
-
 [III. Complexity Guidelines](#complexity-guidelines)
-
 [IV. Required Features](#required-features)
-
 [V. Proposal Contents](#proposal-contents)
-
 [VI. Submission Guidelines](#submission-guidelines)
-
 [VII. Proposal Review: What to Expect](#proposal-review-what-to-expect)
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 12 in Soda 341B or online (will be specified in sign-up). To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 7 in Cory 540AB or online (will be specified in sign-up). To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Monday, 11/10 at 11:59pm PST. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
+- The deadline for this proposal part of the project is Monday, 8/3 at 11:59pm PST. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
 - Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
-- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 11/10, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
+- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 8/3, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
 
 ## Introduction
 
@@ -81,7 +75,7 @@ Of course, there’s a range of project complexity that falls into the “accept
 - [Mancala:](https://www.mathplayground.com/mancala.html)
     - Feature 1: When a player chooses a group of marbles, those marbles get distributed around the board, picking up more marbles when the last one falls on a non-empty hole
     - Feature 2: Game over when all marbles are in the two goals, winner is the one with more marbles
-- [Doodle Jump:](http://poki.com/en/g/doodle-jump)
+- [Doodle Jump:](https://doodlejumpio.github.io/)
     - Feature 1: Doodle jumps continuously, moving higher up in the sky as he lands on bouncing platforms that continuously move downwards
     - Feature 2: Game ends when Doodle falls off the screen
 - [Bubble Shooter (Difficult):](http://www.shooter-bubble.com/)
@@ -152,11 +146,11 @@ Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p
 
 ## Submission Guidelines
 
-By Monday, April 6th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+By Monday, August 3rd 11:59pm PST, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
 
-![How to add partner to Gradescope](/fa25/assets/images/p6/p6-1.png)
+![How to add partner to Gradescope](/assets/images/p6/p6-1.png)
 
 Your project proposal review will take place during the time slot your group signs up for. These slots are during the lab. You need to ensure that you can show up for the time slot you signed up for. 
 

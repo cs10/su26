@@ -1,8 +1,8 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Monday, 2/23"
-gradescope_assignment_id: 6577063
+due: "11:59 PM PST on Wednesday, 7/8"
+gradescope_assignment_id: 8254654
 submission_files:
     - starter.xml
 ---
@@ -20,16 +20,16 @@ Any important updates or clarifications will be made here.
 
 ## Content
 
-[I. Submission Guidelines](#Submission-guidelines)  
+[I. Submission Guidelines](#submission-guidelines)  
 [II. Preface](#preface)  
-[III. Introduction](#Introduction)  
-[IV. Part 1: "letter" Block](#)
-[V. Part 2: "has letter" Block](#)  
-[VI. Part 3: "uppercase" Block](#)  
-[VII. Part 4: "lowercase" Block](#)  
-[VIII. Part 5: "has only" Block](#)    
-[IX.  Part 6: "pangram" Block](#)  
-[X. Part 7: "solution" Block](#)  
+[III. Introduction](#introduction)  
+[IV. Part 1: "letter" Block](#part-1-letter--block)
+[V. Part 2: "has letter" Block](#part-2---has-letter---block)  
+[VI. Part 3: "uppercase" Block](#part-3-uppercase-word--block)  
+[VII. Part 4: "lowercase" Block](#part-4-lowercase-word--block)  
+[VIII. Part 5: "has only" Block](#part-5---has-only-these-letters---block)    
+[IX.  Part 6: "pangram" Block](#part-6---is-a-pangram-using-all-letters---block)  
+[X. Part 7: "solution" Block](#part-7-complete-solution-to-puzzle--using-words--block)  
 [XI. Rubric](#rubric)  
 [XII. Feedback Form](#feedback-form)  
 
@@ -74,11 +74,11 @@ A word that contains **ALL** the letters of the puzzle is called a **PANGRAM** a
 
 If you make a mistake, press the “Delete” (or “Backspace”) key to fix or edit your entry. To shuffle the outside letters, hit the spacebar. To see the answers at any point, press the “Option” (or “Alt”) key. To start a new puzzle, click the green “lightning bolt” button at the top right. The program is automatically set to “Turbo Mode” for faster play. If it’s off (green flag instead of lightning bolt), manually turn it back on in Settings.
 
-We strongly encourage you to play this game on the [NY Times Spelling Bee site](https://www.nytimes.com/puzzles/spelling-bee) to get a feel for it. It’s super addictive, but sadly, you can only play once a day for free. If you want to play multiple times in one sitting, use [this link](https://freebee.fun/play/) instead. But the best part is that we are going to build an exact replica of this in Snap! that you can play and show to your friends!
+We strongly encourage you to play this game on the [NY Times Spelling Bee site](https://www.nytimes.com/puzzles/spelling-bee) to get a feel for it. It’s super addictive, but sadly, you can only play once a day for free. If you want to play multiple times in one sitting, use [this link](https://spellsbee.com) instead. But the best part is that we are going to build an exact replica of this in Snap! that you can play and show to your friends!
 
 If you’re having trouble, please contact the course staff for assistance — Ed, Office Hours, and Project Parties- are all here to help you feel good about the work you’re doing, or get you unstuck!
 
-## **Part 1:** <Letter []> Block
+## **Part 1:** <Letter []> Block 
 
 First, you’ll build a **predicate block** (aka the “letter” block) that should report *True* iff (if and only if) the input is a single-character letter a-z or A-Z, and *False* if it is not. E.g.,
 
@@ -95,7 +95,7 @@ Next, you’ll build a **predicate** (aka the “has letter” block) that shoul
 > Pro Tip: We found the following blocks extremely useful: <br/>
 ![Two Snap! Blocks, Split [] by [] and <list contains[]>](/fa24/assets/images/p2/P2-Part2ProTip.png)
 
-## **Part 3:** (uppercase word []) Block
+## **Part 3:** (uppercase word []) Block 
 
 Next, you’ll build a reporter (aka the “uppercase” block) that should report all the letters of its input (assumed to be a-zA-Z) in uppercase. E.g.,
 
@@ -110,7 +110,7 @@ Next, you’ll build a reporter (aka the “uppercase” block) that should repo
  ![Snap Blocks: `split [] by []`, `unicode () as letter`, `unicode of []`](/fa24/assets/images/p2/P2-Part3ProTip.png)
 
 
-## **Part 4:** (lowercase word []) Block
+## **Part 4:** (lowercase word []) Block 
 
 Next, you’ll build a reporter (aka the “lowercase” block) that should report all the letters of its input (assumed to be a-z and A-Z) in lowercase. E.g.,
 
@@ -164,6 +164,6 @@ Note: correct, working code should handle those test cases, but not have the tes
 | complete solution to puzzle _ using words _ | 7.5   | Reporter | list and string | string
 
 ## Feedback Form 
-Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/5T1EMXyLzm6jzzvSA). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
+Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/hiwnDEeoBxgB49RbA). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
 
 

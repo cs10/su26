@@ -1,8 +1,8 @@
 ---
 title: Project 5
 description: Final Project - The Project 
-due: "11:59 PM PST on Monday, 5/4"
-gradescope_assignment_id: 5617938
+due: "11:59 PM PST on Thursday, 8/13"
+gradescope_assignment_id: 8254749
 submission_files:
     - N/A
 ---
@@ -24,21 +24,13 @@ submission_files:
 ## Content
 
 [I. Recommended Timeline](#recommended-timeline)
-
 [II. Introduction](#introduction)
-
 [III. Technical Requirements](#technical-requirements)
-
 [IV. Style Requirements](#style-requirements)
-
 [V. README Requirements](#readme-requirements)
-
 [VI. Video Requirements](#video-requirements)
-
 [VII. Submission Guidelines](#submission-guidelines)
-
 [VIII. Rubric & Grading](#rubric--grading)
-
 [IX: Additional Resources](#appendix-i-additional-resources)
 
 
@@ -49,11 +41,11 @@ submission_files:
 
 | Group w/ 2 Features | Group w/ 3 Features |
 | :--------: | :-------: |
-| Feature 1: 4/20  |Feature 1: 4/17   |
-| Feature 2: 4/27  | Feature 2: 4/23  |
-| Full Project Submission Ready: 4/30  | Feature 3: 4/29  |
-| README and Submission: By 5/4  | Full Project Submission Ready: 5/1   |
-|   | README and Submission: By 5/4   |
+| Feature 1: 8/7  |Feature 1: 8/7   |
+| Feature 2: 8/10  | Feature 2: 8/9  |
+| Full Project Submission Ready: 8/11  | Feature 3: 8/11  |
+| README and Submission: By 8/13  | Full Project Submission Ready: 8/12   |
+|   | README and Submission: By 8/13   |
 
 
 ## Introduction
@@ -135,7 +127,7 @@ You should submit two things to the Gradescope final project assignment:
 
 Your project will be graded for style and technical correctness according to the following rubric. After you get your grades back, you can submit regrade requests via Gradescope (if you feel we missed something in your original file submission).  
 
-Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa25/assets/images/p6/p6-1.png)
+Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/assets/images/p6/p6-1.png)
 
 | README | (10 pts) |
 | -------- | ------- |
@@ -182,7 +174,7 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 - Please Attend OH or Final Project Parties 
 - [README Template](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0)
 - [Bug Writeup](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?usp=sharing)
-- [Project Proposal Spec](https://cs10.org/fa25/projects/project6-proposals/) 
+- [Project Proposal Spec](https://cs10.org/su26/projects/project6-proposals/) 
 - [Commenting Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)
 
 
