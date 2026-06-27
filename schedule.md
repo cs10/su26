@@ -101,7 +101,7 @@
       </td>
       <td>Lab 3. Lists and Loops (Iteration)</td>
       <td></td>
-      <td>Project Party + Project 1 Due</td>
+      <td>Project 1 Party (8–10 PM, Cory 540AB) + Project 1 Due</td>
     </tr>
     <tr>
       <td>Tue 6/30</td>
