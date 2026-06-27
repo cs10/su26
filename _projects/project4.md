@@ -1,7 +1,7 @@
 ---
 title: Project 4
 description: Tech in Context
-due: "11:59 PM PDT on Tuesday, 3/31"
+due: "11:59 PM PDT on Monday, 8/3"
 gradescope_assignment_id: 
 submission_files:
     - N/A
@@ -11,28 +11,28 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- [Artifact + Documentation](https://www.gradescope.com/courses/1232070/assignments/7495230) Due: **Tuesday, 3/31 at 11:59 PM PT** on Gradescope
+- [Artifact + Documentation](https://www.gradescope.com/courses/1329547/assignments/8254703) Due: **Monday, 8/3 at 11:59 PM PT** on Gradescope
 
-- Presention on **Thursday, 4/2 at 11 AM in Soda 430** during discussion.
+- Presention on **Tuesday, 8/4 at 8 PM in Cory 540AB** during discussion.
     - Information on makeup presentations is provided below. 
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/1232070/assignments/7495242) Due: **Friday, 4/10 at 11:59 PM PT** on Gradescope
+- [Comments + Peer Feedback](https://www.gradescope.com/courses/1329547/assignments/8254736) Due: **Friday, 8/7 at 11:59 PM PT** on Gradescope
     - Be sure to upload the comments to Ed Discussion (link TBD)
       
 > Any important updates or clarifications will be made here.
 
 ## Content
 
-I. Submission Guidelines
-II. Introduction
-III. Project 4 Timeline 
-IV. AI and Generative Tool Guidelines 
+[I. Submission Guidelines](#submission-guidelines)
+[II. Introduction](#introduction)
+[III. Project 4 Timeline](#project-4-timeline)
+[IV. AI and Generative Tool Guidelines](#ai-and-generative-tool-guidelines)
 V. Content Guidelines
-    a. Part 1: The Artifact and Documentation
-    b. Part 2: Group Presentation + Peer Feedback
-    c. Part 3: Peer Reflection/Comments
-VI. Feedback Form
-VII. Rubric & Grading
+    &nbsp;a. [Part 1: The Artifact and Documentation](#part-1-the-artifact-and-documentation)
+    &nbsp;b. [Part 2: Group Presentation + Peer Feedback](#part-2-group-presentation--peer-feedback)
+    &nbsp;c. [Part 3: Peer Reflection/Comments](#part-3-peer-reflectioncomments)
+[VI. Feedback Form](#feedback-form)
+[VII. Rubric & Grading](#rubric--grading)
 
 
 ## Submission Guidelines
@@ -60,9 +60,9 @@ We want this to be a fun and exciting project that allows you to pursue your int
 
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
-| Part 1: Artifact + Documentation | Gradescope | TUES 3/31 AT 11:59 PM |
-| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | THU 4/2 - FRI 4/10 |
-| Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 4/10 11:59 PM |
+| Part 1: Artifact + Documentation | Gradescope | MON 8/3 AT 11:59 PM |
+| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | TUES 8/4 |
+| Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 8/7 11:59 PM |
 
 ## AI and Generative Tool Guidelines 
 
@@ -157,7 +157,7 @@ Your artifact should include details that express your technical topic in a crea
 
 ## Part 2: Group Presentation + Peer Feedback
 
-For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session on 4/2, Thursday, 11 AM - 12 PM. This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
+For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session on 8/4, Tuesday, 8 PM - 9 PM. This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
 
@@ -172,7 +172,7 @@ If you can not attend the allotted Discussion Time for any reason. You will have
 ### Presentation Guidelines (7 minutes)
 
 - Signing up for a time
-    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=0#gid=0)
+    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1TRc66hMkttvcJVTZlAcErkxGYNz1TMHMSkkmDlrm2_E)
     - Please note, you are expected to stay the full discussion hour
 - Artifact/Visual Aids
     - Present your physical project or digital archive
@@ -210,11 +210,11 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Part 3: Peer Reflection/Comments
 
-You will be writing comments for two members of your group. These comments will be posted in the EdStem Thread(Link TBD). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
+You will be writing comments for two members of your group. These comments will be posted in the EdStem Thread (Link TBD). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
 
 ### Comments
 - Guidelines & Submission
-    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/10).
+    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 8/7).
         - Your response should be a short reflection based on two presentations you participated in. 
         - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the essay connects with your topic, etc.
         - Your comments should include at least one question about the topic.
@@ -229,7 +229,7 @@ You will be writing comments for two members of your group. These comments will 
  
 
 ### Make-up Presentations + Logistics
-- We will offer make-up presentations during the following times, but you must sign up using this [Google Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=1242219335#gid=1242219335):
+- We will offer make-up presentations during the following times, but you must sign up using this [Google Sheet](https://docs.google.com/spreadsheets/d/1TRc66hMkttvcJVTZlAcErkxGYNz1TMHMSkkmDlrm2_E/edit?gid=1242219335#gid=1242219335):
     - April 7th, 2026 (11AM - 12PM)
     - April 8th, 2026 (3PM - 4PM)
     - April 9th, 2026 (12PM - 1PM) 
@@ -243,7 +243,7 @@ You will be writing comments for two members of your group. These comments will 
 
 Congratulations on finishing your fourth project in CS10🥳
 
-Please spend some time completing this [feedback form](https://forms.gle/vzAhF9xyY4CDp13v9). This will be worth 1 point of your project grade. Thank you!
+Please spend some time completing this [feedback form](https://forms.gle/vTe23wgfeC9qT9bg6). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 

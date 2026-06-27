@@ -1,8 +1,8 @@
 ---
 title: Project 3
 description: 2048
-due: "11:59 PM PST on Monday, 3/16"
-gradescope_assignment_id: 6577013
+due: "11:59 PM PST on Monday, 7/20"
+gradescope_assignment_id: 8254721
 submission_files:
     - starter.xml
 ---
@@ -21,17 +21,17 @@ submission_files:
 
 ## Content
 
-- [I. Preface](#preface)
-- [II. Introduction](#Introduction)
-- [III. Helper Blocks](#Helper-Blocks)
-- [IV. Suggestions](#Suggestions)
-- [V. Part 1: Populating the Board](#part-1-populating-the-board)  
-- [VI. Part 2: Rotating the Board](#part-2-rotating-the-board)  
-- [VII. Part 3: Merging](#part-3-merging)  
-- [VIII. Part 4: Ending the Game](#part-4-end-the-game)  
-- [IX. Part 5: Tests](#part-5-tests)  
-- [X. Feedback Form](#feedback-form)  
-- [XI. Grading](#grading)
+[I. Preface](#preface)
+[II. Introduction](#introduction)
+[III. Helper Blocks](#helper-blocks)
+[IV. Suggestions](#suggestions)
+[V. Part 1: Populating the Board](#part-1-populating-the-board)  
+[VI. Part 2: Rotating the Board](#part-2-rotating-the-board)  
+[VII. Part 3: Merging](#part-3-merging)  
+[VIII. Part 4: Ending the Game](#part-4-end-the-game)  
+[IX. Part 5: Tests](#part-5-tests)  
+[X. Feedback Form](#feedback-form)  
+[XI. Grading](#grading)
 
 ## Preface
 ### Expected Timeframes
@@ -67,7 +67,7 @@ be reporters, and should not update the board display — that’s handled for y
 So **make sure not to mutate the original board.** Once you’ve completed those five block definitions,
 you won’t need to change anything else about the code; it should work!
 
-![Example of the 2048 game board](/sp25/assets/images/p3/p1.png)
+![Example of the 2048 game board](/assets/images/p3/p1.png)
 
 In a nutshell, the game works like this:
 
@@ -189,7 +189,7 @@ Here is guide and some examples of the testing block:
 
 ## Feedback Form
 
-Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/xSE1e9pS7BWfvhy7A). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
+Congratulations on finishing your third project in CS10🥳Please spend some time completing this [feedback form](https://forms.gle/wNVhXLE3Ps3x9FSu7). This will be worth 1 point of your project grade. Each member of your group should submit to the form. Each person in the group should submit the form to get full credit. Thank you!
 
 ## Grading
 
