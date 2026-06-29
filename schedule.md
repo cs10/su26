@@ -97,7 +97,7 @@
       <td>Mon 6/29</td>
       <td>Lec 5. Iteration Practice + Lists
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://docs.google.com/presentation/d/1dHSLMK8D_4Ci-m5c8jYw2K5ymtN1niZa/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
+        <a href="https://drive.google.com/file/u/1/d/1dtg8xRN_edSVm29RklCxTCfFBrqGLc99/view?usp=drive_link">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab03/">Lab 3. Lists and Loops (Iteration)</a></td>
       <td></td>
