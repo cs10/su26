@@ -99,7 +99,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://docs.google.com/presentation/d/1dHSLMK8D_4Ci-m5c8jYw2K5ymtN1niZa/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
       </td>
-      <td>Lab 3. Lists and Loops (Iteration)</td>
+      <td><a href="https://cs10.org/su26/labs/lab03/">Lab 3. Lists and Loops (Iteration)</a></td>
       <td></td>
       <td>Project 1 Party (8–10 PM, Cory 540AB) + Project 1 Due</td>
     </tr>
