@@ -58,10 +58,14 @@ Output:
 - Reports: Number 
 
 Examples:
-- add all numbers from num1: "1" to num2: "5" will add 1 + 2 + 3 + 4 + 5. This will return 15.
-- add all numbers from num1: "3" to num2: "7" will add 3 + 4 + 5 + 6 + 7. This will return 25.
-- add all numbers from num1: "-4" to num2: "2" will add -4 + -3 + -2 + -1 + 0 + 1 + 2. This will return -7.
-- add all numbers from num1: "2" to num2: "2" will not add but start and end at 2. This will return 2.
+- ![example of adding all numbers between 1 and 5 with output 15]({{ site.baseurl }}/assets/images/lab_images/lab4_b1_1.PNG)
+  - add all numbers from num1: "1" to num2: "5" will add 1 + 2 + 3 + 4 + 5 and output 15
+- ![example of adding all numbers between 3 and 7 with output 25]({{ site.baseurl }}/assets/images/lab_images/lab4_b1_2.PNG)
+  -  add all numbers from num1: "3" to num2: "7" will add 3 + 4 + 5 + 6 + 7 and output 25
+- ![example of adding all numbers between -4 and 2 with output -7]({{ site.baseurl }}/assets/images/lab_images/lab4_b1_3.PNG)
+  -  add all numbers from num1: "-4" to num2: "2" will add -4 + -3 + -2 + -1 + 0 + 1 + 2 and output -7
+- ![example of adding all numbers between 2 and 2 with output 2]({{ site.baseurl }}/assets/images/lab_images/lab4_b1_4.PNG)
+  - add all numbers from num1: "2" to num2: "2" will not add but start and end at 2, outputting 2
 
 
 ## Block 2: report only even numbers from list: _
@@ -77,10 +81,14 @@ Output:
 - Reports: List 
 
 Examples:
-- report only even numbers from list "[1, 2, 3, 4, 5]". This will return the list with [2, 4].
-- report only even numbers from list "[2, 4, 6, 8]". This will return the list with [2, 4, 6, 8].
-- report only even numbers from list "[-2, -4, -6, -8]". This will return the list with [-2, -4, -6, -8].
-- report only even numbers from list "[1, 3, 5, 7]". This will return an empty list (a list containing no items) [].
+- ![example of report only even letters with a list containing 1, 2, 3, 4, 5]({{ site.baseurl }}/assets/images/lab_images/lab4_b2_1.PNG)
+  - report only even numbers from `[1, 2, 3, 4, 5]` will return `[2, 4]`.
+- ![example of report only even letters with a list containing 2, 4, 6, 8]({{ site.baseurl }}/assets/images/lab_images/lab4_b2_2.PNG)
+  - report only even numbers from `[2, 4, 6, 8]` will return `[2, 4, 6, 8]`.
+- ![example of report only even letters with a list containing -2, -4, -6, -8]({{ site.baseurl }}/assets/images/lab_images/lab4_b2_3.PNG)
+  - report only even numbers from `[-2, -4, -6, -8]` will return `[-2, -4, -6, -8]`.
+- ![example of report only even letters with a list containing 1, 3, 5, , 7]({{ site.baseurl }}/assets/images/lab_images/lab4_b2_4.PNG)
+  - report only even numbers from `[1, 3, 5, 7]` will return `[ ]`.
 
 ## Block 3: add start num: _ until > than stop num: _ and is odd
 
@@ -100,9 +108,12 @@ Restrictions:
 - Cannot use "for each item" or "for i" blocks. Must use "repeat until".
 
 Examples:
-- add start num: "1" until > than stop num: "2" and is odd. The following numbers will be added: 1 + 2. This will return 3.
-- add start num: "1" until > than stop num: "7" and is odd. The following numbers will be added: 1 + 2 + 3 + 4 + 5. This will return 15.
-- add start num: "3" until > than stop num: "6" and is odd. The following numbers will be added: 3 + 4. This will return 7.
+- ![example of add 1 until > than 2 and is odd with output 3]({{ site.baseurl }}/assets/images/lab_images/lab4_b3_1.PNG)
+  - add start num: `1` until > than stop num: `2` and is odd will add 1 + 2 and output 3.
+- ![example of add 1 until > than 7 and is odd with output 15]({{ site.baseurl }}/assets/images/lab_images/lab4_b3_2.PNG)
+  - add start num: `1` until > than stop num: `7` and is odd will add 1 + 2 + 3 + 4 + 5 and output 15.
+- ![example of add 3 until > than 6 and is odd with output 7]({{ site.baseurl }}/assets/images/lab_images/lab4_b3_3.PNG)
+  - add start num: `3` until > than stop num: `6` and is odd will add 3 + 4 and output 7.
 
 ## Block 4: is num: _ prime?
 
@@ -119,9 +130,12 @@ Output:
 - Reports: Boolean 
 
 Examples:
-- is num: "17" prime?. This will return True.
-- is num: "10" prime?. This will return False.
-- is num: "2” prime?. This will return True.
+- ![example of is 17 prime and reports true]({{ site.baseurl }}/assets/images/lab_images/lab4_b4_1.PNG)
+  - is num: `17` prime would output `true`
+- ![example of is 10 prime and reports false]({{ site.baseurl }}/assets/images/lab_images/lab4_b4_2.PNG)
+  - is num: `10` prime would output `false`
+- ![example of is 2 prime and reports true]({{ site.baseurl }}/assets/images/lab_images/lab4_b4_3.PNG)
+  - is num: `2` prime would output `true`
 
 ## Block 5: report only prime numbers from list: _
 
@@ -141,9 +155,12 @@ Outputs:
 - Output: List
 
 Examples:
-- report only prime numbers from list: "[2, 3, 4, 5]": This will return [2, 3, 5].
-- report only prime number from list: "[11, 7, 6, 8]": This will return [11, 7].
-- report only prime number from list: "[4, 6, 8, 10]": This will return an empty list.
+- ![example of report only prime numbers from a list containing 2, 3, 4, 5]({{ site.baseurl }}/assets/images/lab_images/lab4_b5_1.PNG)
+  - report only prime numbers from list: `[2, 3, 4, 5]` will output `[2, 3, 5]`
+- ![example of report only prime numbers from a list containing 11, 7, 6, 0]({{ site.baseurl }}/assets/images/lab_images/lab4_b5_2.PNG)
+  - report only prime numbers from list: `[11, 7, 6, 0]` will output `[11, 7]`
+- ![example of report only prime numbers from a list containing 4, 6, 8, 10]({{ site.baseurl }}/assets/images/lab_images/lab4_b5_3.PNG)
+  - report only prime numbers from list: `[4, 6, 8, 10]` will output `[ ]`
 
 ## **(Optional) Extremely Challenging:** Block 6: report the duplicates in list: _
 
@@ -162,10 +179,14 @@ Outputs:
 - Output: List
 
 Examples:
-- report the duplicates in list: "[1, 2, 1, 3, 2, 3]". This will return: [1, 2, 3].
-- report the duplicates in list: "[4, 4, 3, 10, 33, 4]". This will return: [4].
-- report the duplicates in list: "[7, 2, 3, 2, 7]". This will return: [7, 2].
-- report the duplicates in list: "[1, 4, 6, 3]". This will return an empty list.
+- ![example of report the duplicates of a list containing 1, 2, 1, 3, 2, 3]({{ site.baseurl }}/assets/images/lab_images/lab4_b6_1.PNG)
+  - report the duplicates in list: `[1, 2, 1, 3, 2, 3]` will output `[1, 2, 3]`
+- ![example of report the duplicates of a list containing 4, 4, 3, 10, 33, 4]({{ site.baseurl }}/assets/images/lab_images/lab4_b6_2.PNG)
+  - report the duplicates in list: `[4, 4, 3, 10, 33, 4]` will output `[4]`
+- ![example of report the duplicates of a list containing 7, 2, 3, 2, 7]({{ site.baseurl }}/assets/images/lab_images/lab4_b6_3.PNG)
+  - report the duplicates in list: `[7, 2, 3, 2, 7]` will output `[7, 2]`
+- ![example of report the duplicates of a list containing 1, 4, 6, 3]({{ site.baseurl }}/assets/images/lab_images/lab4_b6_4.PNG)
+  - report the duplicates in list: `[1, 4, 6, 3]` will output `[ ]`
 
 
 
