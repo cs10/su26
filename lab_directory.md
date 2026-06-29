@@ -23,7 +23,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 0. Welcome to Snap!](/su26/labs/lab00) | Tue 6/23 | Wed 6/24 |
 | [Lab 1. Build Your Own Blocks](/su26/labs/lab01) | Wed 6/24 | Thu 6/25 |
 | [Lab 2. Conditionals, Reporters, & Abstraction](/su26/labs/lab02) | Thu 6/25 | Mon 6/29 |
-| Lab 3. Lists and Loops (Iteration) | Mon 6/29 | Tue 6/30 |
+| [Lab 3. Lists and Loops (Iteration)](/su26/labs/lab03) | Mon 6/29 | Tue 6/30 |
 | Lab 4. Lists & HOFs | Tue 6/30 | Wed 7/1 |
 | Quiz 1 Review | Wed 7/1 | Mon 7/6 |
 | Lab 5. HOFs and Functions as Data | Mon 7/6 | Tue 7/7 |
