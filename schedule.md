@@ -105,19 +105,19 @@
     </tr>
     <tr>
       <td>Tue 6/30</td>
-      <td>Lec 6. HOFs
+      <td>Lec 6. Algorithms I
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1DsZ4wso_yk6vacVARmOIiE3Sm65kVDQZ/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1pCdWrtkoM3Kog879tp1oDalX9U5ZTZAj/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 4. Lists &amp; HOFs</td>
+      <td>Lab 4. HOF mini lecture + Lists &amp; HOFs</td>
       <td>Discussion 3</td>
       <td>Project 2 Released</td>
     </tr>
     <tr>
       <td>Wed 7/1</td>
-      <td>Lec 7. Functions as Data + Lambdas
+      <td>Lec 7. Algorithms II
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1jcRlef7uFA-NQbm9VUeQA3afT3sxe_j-/view?usp=sharing">(Slides)</a>
       </td>
       <td>Quiz 1 Review</td>
       <td></td>
