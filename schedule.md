@@ -128,7 +128,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><b>Quiz 1 (4–7 pm)</b></td>
+      <td><b>Quiz 1 (3–6 pm)</b></td>
     </tr>
     <tr>
       <td>Fri 7/3</td>
