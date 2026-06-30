@@ -126,6 +126,7 @@ Examples:
 
 
 **You can always check the validity of your solutions by using the local autograder. Remember to submit on Gradescope and complete the conceptual portion!** 
+
 [sp26-lab05-image1]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image1.png
 [sp26-lab05-image2]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image2.png
 [sp26-lab05-image3]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image3.png
