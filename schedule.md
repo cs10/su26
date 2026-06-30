@@ -109,7 +109,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1pCdWrtkoM3Kog879tp1oDalX9U5ZTZAj/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 4. HOF mini lecture + Lists &amp; HOFs</td>
+      <td><a href="https://cs10.org/su26/labs/lab03/">Lab 4. HOF mini lecture + Lists &amp; HOFs</a></td>
       <td>Discussion 3</td>
       <td>Project 2 Released</td>
     </tr>
