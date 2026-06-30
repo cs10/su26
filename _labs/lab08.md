@@ -1,12 +1,12 @@
 ---
-title: "Lab 09"
+title: "Lab 08"
 description: "Trees & Fractals"
-due: "Thursday, February 26th, 23:59"
+due: "Monday, July 13th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 9: Trees & Fractals
+# Lab 8: Trees & Fractals
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. 
