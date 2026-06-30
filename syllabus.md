@@ -138,7 +138,7 @@ There will be three quizzes (each quiz is cumulative):
 
 | Exam           | When                            |
 | :----:         | :----:                          |
-| Quiz 1         | Thu 7/2 in Cory 540AB 4–7 PM    |
+| Quiz 1         | Thu 7/2 in Cory 540AB 3–6 PM    |
 | Quiz 1 Retake  | Fri 7/10 in Cory 540AB 3–6 PM   |
 | Quiz 2         | Fri 7/17 in Cory 540AB 2–6 PM   |
 | Quiz 2 Retake  | Fri 7/24 in Cory 540AB 2–6 PM   |
