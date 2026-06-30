@@ -27,7 +27,7 @@ src=c_9e27514860cf6f0c821ec71c5023cf0d8bb70155340a182752666cb4bfec0417%40group.c
 src=c_94c8bd6e6c4ddbca139c743e3cdf7c27d6da5a7f3ae8452d9452d4e6ca72ea88%40group.calendar.google.com&
 mode=WEEK&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_394fd1a82ccefda86992ddedeec7b7c4741b41cfad0972c259502943e07a5d87%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_394fd1a82ccefda86992ddedeec7b7c4741b41cfad0972c259502943e07a5d87%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 <ul>

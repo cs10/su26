@@ -97,7 +97,7 @@
       <td>Mon 6/29</td>
       <td>Lec 5. Iteration Practice + Lists
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://docs.google.com/presentation/d/1dHSLMK8D_4Ci-m5c8jYw2K5ymtN1niZa/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
+        <a href="https://drive.google.com/file/u/1/d/1dtg8xRN_edSVm29RklCxTCfFBrqGLc99/view?usp=drive_link">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab03/">Lab 3. Lists and Loops (Iteration)</a></td>
       <td></td>
@@ -105,19 +105,19 @@
     </tr>
     <tr>
       <td>Tue 6/30</td>
-      <td>Lec 6. HOFs
+      <td>Lec 6. Algorithms I
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1DsZ4wso_yk6vacVARmOIiE3Sm65kVDQZ/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1pCdWrtkoM3Kog879tp1oDalX9U5ZTZAj/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 4. Lists &amp; HOFs</td>
+      <td><a href="https://cs10.org/su26/labs/lab03/">Lab 4. HOF mini lecture + Lists &amp; HOFs</a></td>
       <td>Discussion 3</td>
       <td>Project 2 Released</td>
     </tr>
     <tr>
       <td>Wed 7/1</td>
-      <td>Lec 7. Functions as Data + Lambdas
+      <td>Lec 7. Algorithms II
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1jcRlef7uFA-NQbm9VUeQA3afT3sxe_j-/view?usp=sharing">(Slides)</a>
       </td>
       <td>Quiz 1 Review</td>
       <td></td>
@@ -128,7 +128,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><b>Quiz 1 (4–7 pm)</b></td>
+      <td><b>Quiz 1 (3–6 pm)</b></td>
     </tr>
     <tr>
       <td>Fri 7/3</td>
