@@ -6,7 +6,7 @@ gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 9: Recursive Reporters
+# Lab 7: Recursive Reporters
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. 
