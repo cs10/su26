@@ -46,8 +46,8 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 3</td>
       <td>Tue 6/30</td>
-      <td>Boolean Operators, Scoping, and Lists</td>
-      <td>Worksheet 3<!-- <a href="https://drive.google.com/drive/folders/1nmOZPQixUNUloeppGi8ou3WcHzXrIvkX?usp=sharing">Worksheet 3</a> --></td>
+      <td>Domain/Range, Scoping, Iteration, Lists</td>
+      <td>Worksheet 3<a href="https://docs.google.com/document/d/1XOK_3tI8rKtDGSxTWuOSXjgc-BBedwMo/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Annotations 3<!-- <a href="https://docs.google.com/presentation/d/1Lc3OHnVIHYPVxLA7lAy9WUPw-h351bkKaYgnTNRFHTQ/edit?slide=id.p#slide=id.p">Annotations 3</a> --></td>
     </tr>
     <tr>
