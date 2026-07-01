@@ -18,10 +18,11 @@ nav_order: 1
 UC Berkeley, Summer 2026
 
 {{ site.description }}
-## Announcements, Tuesday 6/30
+## Announcements, Wednesday 7/1
 - Read [Weekly Blast 2 🦖🦖](https://edstem.org/us/courses/99923/discussion/8147261) on Edstem
-- Enroll in [Edstem](https://edstem.org/us/courses/99923/discussion) and [Gradescope](https://www.gradescope.com/courses/1329547) (entry code: B56G6N)
 - Quiz 1 will be occurring on Thursday, 7/2, from 3-6PM at Cory 540AB
+- [Project 2: Spelling Bee](https://edstem.org/us/courses/99923/discussion/8148848) has been released and will be due on 7/8 at 11:59 PM
+- Lab 4 deadline has been extended until Monday, 7/6, at 11:59 PM
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
 **Office Hours:** Mon Wed @ 5:00–6:00 PM in Cory 540AB  
