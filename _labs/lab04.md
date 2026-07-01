@@ -66,8 +66,8 @@ Output:
 - Reports: Text 
 
 Examples:
-- acronym of list (University, of, California, Berkeley) will report "UoCB"
-- acronym of list (North, East, South, West) will report "NEWS"
+- ![example with input "computer science" outputs "cs"][sp26-lab05-image1]
+- ![example with input "data structures" outputs "ds"][sp26-lab05-image2]
 
 ## Block 2: acronym keep only capitals (input)
 
@@ -82,8 +82,8 @@ Output:
 - Reports: Text 
 
 Examples:
-- acronym keep only capitals (University of California Berkeley is the best) will report "UCB"
-- acronym keep only capitals (As Soon As Possible) will report "ASAP"
+- ![example with input "University of California Berkeley" outputs "UCB"][sp26-lab05-image3]
+- ![example with input "The Beauty and Joy of Computing" outputs "TBJC"][sp26-lab05-image4]
 
 ## Block 3: exaggerate (input)
 
@@ -100,9 +100,9 @@ Output:
 - Reports: Text
 
 Examples:
-- exaggerate(I like eating 12 dumplings because they are good) will report "I love eating 24 dumplings because they are great".
-- exaggerate(Marius is bad at chemistry but good at computer science) will report "Marius is terrible at chemistry but great at computer science".
-- exaggerate(There are 30 chairs in lab) will report "There are 60 chairs in lab"
+- ![example showing text transformation with word replacements][sp26-lab05-image5]
+- ![example showing text transformation with number doubling][sp26-lab05-image6]
+- ![example showing combined word and number transformations][sp26-lab05-image7]
 
 ## Block 4: expand (input)
 
@@ -120,9 +120,20 @@ Output:
 - Reports: Text 
 
 Examples:
-- expand(I love 3 you) will report "I love you you you".
-- expand(I am taking CS 10) will report "I am taking CS 10".
-- expand(3 computers and 1 television) will report "computers computers computers and television".
+- ![example showing number expansion with following words][sp26-lab05-image8]
+- ![example showing multiple number expansions][sp26-lab05-image9]
+- ![example showing edge case with number at end][sp26-lab05-image10]
 
 
 **You can always check the validity of your solutions by using the local autograder. Remember to submit on Gradescope and complete the conceptual portion!** 
+
+[sp26-lab05-image1]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image1.png
+[sp26-lab05-image2]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image2.png
+[sp26-lab05-image3]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image3.png
+[sp26-lab05-image4]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image4.png
+[sp26-lab05-image5]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image5.png
+[sp26-lab05-image6]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image6.png
+[sp26-lab05-image7]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image7.png
+[sp26-lab05-image8]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image8.png
+[sp26-lab05-image9]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image9.png
+[sp26-lab05-image10]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image10.png
