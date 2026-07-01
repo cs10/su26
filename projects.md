@@ -30,8 +30,8 @@ nav_order: 6
       <td>Monday, 6/29</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su25/projects/project2"> -->Project 2: Spelling Bee<!-- </a> --></td>
-      <td><!-- <a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view"> -->Proj 2 Walkthrough Slides<!-- </a> --></td>
+      <td><a href="/su26/projects/project2">Project 2: Spelling Bee</a></td>
+      <td><a href="https://drive.google.com/file/d/1eJQpY5PpUwt3vesplElChY293NFQk4Vp/view">Proj 2 Walkthrough Slides</a></td>
       <td>Tuesday, 6/30</td>
       <td>Wednesday, 7/8</td>
     </tr>
