@@ -2,7 +2,7 @@
 title: # Lab 04: Lists + HOFs
 
 description: Lists + HOFs
-due: Wednesday July 2nd, 2359 hrs
+due: Monday July 6th, 2359 hrs
 gradescope_assignment_id: 
 submission_files:
 ---
