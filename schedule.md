@@ -119,7 +119,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1jcRlef7uFA-NQbm9VUeQA3afT3sxe_j-/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Quiz 1 Review</td>
+      <td><a href="https://docs.google.com/document/d/1NxRgx6sxyjqjXSABXyjZEHl3prHY5HksrRp99xCGNDg/edit?usp=sharing">Quiz 1 Practice</a></td>
       <td></td>
       <td></td>
     </tr>
