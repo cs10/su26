@@ -260,7 +260,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><b>Quiz 2 (3–6 pm)</b></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -324,7 +324,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Final Project Proposal Released<br/><b>Quiz 2 Retake (3–6 pm)</b></td>
+      <td>Final Project Proposal Released<br/><b>Quiz 2 (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
@@ -385,7 +385,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><b>Quiz 2 (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
