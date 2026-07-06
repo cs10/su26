@@ -19,6 +19,7 @@ UC Berkeley, Summer 2026
 
 {{ site.description }}
 ## Announcements, Monday 7/6
+- Read [Weekly Blast 3 🦖🦖🦖](https://edstem.org/us/courses/99923/discussion/8155327) on Ed!
 - Quiz 1 scores have been [released](https://edstem.org/us/courses/99923/discussion/8154477)! Quiz 1 Retake is on Friday, 10 July 2026, 3–6 PM.
 - Project 2 Party will be on Monday, 7/6, from 8-9 PM at Cory 540AB
 
