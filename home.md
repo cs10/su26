@@ -18,11 +18,9 @@ nav_order: 1
 UC Berkeley, Summer 2026
 
 {{ site.description }}
-## Announcements, Wednesday 7/1
-- Read [Weekly Blast 2 🦖🦖](https://edstem.org/us/courses/99923/discussion/8147261) on Edstem
-- Quiz 1 will be occurring on Thursday, 7/2, from 3-6PM at Cory 540AB
-- [Project 2: Spelling Bee](https://edstem.org/us/courses/99923/discussion/8148848) has been released and will be due on 7/8 at 11:59 PM
-- Lab 4 deadline has been extended until Monday, 7/6, at 11:59 PM
+## Announcements, Monday 7/1
+- Quiz 1 scores have been [released](https://edstem.org/us/courses/99923/discussion/8154477)! Quiz 1 Retake is on Friday, 10 July 2026, 3–6 PM.
+- Project 2 Party will be on Monday, 7/6, from 8-9 PM at Cory 540AB
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
 **Office Hours:** Mon Wed @ 5:00–6:00 PM in Cory 540AB  
