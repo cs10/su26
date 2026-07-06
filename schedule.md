@@ -244,14 +244,14 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists</td>
+      <td>Quiz 2 Practice: Pre-Quiz 1 Content, HOFs, Nested Lists</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Thu 7/16</td>
-      <td>Quiz 2 Review</td>
-      <td>Quiz 2 Review: Recursion, Algorithmic Complexity</td>
+      <td>Quiz 2 Practice</td>
+      <td>Quiz 2 Practice: Recursion, Algorithmic Complexity</td>
       <td>Discussion 8</td>
       <td></td>
     </tr>
@@ -376,7 +376,7 @@
     <tr>
       <td>Thu 7/30</td>
       <td>Quiz 3 Questions</td>
-      <td>Quiz 3</td>
+      <td>Quiz 3 Practice</td>
       <td>Discussion 12</td>
       <td></td>
     </tr>
