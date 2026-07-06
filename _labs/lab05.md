@@ -9,7 +9,7 @@ submission_files:
 # Lab 5: HOFs and Functions as Data
 
 ## Instructions
-This worksheet serves as a guide and set of instructions to complete Lab 6. All material was sourced from the CS10 version of The Beauty and Joy of Computing (BJC) course.
+This worksheet serves as a guide and set of instructions to complete Lab 5. All material was sourced from the CS10 version of The Beauty and Joy of Computing (BJC) course.
 
 - You **must** use the [starter file, found here](https://snap.berkeley.edu/project?username=jedi_force&projectname=Lab9%20Starter) to get credit for the lab.  
 - Additionally, here is the [workbook](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material.  
