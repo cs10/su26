@@ -160,7 +160,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
-      <td>Lab 5. HOFs and Functions as Data</td>
+      <td><a href="https://cs10.org/su26/labs/lab05/">Lab 5. HOFs and Functions as Data</a></td>
       <td></td>
       <td>Project Party</td>
     </tr>
