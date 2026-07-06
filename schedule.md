@@ -260,7 +260,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><b>Quiz 2 (2–6 pm)</b></td>
+      <td><b>Quiz 2 (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
@@ -324,7 +324,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Final Project Proposal Released<br/><b>Quiz 2 Retake (2–6 pm)</b></td>
+      <td>Final Project Proposal Released<br/><b>Quiz 2 Retake (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
@@ -443,7 +443,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Project 4 Comments Due<br/><b>Quiz 3 (2–6 pm)</b></td>
+      <td>Project 4 Comments Due<br/><b>Quiz 3 (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
@@ -481,7 +481,7 @@
       <td>No Lecture</td>
       <td>Project Party</td>
       <td></td>
-      <td><b>Quiz 3 Retake (2–6 pm)</b></td>
+      <td><b>Quiz 3 Retake (3–6 pm)</b></td>
     </tr>
     <tr>
       <td>Thu 8/13</td>
