@@ -27,7 +27,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 4. Lists & HOFs](/su26/labs/lab04) | Tue 6/30 | Wed 7/1 |
 | [Quiz 1 Review](https://docs.google.com/document/d/1NxRgx6sxyjqjXSABXyjZEHl3prHY5HksrRp99xCGNDg/edit?usp=sharing) | Wed 7/1 | Mon 7/6 |
 | [Lab 5. HOFs and Functions as Data](/su26/labs/lab05) | Mon 7/6 | Tue 7/7 |
-| Lab 6. Boards | Tue 7/7 | Wed 7/8 |
+| [Lab 6. Boards](/su26/labs/lab06) | Tue 7/7 | Wed 7/8 |
 | Lab 7. Recursive Reports (Linear Recursion) | Wed 7/8 | Thu 7/9 |
 | Lab 8. Trees & Fractals | Thu 7/9 | Mon 7/13 |
 | Lab 9. Algorithms (Binary) / Algorithmic Complexity | Mon 7/13 | Tue 7/14 |
