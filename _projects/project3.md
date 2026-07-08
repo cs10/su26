@@ -9,7 +9,7 @@ submission_files:
 
 <!-- *Version 3.1. Last Updated: 2024-10-10.* -->
 
-## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=CS10%20Project%203%3a%202048&editMode&noRun)
+## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jaclyn&ProjectName=CS10%20Project%203%3a%202048&editMode&noRun)
 
 > Any important announcements will be made here:
 
