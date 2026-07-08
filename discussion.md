@@ -47,36 +47,36 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 3</td>
       <td>Tue 6/30</td>
       <td>Domain/Range, Scoping, Iteration, Lists</td>
-      <td>Worksheet 3<a href="https://docs.google.com/document/d/1XOK_3tI8rKtDGSxTWuOSXjgc-BBedwMo/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 3</a></td>
+      <td><a href="https://docs.google.com/document/d/1XOK_3tI8rKtDGSxTWuOSXjgc-BBedwMo/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 3</a></td>
       <td>Annotations 3<!-- <a href="https://docs.google.com/presentation/d/1Lc3OHnVIHYPVxLA7lAy9WUPw-h351bkKaYgnTNRFHTQ/edit?slide=id.p#slide=id.p">Annotations 3</a> --></td>
     </tr>
     <tr>
-      <td>Discussion 4</td>
+      <td>No Discussion</td>
       <td>Thu 7/2</td>
       <td><strong>No Discussion</strong></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
-      <td>Discussion 5</td>
+      <td>Discussion 4</td>
       <td>Tue 7/7</td>
-      <td>HOFs and Lambdas</td>
-      <td>Worksheet 5<!-- <a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a> --></td>
-      <td>Annotations 5<!-- <a href="https://docs.google.com/presentation/d/1DqoRuOskeyF3rXhc49HQsiY7QZCANot4S7iHBRxybsY/edit?usp=sharing">Annotations 5</a> --></td>
+      <td><a href="https://docs.google.com/document/d/1tIprqf0kBCPoiEG-4fVLe6CC_lY5WSy2/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">HOFs and Lambdas</a></td>
+      <td>Worksheet 4<!-- <a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a> --></td>
+      <td>Annotations 4<!-- <a href="https://docs.google.com/presentation/d/1DqoRuOskeyF3rXhc49HQsiY7QZCANot4S7iHBRxybsY/edit?usp=sharing">Annotations 5</a> --></td>
+    </tr>
+    <tr>
+      <td>Discussion 5</td>
+      <td>Thu 7/9</td>
+      <td>Nested Lists, Linear Recursion, and Tree Recursion</td>
+      <td>Worksheet 5<!-- <a href="https://drive.google.com/drive/folders/1bkOGZfM5PxubMFk7OvUkVdxKMfk9KDAT?usp=sharing">Worksheet 6</a> --></td>
+      <td>Annotations 5<!-- <a href="https://docs.google.com/presentation/d/1GL1UWCSr0J1BGtprgV80s82ePZ8zCD64klp0BbAeQww/edit?slide=id.p#slide=id.p">Annotations 6</a> --></td>
     </tr>
     <tr>
       <td>Discussion 6</td>
-      <td>Thu 7/9</td>
-      <td>Nested Lists, Linear Recursion, and Tree Recursion</td>
-      <td>Worksheet 6<!-- <a href="https://drive.google.com/drive/folders/1bkOGZfM5PxubMFk7OvUkVdxKMfk9KDAT?usp=sharing">Worksheet 6</a> --></td>
-      <td>Annotations 6<!-- <a href="https://docs.google.com/presentation/d/1GL1UWCSr0J1BGtprgV80s82ePZ8zCD64klp0BbAeQww/edit?slide=id.p#slide=id.p">Annotations 6</a> --></td>
-    </tr>
-    <tr>
-      <td>Discussion 7</td>
       <td>Tue 7/14</td>
       <td>Algorithms and Algorithmic Complexity</td>
-      <td>Worksheet 7<!-- <a href="https://drive.google.com/drive/folders/1YN3lSNWiAntR-9vHF_fS8o4abB6SH8Je?usp=drive_link">Worksheet 7</a> --></td>
-      <td>Annotations<!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
+      <td>Worksheet 6<!-- <a href="https://drive.google.com/drive/folders/1YN3lSNWiAntR-9vHF_fS8o4abB6SH8Je?usp=drive_link">Worksheet 7</a> --></td>
+      <td>Annotations 6<!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
     </tr>
     <tr>
       <td>Discussion 8</td>
