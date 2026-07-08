@@ -180,7 +180,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1Xrhj1yJFQkDxQU0yd4JZdtaz2OCgdHle/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 7. Recursive Reports (Linear Recursion)</td>
+      <td><a href="https://cs10.org/su26/labs/lab07/">Lab 7. Recursive Reports (Linear Recursion)</a></td>
       <td></td>
       <td>Project 2 Due</td>
     </tr>
