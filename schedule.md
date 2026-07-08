@@ -178,7 +178,7 @@
       <td>Wed 7/8</td>
       <td>Lec 10. Fractal/Tree Recursion
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1q_0lG8Vf16jjOKUigHD8l-L5UaUJ-tvi/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1Xrhj1yJFQkDxQU0yd4JZdtaz2OCgdHle/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 7. Recursive Reports (Linear Recursion)</td>
       <td></td>
