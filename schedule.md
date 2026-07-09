@@ -190,7 +190,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video 1)</a> / <a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video 2)</a>
         <a href="https://drive.google.com/file/d/1e6GqiTuBOYd8ArgaZcGfAEAhKLnsiO0Q/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 8. Trees &amp; Fractals</td>
+      <td><a href="https://cs10.org/su26/labs/lab08/">Lab 8. Trees &amp; Fractals</a></td>
       <td>Discussion 6</td>
       <td>Project 3 Released</td>
     </tr>
