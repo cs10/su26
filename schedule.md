@@ -199,7 +199,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>Quiz 1 Retake (3–6 pm)</td>
+      <td><b>Quiz 1 Retake (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
