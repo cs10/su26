@@ -224,7 +224,7 @@
         <br/>(No Video)
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
-      <td>Lab 9. Algorithms (Binary) / Algorithmic Complexity</td>
+      <td><a href="https://docs.google.com/document/d/1HP0XJIHjp9SKtsrUJobVwUzykWw_En06OjUTSWicgMg/edit?usp=sharing">Lab 9. Algorithms (Binary)</a></td>
       <td></td>
       <td>Project Party</td>
     </tr>
