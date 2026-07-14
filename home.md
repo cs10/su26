@@ -18,8 +18,8 @@ nav_order: 1
 UC Berkeley, Summer 2026
 
 {{ site.description }}
-## Announcements, Monday 7/13
-- Project 3 Party will be on Monday, 7/13, from 8-9 PM at Cory 540AB
+## Announcements, Tuesday 7/14
+- Read [Weekly Blast 4 🦕🦕](https://edstem.org/us/courses/99923/discussion/8163855)
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
 **Office Hours:** Mon Wed @ 5:00–6:00 PM in Cory 540AB  
