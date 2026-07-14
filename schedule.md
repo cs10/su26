@@ -230,9 +230,9 @@
     </tr>
     <tr>
       <td>Tue 7/14</td>
-      <td>Lec 13. AI + ML + LLMs
+      <td>Lec 13. Computing in Education
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1cJe5UmjsWTWBLDgHfZAE2SxbZqb2mQRj/view?usp=sharing">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab10/">Lab 10. Data Science</a></td>
       <td>Discussion 6</td>
@@ -240,9 +240,9 @@
     </tr>
     <tr>
       <td>Wed 7/15</td>
-      <td>Lec 14. Social Implications
+      <td>Lec 14. Higher-Order Functions
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1DsZ4wso_yk6vacVARmOIiE3Sm65kVDQZ/view?usp=sharing">(Slides)</a>
       </td>
       <td>Quiz 2 Practice: Pre-Quiz 1 Content, HOFs, Nested Lists</td>
       <td></td>
@@ -250,7 +250,9 @@
     </tr>
     <tr>
       <td>Thu 7/16</td>
-      <td>Quiz 2 Practice</td>
+      <td>Lecture 15: Programming Paradigms
+          <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+          <a href="https://drive.google.com/file/d/1_ozI94HHu3qT5FVFN2TsoQ-GkQ3gNLEd/view?usp=sharing">(Slides)</a></td>
       <td>Quiz 2 Practice: Recursion, Algorithmic Complexity</td>
       <td>Discussion 7</td>
       <td></td>
@@ -281,7 +283,7 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 5</td>
       <td>Mon 7/20</td>
-      <td>Lec 15. Intro to Python + Data Types
+      <td>Lec 16. Python I - Intro
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1U2FBFLBhkYvFRraKx5NmVfIY8oMH3RFS/view?usp=sharing">(Slides)</a>
       </td>
@@ -291,7 +293,7 @@
     </tr>
     <tr>
       <td>Tue 7/21</td>
-      <td>Lec 16. Splicing + Mutability + Lists + List Comprehension
+      <td>Lec 17. Python II - Data Types & Structures
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
@@ -301,9 +303,9 @@
     </tr>
     <tr>
       <td>Wed 7/22</td>
-      <td>Lec 17. Data Structures (Dictionaries + Tuples)
+      <td>Lec 18. Concurrency
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/18S4bhaIAD8l2Ezjimg9KKzNtCRAroDf_/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/153A_W03Eairr_pWKPIpXoBOBJmBz9t78/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 13. Lists and Mutability</td>
       <td></td>
@@ -311,9 +313,9 @@
     </tr>
     <tr>
       <td>Thu 7/23</td>
-      <td>Lec 18. OOP I
+      <td>Lec 19. Gen AI
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://docs.google.com/presentation/d/1-IY0cxCQjPgQH_u9JTVIQWQpcjQSnY-K/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 14. Data Structures</td>
       <td>Discussion 9</td>
@@ -345,9 +347,9 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <td>Mon 7/27</td>
-      <td>Lec 19. OOP II
+      <td>Lec 20. Ethics in AI
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+        <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 15. Text Processing</td>
       <td></td>
@@ -355,9 +357,9 @@
     </tr>
     <tr>
       <td>Tue 7/28</td>
-      <td>Lec 20. Recursion in Python
-        <br/>(No Video)
-        <!-- <a href="SLIDES_URL">(Slides)</a> -->
+      <td>Lec 21. Python III - Game Theory
+        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 16. Object Oriented Programming</td>
       <td>Discussion 10</td>
@@ -365,9 +367,9 @@
     </tr>
     <tr>
       <td>Wed 7/29</td>
-      <td>Lec 21. Tree Recursion
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
+      <td>Lec 22. Python IV – OOP
+        <br/>(No Video) 
+        (No Slides)
       </td>
       <td>Lab 17. Python Linear Recursion</td>
       <td></td>
@@ -406,16 +408,18 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 7</td>
       <td>Mon 8/3</td>
-      <td>Lec 22. Concurrency + Parallelism
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/153A_W03Eairr_pWKPIpXoBOBJmBz9t78/view?usp=sharing">(Slides)</a>
+      <td>Guest Speaker
+        <br/>(No Video) 
+        (No Slides)
       </td>
       <td>Lab 18. Tree Recursion</td>
       <td></td>
       <td>Project 4 Due<br/>Final Project Proposals Due</td>
     </tr>
     <tr>
-      <td>Tue 8/4</td>
+      <td>Lec 23. Finale + Farewell
+          <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
       <td>Final Exam Review</td>
       <td>Lab 19. Concurrency</td>
       <td>Discussion 12: Project 4 Presentations</td>
@@ -423,10 +427,7 @@
     </tr>
     <tr>
       <td>Wed 8/5</td>
-      <td>Lec 23. Finale + Farewell
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
-      </td>
+      <td>No Lecture</td>
       <td>Final Project Proposal Meetings</td>
       <td></td>
       <td></td>
