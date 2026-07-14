@@ -12,7 +12,7 @@
 </style>
 
 <p>
-    <a href="#week1">Jump to Current Week</a>
+    <a href="#week4">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 | 6/22 – 6/26 -->
@@ -171,7 +171,7 @@
         <a href="https://drive.google.com/file/d/1MYKtOXkNaBl_zCYq1bP2n1X2yaBOKPYs/view?usp=sharing">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab06/">Lab 6. Boards</a></td>
-      <td>Discussion 5</td>
+      <td>Discussion 4</td>
       <td></td>
     </tr>
     <tr>
@@ -191,7 +191,7 @@
         <a href="https://drive.google.com/file/d/1e6GqiTuBOYd8ArgaZcGfAEAhKLnsiO0Q/view?usp=sharing">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab08/">Lab 8. Trees &amp; Fractals</a></td>
-      <td>Discussion 6</td>
+      <td>Discussion 5</td>
       <td>Project 3 Released</td>
     </tr>
     <tr>
@@ -235,7 +235,7 @@
         <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 10. Data Science</td>
-      <td>Discussion 7</td>
+      <td>Discussion 6</td>
       <td></td>
     </tr>
     <tr>
@@ -252,7 +252,7 @@
       <td>Thu 7/16</td>
       <td>Quiz 2 Practice</td>
       <td>Quiz 2 Practice: Recursion, Algorithmic Complexity</td>
-      <td>Discussion 8</td>
+      <td>Discussion 7</td>
       <td></td>
     </tr>
     <tr>
@@ -296,7 +296,7 @@
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 12. Welcome to Python!</td>
-      <td>Discussion 9</td>
+      <td>Discussion 8</td>
       <td>Project 4 Released</td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@
         <a href="https://docs.google.com/presentation/d/1-IY0cxCQjPgQH_u9JTVIQWQpcjQSnY-K/edit?usp=sharing&ouid=110177695162691210647&rtpof=true&sd=true">(Slides)</a>
       </td>
       <td>Lab 14. Data Structures</td>
-      <td>Discussion 10</td>
+      <td>Discussion 9</td>
       <td></td>
     </tr>
     <tr>
@@ -360,7 +360,7 @@
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td>Lab 16. Object Oriented Programming</td>
-      <td>Discussion 11</td>
+      <td>Discussion 10</td>
       <td>Final Project Released</td>
     </tr>
     <tr>
@@ -377,7 +377,7 @@
       <td>Thu 7/30</td>
       <td>Quiz 3 Questions</td>
       <td>Quiz 3 Practice</td>
-      <td>Discussion 12</td>
+      <td>Discussion 11</td>
       <td></td>
     </tr>
     <tr>
@@ -418,7 +418,7 @@
       <td>Tue 8/4</td>
       <td>Final Exam Review</td>
       <td>Lab 19. Concurrency</td>
-      <td>Discussion 13: Project 4 Presentations</td>
+      <td>Discussion 12: Project 4 Presentations</td>
       <td></td>
     </tr>
     <tr>

@@ -60,8 +60,8 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 4</td>
       <td>Tue 7/7</td>
-      <td><a href="https://docs.google.com/document/d/1tIprqf0kBCPoiEG-4fVLe6CC_lY5WSy2/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">HOFs and Lambdas</a></td>
-      <td>Worksheet 4<!-- <a href="https://drive.google.com/drive/folders/1jiprEwfdMFeWViabYdD_syLAKUFQrq9U?usp=drive_link">Worksheet 5</a> --></td>
+      <td><!-- <a href="https://docs.google.com/document/d/1tIprqf0kBCPoiEG-4fVLe6CC_lY5WSy2/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">-->HOFs and Lambdas</td>
+      <td><a href="https://docs.google.com/document/d/1tIprqf0kBCPoiEG-4fVLe6CC_lY5WSy2/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 4</a></td>
       <td>Annotations 4<!-- <a href="https://docs.google.com/presentation/d/1DqoRuOskeyF3rXhc49HQsiY7QZCANot4S7iHBRxybsY/edit?usp=sharing">Annotations 5</a> --></td>
     </tr>
     <tr>
@@ -79,42 +79,42 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Annotations 6<!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
     </tr>
     <tr>
-      <td>Discussion 8</td>
+      <td>Discussion 7</td>
       <td>Thu 7/16</td>
       <td>Quiz 2 Practice</td>
-      <td>Worksheet 8<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a> --></td>
-      <td>Solutions 8<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Solutions 8</a> --></td>
+      <td>Worksheet 7<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a> --></td>
+      <td>Solutions 7<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Solutions 8</a> --></td>
+    </tr>
+    <tr>
+      <td>Discussion 8</td>
+      <td>Tue 7/21</td>
+      <td>Intro to Python</td>
+      <td>Worksheet 8<!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a> --></td>
+      <td>Annotations 8<!-- <a href="https://docs.google.com/presentation/d/1mpCMhSejeUjYB6M9Cp6x31Xdm3aAmhhh8MNSwvTc3_g/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 9</a> --></td>
     </tr>
     <tr>
       <td>Discussion 9</td>
-      <td>Tue 7/21</td>
-      <td>Intro to Python</td>
-      <td>Worksheet 9<!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a> --></td>
-      <td>Annotations 9<!-- <a href="https://docs.google.com/presentation/d/1mpCMhSejeUjYB6M9Cp6x31Xdm3aAmhhh8MNSwvTc3_g/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 9</a> --></td>
+      <td>Thu 7/23</td>
+      <td>Python Practice and Data Structures</td>
+      <td>Worksheet 9<!-- <a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a> --></td>
+      <td>Annotations 9<!-- <a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a> --></td>
     </tr>
     <tr>
       <td>Discussion 10</td>
-      <td>Thu 7/23</td>
-      <td>Python Practice and Data Structures</td>
-      <td>Worksheet 10<!-- <a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a> --></td>
-      <td>Annotations 10<!-- <a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a> --></td>
+      <td>Tue 7/28</td>
+      <td>Object Oriented Programming</td>
+      <td>Worksheet 10<!-- <a href="https://drive.google.com/drive/folders/1KUh8Qp8OP0gak5qvMG87OfL-GzGAc286?usp=drive_link">Worksheet 11</a> --></td>
+      <td>Annotations 10<!-- <a href="https://docs.google.com/presentation/d/1e5MoKKdTqdoKqGlHKH4THgdn905KEhTDPfbzMDFw9fY/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 11</a> --></td>
     </tr>
     <tr>
       <td>Discussion 11</td>
-      <td>Tue 7/28</td>
-      <td>Object Oriented Programming</td>
-      <td>Worksheet 11<!-- <a href="https://drive.google.com/drive/folders/1KUh8Qp8OP0gak5qvMG87OfL-GzGAc286?usp=drive_link">Worksheet 11</a> --></td>
-      <td>Annotations 11<!-- <a href="https://docs.google.com/presentation/d/1e5MoKKdTqdoKqGlHKH4THgdn905KEhTDPfbzMDFw9fY/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 11</a> --></td>
+      <td>Thu 7/30</td>
+      <td>Recursion + Quiz 3 Practice</td>
+      <td>Worksheet 11<!-- <a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing">Worksheet 12</a> --></td>
+      <td>Annotations 11<!-- <a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63">Annotations 12</a> --></td>
     </tr>
     <tr>
       <td>Discussion 12</td>
-      <td>Thu 7/30</td>
-      <td>Recursion + Quiz 3 Practice</td>
-      <td>Worksheet 12<!-- <a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing">Worksheet 12</a> --></td>
-      <td>Annotations 12<!-- <a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63">Annotations 12</a> --></td>
-    </tr>
-    <tr>
-      <td>Discussion 13</td>
       <td>Tue 8/4</td>
       <td><strong>Project 4 Presentations</strong></td>
       <td>-</td>
