@@ -31,7 +31,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 7. Recursive Reports (Linear Recursion)](/su26/labs/lab07) | Wed 7/8 | Thu 7/9 |
 | [Lab 8. Trees & Fractals](/su26/labs/lab08) | Thu 7/9 | Mon 7/13 |
 | [Lab 9. Algorithms (Binary)](https://docs.google.com/document/d/1HP0XJIHjp9SKtsrUJobVwUzykWw_En06OjUTSWicgMg/edit?usp=sharing) | Mon 7/13 | Tue 7/14 |
-| Lab 10. Data Science | Tue 7/14 | Wed 7/15 |
+| [Lab 10. Data Science](/su26/labs/lab10) | Tue 7/14 | Wed 7/15 |
 | Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | Wed 7/15 | Thu 7/16 |
 | Quiz 2 Review: Recursion, Algorithmic Complexity | Thu 7/16 | Mon 7/20 |
 | Lab 11. Python Setup + Intro Python | Mon 7/20 | Tue 7/21 |
