@@ -220,8 +220,8 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 4</td>
       <td>Mon 7/13</td>
-      <td>Lec 12. Data Science
-        <br/>(No Video)
+      <td>Lec 12. Practice Quiz 2
+        <br/><a href="https://drive.google.com/file/d/1v0FRZ38Q31I03ppYS2UbKEEpgVPq7uyZ/view?usp=sharing">(Questions)</a> <a href="https://drive.google.com/file/d/1r2d7CZ4DtFqzcV4ZnWsGK-GoeU-WzIWi/view?usp=sharing">(Answers)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td><a href="https://docs.google.com/document/d/1HP0XJIHjp9SKtsrUJobVwUzykWw_En06OjUTSWicgMg/edit?usp=sharing">Lab 9. Algorithms (Binary)</a></td>
