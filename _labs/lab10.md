@@ -1,12 +1,12 @@
 ---
-title: "Lab 19"
+title: "Lab 10"
 description: "FUN Data Science"
-due: "Tuesday, April 28th, 23:59"
+due: "Wednesday, July 15th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 19: FUN Data Science
+# Lab 10: FUN Data Science
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. 
