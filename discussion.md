@@ -76,7 +76,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Tue 7/14</td>
       <td>Algorithms and Algorithmic Complexity</td>
       <td><a href="https://docs.google.com/document/d/1LA3gxjki8yQt6xneEQSLeFhqS839jrRA/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 6</a><!-- <a href="https://drive.google.com/drive/folders/1YN3lSNWiAntR-9vHF_fS8o4abB6SH8Je?usp=drive_link">Worksheet 7</a> --></td>
-      <td>Annotations 6<!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
+      <td><a href="https://docs.google.com/presentation/d/1ObIOnaGHvaA3D0DfxfpzGA4X2A7EFYBn3ee1B4HSBp4/edit?usp=sharing">Slides 6</a><!-- <a href="https://docs.google.com/presentation/d/172HNcSOWLGpsbmtbJw0x5ZlIoC-tRFbzKyPreWtiLwI/edit?slide=id.p#slide=id.p">Annotations + Solutions 7</a> --></td>
     </tr>
     <tr>
       <td>Discussion 7</td>
