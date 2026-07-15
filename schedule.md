@@ -244,7 +244,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1DsZ4wso_yk6vacVARmOIiE3Sm65kVDQZ/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Quiz 2 Practice: Pre-Quiz 1 Content, HOFs, Nested Lists</td>
+      <td><a href="https://docs.google.com/document/d/17L16FRSGLQS_zGU7w3wojzbrk7c4N3iyjIXvbDbjlJM/edit?usp=sharing">Quiz 2 Practice: Pre-Quiz 1 Content, HOFs, Nested Lists</a></td>
       <td></td>
       <td></td>
     </tr>
