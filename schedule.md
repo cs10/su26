@@ -420,7 +420,7 @@
       <td>Tue 8/4</td>
       <td>Lec 23. Finale + Farewell
           <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a></td>
       <td>Final Exam Review</td>
       <td>Lab 19. Concurrency</td>
       <td>Discussion 12: Project 4 Presentations</td>
