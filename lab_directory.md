@@ -32,7 +32,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 8. Trees & Fractals](/su26/labs/lab08) | Thu 7/9 | Mon 7/13 |
 | [Lab 9. Algorithms (Binary)](https://docs.google.com/document/d/1HP0XJIHjp9SKtsrUJobVwUzykWw_En06OjUTSWicgMg/edit?usp=sharing) | Mon 7/13 | Tue 7/14 |
 | [Lab 10. FUN Data Science](/su26/labs/lab10) | Tue 7/14 | Wed 7/15 |
-| Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists | Wed 7/15 | Thu 7/16 |
+| [Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists](https://docs.google.com/document/d/17L16FRSGLQS_zGU7w3wojzbrk7c4N3iyjIXvbDbjlJM/edit?usp=sharing) | Wed 7/15 | Thu 7/16 |
 | Quiz 2 Review: Recursion, Algorithmic Complexity | Thu 7/16 | Mon 7/20 |
 | Lab 11. Python Setup + Intro Python | Mon 7/20 | Tue 7/21 |
 | Lab 12. Welcome to Python! | Tue 7/21 | Wed 7/22 |
