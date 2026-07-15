@@ -387,7 +387,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><b>Quiz 2 (3–6 pm)</b></td>
+      <td><b>Quiz 2 Retake (3–6 pm)</b></td>
     </tr>
   </tbody>
 </table>
@@ -417,6 +417,7 @@
       <td>Project 4 Due<br/>Final Project Proposals Due</td>
     </tr>
     <tr>
+      <td>Tue 8/4</td>
       <td>Lec 23. Finale + Farewell
           <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
