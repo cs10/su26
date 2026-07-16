@@ -253,7 +253,7 @@
       <td>Lecture 15: Programming Paradigms
           <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
           <a href="https://drive.google.com/file/d/1_ozI94HHu3qT5FVFN2TsoQ-GkQ3gNLEd/view?usp=sharing">(Slides)</a></td>
-      <td>Quiz 2 Practice: Recursion, Algorithmic Complexity</td>
+      <td>(Attendance Optional) Quiz 2 Practice: Recursion, Algorithmic Complexity</td>
       <td>Discussion 7</td>
       <td></td>
     </tr>
