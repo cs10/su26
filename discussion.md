@@ -82,7 +82,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 7</td>
       <td>Thu 7/16</td>
       <td>Quiz 2 Practice</td>
-      <td>Worksheet 7<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a> --></td>
+      <td><a href="https://docs.google.com/document/d/1DE85cnCKruwb0zSK47FonHddkRyBuhTW/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 7</a><!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu?usp=sharing">Worksheet 8</a> --></td>
       <td>Solutions 7<!-- <a href="https://drive.google.com/drive/folders/1Lb1fur7l5GKoire4FDkThgNRz-PDT8cu">Solutions 8</a> --></td>
     </tr>
     <tr>
