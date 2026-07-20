@@ -253,7 +253,7 @@
       <td>Lecture 15: Programming Paradigms
           <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
           <a href="https://drive.google.com/file/d/1_ozI94HHu3qT5FVFN2TsoQ-GkQ3gNLEd/view?usp=sharing">(Slides)</a></td>
-      <td>(Attendance Optional) <a href="https://us.prairielearn.com/pl/course_instance/221549/assessment/2705226">Quiz 2 Practice: Recursion</a>
+      <td>(Attendance Optional) <a href="https://us.prairielearn.com/pl/course_instance/221549/assessment/2705226">Quiz 2 Practice: Recursion</a> <a href="https://docs.google.com/document/d/1LC4WFUQVHenkDckCHUAhkPBzN4n28ONWYk_e5JaRBn8/edit?usp=sharing">(Solutions)</a>
       <br/><a href="https://www.gradescope.com/courses/1329547/assignments/8254726">Algorthmic Complexity (Conceptual)</a></td>
       <td>Discussion 7</td>
       <td></td>
