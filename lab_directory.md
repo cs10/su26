@@ -34,7 +34,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 10. FUN Data Science](/su26/labs/lab10) | Tue 7/14 | Wed 7/15 |
 | [Quiz 2 Review: Pre Quiz 1, HOFs, Nested Lists](https://docs.google.com/document/d/17L16FRSGLQS_zGU7w3wojzbrk7c4N3iyjIXvbDbjlJM/edit?usp=sharing) | Wed 7/15 | Thu 7/16 |
 | (Attendance Optional) [Quiz 2 Review: Recursion](https://us.prairielearn.com/pl/course_instance/221549/assessment/2705226), [Algorithmic Complexity (Conceptual)](https://www.gradescope.com/courses/1329547/assignments/8254726)| Thu 7/16 | Mon 7/20 |
-| Lab 11. Python Setup + Intro Python | Mon 7/20 | Tue 7/21 |
+| [Lab 11. Python Setup + Intro Python](/su26/labs/lab11) | Mon 7/20 | Tue 7/21 |
 | Lab 12. Welcome to Python! | Tue 7/21 | Wed 7/22 |
 | Lab 13. Lists and Mutability | Wed 7/22 | Thu 7/23 |
 | Lab 14. Data Structures | Thu 7/23 | Mon 7/27 |
