@@ -298,7 +298,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
-      <td>Lab 12. Welcome to Python!</td>
+      <td><a href="https://cs10.org/su26/labs/lab12/">Lab 12. Welcome to Python!</a></td>
       <td>Discussion 8</td>
       <td>Project 4 Released</td>
     </tr>
