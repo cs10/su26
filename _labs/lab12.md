@@ -1,12 +1,12 @@
 ---
-title: "Lab 11"
+title: "Lab 12"
 description: "Welcome To Python"
-due: "Tuesday, July 21st, 11:59PM"
+due: "Wednesday, July 22nd, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 11: Welcome To Python
+# Lab 12: Welcome To Python
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab.
