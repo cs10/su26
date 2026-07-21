@@ -36,13 +36,13 @@ nav_order: 6
       <td>Wednesday, 7/8</td>
     </tr>
      <tr>
-      <td><a href="/su25/projects/project3">Project 3: 2048</a></td>
+      <td><a href="/su26/projects/project3">Project 3: 2048</a></td>
       <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
       <td>Thursday, 7/9</td>
       <td>Monday, 7/20</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su25/projects/project4"> -->Project 4: Tech in Context<!-- </a> --></td>
+      <td><!-- <a href="/su26/projects/project4"> -->Project 4: Tech in Context<!-- </a> --></td>
       <td><!-- <a href="https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM"> -->Example Projects<!-- </a> --></td>
       <td>Tuesday, 7/21</td>
       <td>Monday, 8/3</td>
@@ -55,12 +55,12 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 4: Feedback + Comments</td>
-      <td><!-- <a href="/su25/projects/project4"> -->Example Feedback + Comments<!-- </a> --></td>
+      <td><!-- <a href="/su26/projects/project4"> -->Example Feedback + Comments<!-- </a> --></td>
       <td>Tuesday, 8/4</td>
       <td>Friday, 8/7</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su25/projects/project6-proposals"> -->Project 5: Proposals<!-- </a> --></td>
+      <td><!-- <a href="/su26/projects/project6-proposals"> -->Project 5: Proposals<!-- </a> --></td>
       <td>-</td>
       <td>Friday, 7/24</td>
       <td>Monday, 8/3</td>
@@ -72,7 +72,7 @@ nav_order: 6
       <td>Wednesday and Thursday, 8/5-8/6</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su25/projects/project6-project"> -->Project 5: Final Project<!-- </a> --></td>
+      <td><!-- <a href="/su26/projects/project6-project"> -->Project 5: Final Project<!-- </a> --></td>
       <td>-</td>
       <td>Wednesday, 8/5 (earliest)<br/>Only start once your project has been approved</td>
       <td>Thursday, 8/13</td>
