@@ -89,7 +89,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
       <td>Discussion 8</td>
       <td>Tue 7/21</td>
       <td>Intro to Python</td>
-      <td>Worksheet 8<!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a> --></td>
+      <td><a href="https://docs.google.com/document/d/19rEMehQhNsmtTTU6IRvqpnRQh8VkP3Cb/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 8</a><!-- <a href="https://drive.google.com/drive/folders/1osIvSuPFZhXbyocXUDNaw1fhM3VSW5sE?usp=drive_link">Worksheet 9</a> --></td>
       <td>Annotations 8<!-- <a href="https://docs.google.com/presentation/d/1mpCMhSejeUjYB6M9Cp6x31Xdm3aAmhhh8MNSwvTc3_g/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 9</a> --></td>
     </tr>
     <tr>
