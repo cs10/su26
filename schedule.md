@@ -308,7 +308,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/153A_W03Eairr_pWKPIpXoBOBJmBz9t78/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 13. Lists and Mutability</td>
+      <td><a href="https://cs10.org/su26/labs/lab13/">Lab 13. Lists and Mutability</a></td>
       <td></td>
       <td></td>
     </tr>
