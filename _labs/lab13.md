@@ -21,7 +21,7 @@ You will need to complete **Exercises 1-5** and submit this to Gradescope.
 - To receive full credit, you will need to complete the required functions, and the required functions must pass all tests from the autograder in Gradescope.
   - Note that optional exercises are included in the Gradescope autograder but do not count towards credit. See below for example.
   - ![gradescope optional example]({{ site.baseurl }}/assets/images/lab_images/lab16_1.png)
-- Note that you only have **6 functions** to complete for full credit on Lab 16
+- Note that you only have **6 functions** to complete for full credit on Lab 13
   - Other functions on file are optional
 - For instructions on how to submit to labs to Gradescope, [please see this document.](https://docs.google.com/document/d/1vxyKrzmPNklv7zd1Ya0Z95jlFgaWlUgqBy0l0CtowZk/edit?usp=sharing)
 
