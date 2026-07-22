@@ -36,7 +36,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | (Attendance Optional) [Quiz 2 Review: Recursion](https://us.prairielearn.com/pl/course_instance/221549/assessment/2705226) [(Solutions)](https://docs.google.com/document/d/1LC4WFUQVHenkDckCHUAhkPBzN4n28ONWYk_e5JaRBn8/edit?usp=sharing), [Algorithmic Complexity (Conceptual)](https://www.gradescope.com/courses/1329547/assignments/8254726)| Thu 7/16 | Mon 7/20 |
 | [Lab 11. Python Setup + Intro Python](https://docs.google.com/document/d/1vTrssohR7syDN0pfPlHjvT_sJTgJ5gRLZb8RQx9uEso/edit?usp=sharing) | Mon 7/20 | Tue 7/21 |
 | [Lab 12. Welcome to Python!](/su26/labs/lab12) | Tue 7/21 | Wed 7/22 |
-| Lab 13. Lists and Mutability | Wed 7/22 | Thu 7/23 |
+| [Lab 13. Lists and Mutability](/su26/labs/lab13) | Wed 7/22 | Thu 7/23 |
 | Lab 14. Data Structures | Thu 7/23 | Mon 7/27 |
 | Lab 15. Text Processing | Mon 7/27 | Tue 7/28 |
 | Lab 16. Object Oriented Programming | Tue 7/28 | Wed 7/29 |
