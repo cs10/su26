@@ -317,7 +317,7 @@
       <td>Thu 7/23</td>
       <td>Quiz 2 Review
       </td>
-      <td>Lab 14. Data Structures</td>
+      <td><a href="https://cs10.org/su26/labs/lab14/">Lab 14. Data Structures</a></td>
       <td>Discussion 9</td>
       <td></td>
     </tr>
