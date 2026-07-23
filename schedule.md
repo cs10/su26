@@ -12,7 +12,7 @@
 </style>
 
 <p>
-    <a href="#week4">Jump to Current Week</a>
+    <a href="#week5">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 | 6/22 – 6/26 -->
@@ -158,6 +158,7 @@
       <td>Mon 7/6</td>
       <td>Lec 8. Nested Lists + Functional Recursion
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+          (No Slides)
         <!-- <a href="SLIDES_URL">(Slides)</a> -->
       </td>
       <td><a href="https://cs10.org/su26/labs/lab05/">Lab 5. HOFs and Functions as Data</a></td>
@@ -314,9 +315,7 @@
     </tr>
     <tr>
       <td>Thu 7/23</td>
-      <td>Lec 19. Gen AI
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
+      <td>Quiz 2 Review
       </td>
       <td>Lab 14. Data Structures</td>
       <td>Discussion 9</td>
@@ -348,9 +347,9 @@
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 6</td>
       <td>Mon 7/27</td>
-      <td>Lec 20. Ethics in AI
+      <td>Lec 19. Gen AI
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 15. Text Processing</td>
       <td></td>
@@ -358,9 +357,9 @@
     </tr>
     <tr>
       <td>Tue 7/28</td>
-      <td>Lec 21. Python III - Game Theory
+      <td>Lec 20. Ethics in AI
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 16. Object Oriented Programming</td>
       <td>Discussion 10</td>
@@ -368,9 +367,9 @@
     </tr>
     <tr>
       <td>Wed 7/29</td>
-      <td>Lec 22. Python IV – OOP
-        <br/>(No Video) 
-        (No Slides)
+      <td>Lec 21. Python III - Game Theory
+        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
       </td>
       <td>Lab 17. Python Linear Recursion</td>
       <td></td>
@@ -378,7 +377,9 @@
     </tr>
     <tr>
       <td>Thu 7/30</td>
-      <td>Quiz 3 Questions</td>
+      <td>Lec 22. Python IV – OOP
+        <br/>(No Video) 
+        (No Slides)</td>
       <td>Quiz 3 Practice</td>
       <td>Discussion 11</td>
       <td></td>
@@ -419,9 +420,7 @@
     </tr>
     <tr>
       <td>Tue 8/4</td>
-      <td>Lec 23. Finale + Farewell
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
+      <td>Quiz 3 Questions
       </td>
       <td>Lab 19. Concurrency</td>
       <td>Discussion 12: Project 4 Presentations</td>
@@ -429,7 +428,10 @@
     </tr>
     <tr>
       <td>Wed 8/5</td>
-      <td>No Lecture</td>
+      <td>Lec 23. Finale + Farewell
+        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
+      </td>
       <td>Final Project Proposal Meetings</td>
       <td></td>
       <td></td>
