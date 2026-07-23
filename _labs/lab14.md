@@ -1,7 +1,7 @@
 ---
 title: "Lab 14"
 description: "Data Structures in Python"
-due: "Mondayy, July 27th, 11:59PM"
+due: "Monday, July 27th, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
