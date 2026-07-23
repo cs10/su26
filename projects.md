@@ -42,8 +42,8 @@ nav_order: 6
       <td>Monday, 7/20</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su26/projects/project4"> -->Project 4: Tech in Context<!-- </a> --></td>
-      <td><!-- <a href="https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM"> -->Example Projects<!-- </a> --></td>
+      <td><a href="/su26/projects/project4">Project 4: Tech in Context</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1UUBa6o1IGNu2VKBAQQS14p2CDwHezNkM">Example Projects</a></td>
       <td>Tuesday, 7/21</td>
       <td>Monday, 8/3</td>
     </tr>
