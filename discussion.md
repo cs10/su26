@@ -95,7 +95,7 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 9</td>
       <td>Thu 7/23</td>
-      <td>Python Practice and Data Structures</td>
+      <td>Quiz 2 Practice II</td>
       <td>Worksheet 9<!-- <a href="https://drive.google.com/drive/folders/17Fgscj_4MIcwcMNW9-ctEtS9a01DPHWN?usp=sharing">Worksheet 10</a> --></td>
       <td>Annotations 9<!-- <a href="https://docs.google.com/presentation/d/1t7gbEcSQ9VOblbjpKUH192KtxgTDZBkRfjpj3wmpRB4/edit?slide=id.g36f737a5727_0_0#slide=id.g36f737a5727_0_0">Annotations 10</a> --></td>
     </tr>
