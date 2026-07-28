@@ -351,7 +351,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 15. Text Processing</td>
+      <td><a href="https://cs10.org/su26/labs/lab14/">Lab 15. Text Processing</a></td>
       <td></td>
       <td></td>
     </tr>
