@@ -1,12 +1,12 @@
 ---
-title: "Lab 13"
+title: "Lab 16"
 description: "OOP in Snap!"
-due:
+due: Wednesday, July 29
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 13: OOP in Snap! (Optional)
+# Lab 16: OOP in Snap!
 
 ## Instructions
 - There is no workbook for this lab.
