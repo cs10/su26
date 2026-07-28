@@ -18,8 +18,10 @@ nav_order: 1
 UC Berkeley, Summer 2026
 
 {{ site.description }}
-## Announcements, Tuesday 7/14
-- Read [Weekly Blast 4 🦕🦕](https://edstem.org/us/courses/99923/discussion/8163855)
+## Announcements, Monday 7/27
+- Congratulations on completing Quiz 2! Scores will be released soon.
+- Quiz 2 Retake will occur on Friday, 7/31, from 3-6 PM in Cory 540AB
+- Project 4 has been released and will be due on Monday, 8/3, at 11:59 PM
 
 **Instructor:** [Della Dastur](staff/#della-dastur)  
 **Office Hours:** Mon Wed @ 5:00–6:00 PM in Cory 540AB  
