@@ -6,9 +6,10 @@ gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 16: OOP in Snap!
+# Lab 16: OOP in Snap! (In Person Checkoff)
 
 ## Instructions
+- **To get credit for this lab, you will need to get checked off by a TA/USC1 or Academic Intern**
 - There is no workbook for this lab.
 - [Here is an optional starter file](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%2013%3a%20Starter%20%28OOP%20in%20Snap%21%29&editMode&noRun). You are not required to use it, but you can!
 
@@ -93,3 +94,4 @@ Make the sprite "faint" or make a funny sound after it's been hit too many times
 - **Add special effects**: Use sounds, colors, or animations when shooting water balloons or when the target is hit.
 
 ---
+**Remember to get checked off by a TA/USC1 or Academic Intern!**
