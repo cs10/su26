@@ -39,7 +39,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 13. Lists and Mutability](/su26/labs/lab13) | Wed 7/22 | Thu 7/23 |
 | [Lab 14. Data Structures](/su26/labs/lab14) | Thu 7/23 | Mon 7/27 |
 | [Lab 15. Text Processing](/su26/labs/lab15) | Mon 7/27 | Tue 7/28 |
-| Lab 16. Object Oriented Programming | Tue 7/28 | Wed 7/29 |
+| [Lab 16. Object Oriented Programming](/su26/labs/lab16) | Tue 7/28 | Wed 7/29 |
 | Lab 17. Python Linear Recursion | Wed 7/29 | Mon 8/3 |
 | Lab 18. Tree Recursion | Mon 8/3 | Tue 8/4 |
 | Lab 19. Concurrency | Tue 8/4 | Wed 8/5 |
