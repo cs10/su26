@@ -349,7 +349,7 @@
       <td>Mon 7/27</td>
       <td>Lec 19. Gen AI
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1fVpO72lzYysPomGYF1yVTLRSuGw235V_/view?usp=sharing">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab15/">Lab 15. Text Processing</a></td>
       <td></td>
