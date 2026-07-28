@@ -361,7 +361,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
       </td>
-      <td><a href="https://cs10.org/su26/labs/lab16/">Lab 16. Object Oriented Programming</a></td>
+      <td><a href="https://docs.google.com/document/d/1Bfe0TW-4oDCh55BtDKA_ZUas8j-fixttgERVbhHG-W0/edit?usp=sharing">Lab 16. Object Oriented Programming</a></td>
       <td>Discussion 10</td>
       <td>Final Project Released</td>
     </tr>
