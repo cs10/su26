@@ -12,7 +12,7 @@
 </style>
 
 <p>
-    <a href="#week5">Jump to Current Week</a>
+    <a href="#week6">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 | 6/22 – 6/26 -->
@@ -349,9 +349,9 @@
       <td>Mon 7/27</td>
       <td>Lec 19. Gen AI
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1_iBuAA1QnJ0YiFf0O4e1KshUOcXiR6Hl/view?usp=sharing">(Slides)</a>
+        <a href="https://drive.google.com/file/d/1fVpO72lzYysPomGYF1yVTLRSuGw235V_/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 15. Text Processing</td>
+      <td><a href="https://cs10.org/su26/labs/lab15/">Lab 15. Text Processing</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -361,7 +361,7 @@
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1SIQ9U-89mb7nkHORpfPq634YUhu3qreP/view?usp=sharing">(Slides)</a>
       </td>
-      <td>Lab 16. Object Oriented Programming</td>
+      <td><a href="https://docs.google.com/document/d/1Bfe0TW-4oDCh55BtDKA_ZUas8j-fixttgERVbhHG-W0/edit?usp=sharing">Lab 16. Object Oriented Programming</a></td>
       <td>Discussion 10</td>
       <td>Final Project Released</td>
     </tr>
