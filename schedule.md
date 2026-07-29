@@ -367,7 +367,8 @@
     </tr>
     <tr>
       <td>Wed 7/29</td>
-      <td>Lec 21. Python III - Game Theory
+      <td>Watch Recording: "Saving the World with Computing (Dr. Kathy Yelick)"
+        <br/><i>No in-person lecture</i>
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
       </td>
