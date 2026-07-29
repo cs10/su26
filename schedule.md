@@ -370,7 +370,7 @@
       <td>Watch Recording: "Saving the World with Computing (Dr. Kathy Yelick)"
         <br/><i>No in-person lecture</i>
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1hsnbOrKAP-gKYvlNpT97TET-f-2GmF3t/view?usp=sharing">(Slides)</a>
+        <a href="https://tinyurl.com/savingtheworldwithcomputing">(Slides)</a>
       </td>
       <td><a href="https://cs10.org/su26/labs/lab17/">Lab 17. Python Linear Recursion</a></td>
       <td></td>
