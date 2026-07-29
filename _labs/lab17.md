@@ -1,12 +1,12 @@
 ---
-title: "Lab 18"
+title: "Lab 17"
 description: "Linear Recursion in Python"
-due: "Thursday, April 23rd, 11:59PM"
+due: "Thursday, July 30th, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 18: Linear Recursion in Python
+# Lab 17: Linear Recursion in Python
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab. 
