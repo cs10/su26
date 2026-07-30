@@ -357,7 +357,7 @@
     </tr>
     <tr>
       <td>Tue 7/28</td>
-      <td>Lec 20. Ethics in AI
+      <td>Lec 20. Ethics in AI & Python OOP
         <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
         <a href="https://drive.google.com/file/d/1NeER32EB6dI3W04YG4Db_MAbMxzJ8i8G/view?usp=sharing">(Slides)</a>
       </td>
@@ -378,7 +378,7 @@
     </tr>
     <tr>
       <td>Thu 7/30</td>
-      <td>Lec 22. Python IV – OOP
+      <td>Lec 22. Python III - Game Theory
         <br/>(No Video) 
         (No Slides)</td>
       <td>Quiz 3 Practice</td>
