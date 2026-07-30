@@ -42,6 +42,8 @@ course_department: dsus
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
 class_archive_path: /
+# Custom Variables
+
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
