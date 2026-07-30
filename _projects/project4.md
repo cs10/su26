@@ -28,9 +28,11 @@ submission_files:
 [III. Project 4 Timeline](#project-4-timeline)
 [IV. AI and Generative Tool Guidelines](#ai-and-generative-tool-guidelines)
 V. Content Guidelines
-    * a. [Part 1: The Artifact and Documentation](#part-1-the-artifact-and-documentation)
-    * b. [Part 2: Group Presentation + Peer Feedback](#part-2-group-presentation--peer-feedback)
-    * c. [Part 3: Peer Reflection/Comments](#part-3-peer-reflectioncomments)
+<div style="margin-left: 20px;">
+    a. [Part 1: The Artifact and Documentation](#part-1-the-artifact-and-documentation)<br>
+    b. [Part 2: Group Presentation + Peer Feedback](#part-2-group-presentation--peer-feedback)<br>
+    c. [Part 3: Peer Reflection/Comments](#part-3-peer-reflectioncomments)
+</div>
 [VI. Feedback Form](#feedback-form)
 [VII. Rubric & Grading](#rubric--grading)
 
