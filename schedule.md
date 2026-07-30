@@ -381,7 +381,7 @@
       <td>Lec 22. Python III - Game Theory
         <br/>(No Video) 
         (No Slides)</td>
-      <td>Quiz 3 Practice</td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/221549/assessment/2705228">Quiz 3 Practice</a></td>
       <td>Discussion 11</td>
       <td></td>
     </tr>
