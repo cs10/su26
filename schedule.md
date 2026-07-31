@@ -378,9 +378,11 @@
     </tr>
     <tr>
       <td>Thu 7/30</td>
-      <td>Lec 22. Python III - Game Theory
-        <br/>(No Video) 
-        (No Slides)</td>
+      <td>Watch Recording: "Tree Recursion + Game Theory"
+        <br/><i>No in-person lecture</i>
+        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/drive/u/0/folders/17GcLVgPDtacDOrcVoCca9DkWHxYhP6Jr">(Slides)</a>
+      </td>
       <td><a href="https://docs.google.com/document/d/1y8IYbNL4gAQw6U1owKt7b_v7U0nk7C_5n5ItHBOekQ0/edit?usp=sharing">Quiz 3 Practice</a></td>
       <td>Discussion 11</td>
       <td></td>
