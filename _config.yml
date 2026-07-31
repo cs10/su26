@@ -49,7 +49,7 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org/us/courses/99923/discussion'
+    - 'https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion'
   Snap!:
     - 'https://snap.berkeley.edu/run'
   Gradescope:
