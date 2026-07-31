@@ -109,8 +109,8 @@ This page will be updated with discussion Worksheets and Annotations throughout 
     <tr>
       <td>Discussion 11</td>
       <td>Thu 7/30</td>
-      <td>Recursion + Quiz 3 Practice</td>
-      <td>Worksheet 11<!-- <a href="https://drive.google.com/drive/folders/1kOPZLkXyrhAO5t0t-IK0yXbDRU8jtgKw?usp=sharing">Worksheet 12</a> --></td>
+      <td>Quiz 3 Practice (coding)</td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/221549/assessment/2705228">Link to PL</a></td>
       <td>Annotations 11<!-- <a href="https://docs.google.com/presentation/d/1is7_RBMoaBBXal7skI8HmR91DaJFgUdDJes9wdbgsmA/edit?slide=id.g37268d2a369_0_63#slide=id.g37268d2a369_0_63">Annotations 12</a> --></td>
     </tr>
     <tr>
