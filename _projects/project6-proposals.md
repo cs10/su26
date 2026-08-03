@@ -1,7 +1,7 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 8/3"
+due: "Before your Final Project Proposal Meeting (Wednesday OR Thursday, 8/5-8/6)"
 gradescope_assignment_id: 8254655
 submission_files:
     - N/A
