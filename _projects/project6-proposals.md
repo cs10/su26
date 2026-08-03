@@ -11,16 +11,16 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-**[Sign up for a 10-minute Project 5 Proposal Meeting HERE](https://calendar.app.google/wB8NA3KBW1jGhodq9)**
+**[Sign up for a 10-minute Project 5 Proposal Meeting HERE](https://docs.google.com/spreadsheets/d/1tzgl45--TRpqgruj2zhV1YhEaHJSNGR0xOwnXp67kMU/edit?usp=sharing)**
 
 - Meeting with a Staff Member
-    - Before meeting with a staff member, you must submit your proposal.
-    - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Summer 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up](https://calendar.app.google/wB8NA3KBW1jGhodq9)
-    - Meetings will run at specific times during Week 7 (August 3rd through August 7th)
+    - Before meeting with a staff member, you must submit your proposal. Your proposal is due anytime before your meeting session.
+    - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Summer 2026 semester, you must attend the meeting in person, during lab. At least one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
+        - Click here for the [link to sign up](https://docs.google.com/spreadsheets/d/1tzgl45--TRpqgruj2zhV1YhEaHJSNGR0xOwnXp67kMU/edit?usp=sharing)
+    - Meetings will run during Week 7 during lab sessions (August 5th and August 6th)
     - 1 or more attendees required (not all group members need to be present)
-- Sign-up is due by 11:59 PM PST on Monday, 8/3, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
-- If you cannot attend any of the available sign-up slots or if all slots are full, please post on Ed as soon as possible so we can make further arrangements.
+- Sign-up is due before your Final Project Proposal Meeting, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
+- If all slots are full, or you have an unavoidable conflict, please make an Ed post about it as soon as possible so we can make further arrangements.
 
 
 ## Content
@@ -28,18 +28,19 @@ submission_files:
 [I. Important logistics](#important-logistics)
 [II. Introduction](#introduction)
 [III. Complexity Guidelines](#complexity-guidelines)
-[IV. Required Features](#required-features)
-[V. Proposal Contents](#proposal-contents)
-[VI. Submission Guidelines](#submission-guidelines)
-[VII. Proposal Review: What to Expect](#proposal-review-what-to-expect)
+[IV. Technical Requirements](#technical-requirements)
+[V. Required Features](#required-features)
+[VI. Proposal Contents](#proposal-contents)
+[VII. Submission Guidelines](#submission-guidelines)
+[VIII. Proposal Review: What to Expect](#proposal-review-what-to-expect)
 
 ## Important logistics
 
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 7 in Cory 540AB or online (will be specified in sign-up). To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.app.google/wB8NA3KBW1jGhodq9).
+- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Wednesday and Thursday of Week 7 in Cory 540AB. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://docs.google.com/spreadsheets/d/1tzgl45--TRpqgruj2zhV1YhEaHJSNGR0xOwnXp67kMU/edit?usp=sharing).
 - You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Monday, 8/3 at 11:59pm PST. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
-- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
-- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 8/3, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
+- The deadline for this proposal part of the project is before your Final Project Proposal Meeting. Please ensure that you submit your proposal before the deadline and before your meeting. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
+- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on the Google Sheet. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
+- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us before your Final Project Proposal Meeting, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
 
 ## Introduction
 
@@ -146,7 +147,7 @@ Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p
 
 ## Submission Guidelines
 
-By Monday, August 3rd 11:59pm PST, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+Before your Final Project Proposal Meeting, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
 
