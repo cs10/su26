@@ -12,7 +12,7 @@
 </style>
 
 <p>
-    <a href="#week6">Jump to Current Week</a>
+    <a href="#week7">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 | 6/22 – 6/26 -->
@@ -419,21 +419,19 @@
       </td>
       <td><a href="https://docs.google.com/document/d/1OBT1mYM8m8spR2xJJkA1TEKLQAFcH99Tp8XZW5hgzWI/edit?usp=sharing">Lab 18. Tree Recursion</a></td>
       <td></td>
-      <td>Project 4 Due<br/>Final Project Proposals Due</td>
+      <td>Project 4 Due<br/>Final Project Proposals Released</td>
     </tr>
     <tr>
       <td>Tue 8/4</td>
-      <td>Quiz 3 Questions
+      <td>No Lecture
       </td>
-      <td>Lab 19. Concurrency</td>
+      <td>Lab 19. Concurrency + Final Project Proposal Work Session</td>
       <td>Discussion 12: Project 4 Presentations</td>
       <td></td>
     </tr>
     <tr>
       <td>Wed 8/5</td>
-      <td>Lec 23. Finale + Farewell
-        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
-        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a>
+      <td>Final Exam Review
       </td>
       <td>Final Project Proposal Meetings</td>
       <td></td>
@@ -441,7 +439,9 @@
     </tr>
     <tr>
       <td>Thu 8/6</td>
-      <td>No Lecture</td>
+      <td>Lec 23. Finale + Farewell
+        <br/><a href="https://bcourses.berkeley.edu/courses/1555435/external_tools/90481">(Video)</a>
+        <a href="https://drive.google.com/file/d/1HxdGEefXzcIS7OQEtDO7b5frvBmtDAjB/view?usp=sharing">(Slides)</a></td>
       <td>Final Project Proposal Meetings</td>
       <td>No Discussion</td>
       <td></td>
