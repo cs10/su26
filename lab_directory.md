@@ -42,7 +42,9 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 16. Object Oriented Programming](https://docs.google.com/document/d/1Bfe0TW-4oDCh55BtDKA_ZUas8j-fixttgERVbhHG-W0/edit?usp=sharing) | Tue 7/28 | Wed 7/29 |
 | [Lab 17. Python Linear Recursion](/su26/labs/lab17) | Wed 7/29 | Mon 8/3 |
 | [Quiz 3 Practice](https://docs.google.com/document/d/1y8IYbNL4gAQw6U1owKt7b_v7U0nk7C_5n5ItHBOekQ0/edit?usp=sharing) | Thur 7/30 |
-| Lab 18. Tree Recursion | Mon 8/3 | Tue 8/4 |
-| Lab 19. Concurrency | Tue 8/4 | Wed 8/5 |
+| [Lab 18. Tree Recursion in Python](https://docs.google.com/document/d/1UKUfz8Pqv-Erhqwp2XVfwIz4flsuUOjHKZRe2UMQxPI/edit?usp=sharing) | Mon 8/3 | Tue 8/4 |
+| Lab 19. Concurrency (conceptual only) | Tue 8/4 | Wed 8/5 |
+| Final Project Proposal Meetings | Wed 8/5 | |
+| Final Project Proposal Meetings | Thu 8/6 | |
 
 *Labs and due dates are subject to change.*
