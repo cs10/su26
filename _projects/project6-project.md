@@ -7,7 +7,7 @@ submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2025-11-03.*
+*Version 1.1. Last Updated: 2026-8-03.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
@@ -18,8 +18,8 @@ submission_files:
 >>README / documentation on your project
 >>Video of your group interacting with your project
 
->Project 5 Parties (TBD)
->>TBD
+>Project 5 Parties
+>>During regular lab times: 8/10/26, 8/11/26, 8/12/26, 6-8 PM at Cory 540AB
 
 ## Content
 
@@ -87,7 +87,7 @@ The template (including instructions) for the final project README can be found 
 
 **[Optional] Bug Writeup**: Sometimes, despite your best efforts, the project deadline rolls around and you’ve still got a bug big enough that one or more of your features isn’t working correctly. This happens in industry as well — think about app updates you’ve downloaded! 
 
-Not to fret, you can earn back up to 75% of the points originally lost for a non-functional feature with a thorough write-up. (Points given will depend on the size of the bug; this is meant to limit the points penalty for not implementing a bug-free project feature.) 
+Not to fret, you can earn back some of the points lost to a bug with a thorough write-up: up to 2 of the 3 points lost for a major bug, or the full point lost for a minor bug. (Points given will depend on the size of the bug; this is meant to limit the points penalty for not implementing a bug-free project feature.) 
 
 Here’s an [example](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?tab=t.0) of what we’re looking for in a bug writeup, based on a function you wrote for the OOP lab.
 

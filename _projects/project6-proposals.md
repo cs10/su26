@@ -7,7 +7,7 @@ submission_files:
     - N/A
 ---
 
-*Version 1.1. Last Updated: 2026-04-03.*
+*Version 1.1. Last Updated: 2026-08-03.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
