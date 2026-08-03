@@ -425,7 +425,8 @@
       <td>Tue 8/4</td>
       <td>No Lecture
       </td>
-      <td>Lab 19. Concurrency + Final Project Proposal Work Session</td>
+      <td>Lab 19. Concurrency
+      <br>Final Project Proposal Work Session</td>
       <td>Discussion 12: Project 4 Presentations</td>
       <td></td>
     </tr>
