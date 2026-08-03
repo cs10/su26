@@ -60,7 +60,7 @@ nav_order: 6
       <td>Friday, 8/7</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su26/projects/project6-proposals"> -->Project 5: Proposals<!-- </a> --></td>
+      <td><a href="/su26/projects/project6-proposals">Project 5: Proposals</a></td>
       <td>-</td>
       <td>Monday, 8/3</td>
       <td>Wednesday OR Thursday, 8/5-8/6</td>
