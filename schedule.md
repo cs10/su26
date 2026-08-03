@@ -417,7 +417,7 @@
         <br/>(No Video) 
         (No Slides)
       </td>
-      <td>Lab 18. Tree Recursion</td>
+      <td><a href="https://docs.google.com/document/d/1OBT1mYM8m8spR2xJJkA1TEKLQAFcH99Tp8XZW5hgzWI/edit?usp=sharing">Lab 18. Tree Recursion</a></td>
       <td></td>
       <td>Project 4 Due<br/>Final Project Proposals Due</td>
     </tr>
