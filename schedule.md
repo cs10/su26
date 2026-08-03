@@ -414,7 +414,7 @@
       <td class="schedule-week-num" rowspan="5">Week 7</td>
       <td>Mon 8/3</td>
       <td>Guest Speaker
-        <br/>(No Video) 
+        <br/><a href="https://berkeley.zoom.us/j/96005018254">(Zoom Link)</a>
         (No Slides)
       </td>
       <td><a href="https://docs.google.com/document/d/1OBT1mYM8m8spR2xJJkA1TEKLQAFcH99Tp8XZW5hgzWI/edit?usp=sharing">Lab 18. Tree Recursion</a></td>
