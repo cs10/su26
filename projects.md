@@ -72,7 +72,7 @@ nav_order: 6
       <td>Wednesday and Thursday, 8/5-8/6</td>
     </tr>
     <tr>
-      <td><!-- <a href="/su26/projects/project6-project"> -->Project 5: Final Project<!-- </a> --></td>
+      <td><a href="/su26/projects/project6-project">Project 5: Final Project</a></td>
       <td>-</td>
       <td>Wednesday, 8/5 (earliest)<br/>Only start once your project has been approved</td>
       <td>Thursday, 8/13</td>
