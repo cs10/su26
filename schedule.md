@@ -419,7 +419,8 @@
       </td>
       <td><a href="https://docs.google.com/document/d/1OBT1mYM8m8spR2xJJkA1TEKLQAFcH99Tp8XZW5hgzWI/edit?usp=sharing">Lab 18. Tree Recursion</a></td>
       <td></td>
-      <td>Project 4 Due<br/>Final Project Proposals Released</td>
+      <td>Project 4 Due<br/><a href="/su26/projects/project6-proposals">Final Project Proposals Released</a>
+        <a href="https://docs.google.com/spreadsheets/d/1tzgl45--TRpqgruj2zhV1YhEaHJSNGR0xOwnXp67kMU/edit?gid=0#gid=0">(Sign up)</a></td>
     </tr>
     <tr>
       <td>Tue 8/4</td>
@@ -427,7 +428,8 @@
       </td>
       <td>Lab 19. Concurrency
       <br>Final Project Proposal Work Session</td>
-      <td>Discussion 12: Project 4 Presentations</td>
+      <td>Discussion 12: Project 4 Presentations
+        <a href="https://docs.google.com/spreadsheets/d/1TRc66hMkttvcJVTZlAcErkxGYNz1TMHMSkkmDlrm2_E/edit?usp=sharing">(Sign up)</a></td>
       <td></td>
     </tr>
     <tr>
