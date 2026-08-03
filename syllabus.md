@@ -42,10 +42,10 @@ We’re really excited to have you on board with us this semester for a gentle, 
 This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported. However, there are make-up options for lecture, lab, and discussion attendance. 
 
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su26/) to find the times/locations for all synchronous course engagements.
-* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/99923/discussion)
-* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1329547).
-* **bCourses**: We will use bCourses solely for pre-recorded lecture videos. This semester follows a "flipped classroom" format, i.e., you watch pre-recorded videos from Professor Dan Garcia before class, and we use lecture time for hands-on practice, which won't be recorded. All videos are available on [the bCourses site](https://bcourses.berkeley.edu/courses/1555435), and individual videos are also linked in the course schedule. Note that video numbering and titles may not match exactly. You must be logged into your Berkeley account to access them. Videos are located under the **Media Gallery** tab.
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule]({{ site.url }}{{ site.baseurl }}) to find the times/locations for all synchronous course engagements.
+* **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem]({{ site.aux_links.Ed[0] }})
+* **Gradescope**: This is where you will submit Labs, Discussions, and Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope]({{ site.aux_links.Gradescope[0] }}).
+* **bCourses**: We will use bCourses solely for pre-recorded lecture videos. This semester follows a "flipped classroom" format, i.e., you watch pre-recorded videos from Professor Dan Garcia before class, and we use lecture time for hands-on practice, which won't be recorded. All videos are available on [the bCourses site](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}), and individual videos are also linked in the course schedule. Note that video numbering and titles may not match exactly. You must be logged into your Berkeley account to access them. Videos are located under the **Media Gallery** tab.
 * **Snap!**: The programming language we will be using for more than half the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/)
 <!-- * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign-in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website. -->
 
@@ -61,7 +61,7 @@ For a summary of all attendance make-up options, see the [Attendance Make-Up Opt
 
 ### Lecture
 
-CS10 this semester follows a **flipped classroom** format. Before each class session, you are expected to watch pre-recorded lecture videos from Professor Dan Garcia, which are available on [bCourses](https://bcourses.berkeley.edu/courses/1555435) and linked in the course schedule. Live class time in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00–5:00 PM is used for hands-on practice and will **not** be recorded.
+CS10 this semester follows a **flipped classroom** format. Before each class session, you are expected to watch pre-recorded lecture videos from Professor Dan Garcia, which are available on [bCourses](https://bcourses.berkeley.edu/courses/{{ site.bcourses_course_id }}) and linked in the course schedule. Live class time in [Cory 540AB](https://esg.eecs.berkeley.edu/av-facilities-and-services-by-room/cory540/) Monday through Thursday from 4:00–5:00 PM is used for hands-on practice and will **not** be recorded.
 
 <b>Attendance is required, and credit for attending will be through a Google Form Check In.</b> If you cannot attend in person, you may submit the lecture quiz for that lecture on Gradescope instead. Lecture quizzes are due on the day of the next lecture, at 11:59 PM.
 
@@ -90,7 +90,7 @@ From experience, we've observed that students who regularly attend and pay atten
 
 ### Office Hours (OH) 
 
-There will be three kinds of OH, described below. Times and locations are listed under the [Calendar](https://cs10.org/su26/calendar/) tab on the course website. You may also add the CS10 Su26 Course Calendar to your Google Calendar for convenience. You <b>don't</b> need to email or make an appointment — you can attend any OH that works for you.
+There will be three kinds of OH, described below. Times and locations are listed under the [Calendar]({{ site.url }}{{ site.baseurl }}/calendar/) tab on the course website. You may also add the CS10 Su26 Course Calendar to your Google Calendar for convenience. You <b>don't</b> need to email or make an appointment — you can attend any OH that works for you.
 
 #### General OH
 
@@ -98,7 +98,7 @@ General OH is intended for any course and content related questions. Here, you c
 
 #### Support OH 
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out the [calendar](https://cs10.org/su26/calendar/) for locations and times.
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH. Please check out the [calendar]({{ site.url }}{{ site.baseurl }}/calendar/) for locations and times.
 
 #### Instructor OH 
 

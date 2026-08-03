@@ -21,6 +21,7 @@ author: Della Dastur
 # You should use either light or dark as the theme.
 color_scheme: light
 
+# {{ site.url }}{{ site.baseurl }} == 'http://cs10.org/su26'
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
 baseurl: '/su26' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
