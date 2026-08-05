@@ -43,7 +43,7 @@ Supplementary Lab Slides can be found in this [folder](http://tinyurl.com/su26-l
 | [Lab 17. Python Linear Recursion](/su26/labs/lab17) | Wed 7/29 | Mon 8/3 |
 | [Quiz 3 Practice](https://docs.google.com/document/d/1y8IYbNL4gAQw6U1owKt7b_v7U0nk7C_5n5ItHBOekQ0/edit?usp=sharing) | Thur 7/30 | |
 | [Lab 18. Tree Recursion in Python](https://docs.google.com/document/d/1UKUfz8Pqv-Erhqwp2XVfwIz4flsuUOjHKZRe2UMQxPI/edit?usp=sharing) | Mon 8/3 | Tue 8/4 |
-| Lab 19: Concurrency + Final Project Proposals Work Session | Tue 8/4 | Wed 8/5 |
+| [Lab 19: Concurrency + Final Project Proposals Work Session](https://cs10.org/bjc-r/cur/programming/concurrency/snap/snap-machine-concepts.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment) | Tue 8/4 | Wed 8/5 |
 | Final Project Proposal Meetings | Wed 8/5 | |
 | Final Project Proposal Meetings | Thu 8/6 | |
 

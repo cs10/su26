@@ -426,7 +426,7 @@
       <td>Tue 8/4</td>
       <td>No Lecture
       </td>
-      <td>Lab 19. Concurrency
+      <td><a href="https://cs10.org/bjc-r/cur/programming/concurrency/snap/snap-machine-concepts.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Lab 19. Concurrency</a>
       <br>Final Project Proposal Work Session</td>
       <td>Discussion 12: Project 4 Presentations
         <a href="https://docs.google.com/spreadsheets/d/1TRc66hMkttvcJVTZlAcErkxGYNz1TMHMSkkmDlrm2_E/edit?usp=sharing">(Sign up)</a></td>
