@@ -415,7 +415,7 @@
       <td>Mon 8/3</td>
       <td>Guest Speaker
         <br/><a href="https://berkeley.zoom.us/j/96005018254">(Zoom Link)</a>
-        <!--<a href="">(Slides)</a>-->(No Slides)
+        <a href="https://docs.google.com/presentation/d/1V4ZhkItnM8tR29O2UmQ_z0J4FyTvrYJfNNAifFJbeAA/edit?usp=sharing">(Slides)</a>
       </td>
       <td><a href="https://docs.google.com/document/d/1OBT1mYM8m8spR2xJJkA1TEKLQAFcH99Tp8XZW5hgzWI/edit?usp=sharing">Lab 18. Tree Recursion</a></td>
       <td></td>
