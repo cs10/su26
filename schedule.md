@@ -415,7 +415,7 @@
       <td>Mon 8/3</td>
       <td>Guest Speaker
         <br/><a href="https://berkeley.zoom.us/j/96005018254">(Zoom Link)</a>
-        (No Slides)
+        <!--<a href="">(Slides)</a>-->(No Slides)
       </td>
       <td><a href="https://docs.google.com/document/d/1OBT1mYM8m8spR2xJJkA1TEKLQAFcH99Tp8XZW5hgzWI/edit?usp=sharing">Lab 18. Tree Recursion</a></td>
       <td></td>
@@ -435,7 +435,8 @@
     <tr>
       <td>Wed 8/5</td>
       <td>Final Exam Review
-      </td>
+      <br><a href="https://docs.google.com/presentation/d/1UFIhIEvHXoGZElKXXk2YQuan6yVjwlbYMOCnOdpI3Fk/edit?usp=sharing">(Slides)</a>
+      </td> 
       <td>Final Project Proposal Meetings</td>
       <td></td>
       <td></td>
